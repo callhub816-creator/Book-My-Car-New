@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.bookmycar.live/</loc>
+    <loc>https://www.bookmycar.live/#/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -21,6 +21,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.bookmycar.live/#/privacy</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/#/terms</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/#/disclaimer</loc>
+    <priority>0.5</priority>
+  </url>
+  <!-- Active Blogs -->
+  <url>
     <loc>https://www.bookmycar.live/#/blog/delhi-jaipur-road-trip</loc>
     <priority>0.6</priority>
   </url>
@@ -37,7 +50,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/night-driving-survival-guide-india-2026</loc>
+    <loc>https://www.bookmycar.live/#/blog/night-driving-survival-guide-india</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -45,39 +58,11 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/monsoon-driving-horrors</loc>
+    <loc>https://www.bookmycar.live/#/blog/monsoon-driving-survival-guide-india</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/car-pickup-audit-raaj</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/#/blog/zoomcar-vs-revv-comparison-india-2026</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/#/blog/tyre-burst-prevention-highway-guide-2026</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/#/blog/dense-fog-driving-guide-india</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/#/blog/interstate-permit-guide</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/#/blog/mountain-driving-rules-raaj</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/#/blog/self-drive-permit-india-guide-raaj</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/#/blog/highway-speed-limits-india-fines-2026</loc>
+    <loc>https://www.bookmycar.live/#/blog/car-pickup-inspection-checklist-raaj</loc>
     <priority>0.6</priority>
   </url>
 </urlset>
