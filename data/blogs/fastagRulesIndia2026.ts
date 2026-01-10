@@ -8,7 +8,7 @@ const fastagRulesIndia2026: BlogPost = {
     'NHAI aur MoRTH ke naye FASTag rules 2026. Seekhiye kaise rental cars mein double toll penalty se bachein aur blacklist status check karein.',
   category: 'Highway Rules',
   author: 'Rajesh Navsagar',
-  date: '2026-01-05',
+  date: '2026-01-04',
   imageUrl: '/images/blogs/fastag-rules-india-2026.png',
   keywords: [
     'FASTag rules 2026',
