@@ -9,8 +9,8 @@ const Home: React.FC = () => {
   return (
     <div className="flex flex-col min-h-screen">
 
-      {/* ================= COMPACT PREMIUM HERO SECTION ================= */}
-      <section className="relative h-[80vh] md:h-[85vh] min-h-[550px] flex items-center overflow-hidden bg-black">
+      {/* ================= ULTRA-COMPACT HERO SECTION ================= */}
+      <section className="relative h-[calc(100vh-64px)] md:max-h-[600px] flex items-center overflow-hidden bg-black">
         {/* Background Image with optimized readability */}
         <div className="absolute inset-0 z-0">
           <img
@@ -26,37 +26,37 @@ const Home: React.FC = () => {
         <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full pt-6">
           <div className="max-w-3xl">
             {/* Compact Trust Badge */}
-            <div className="inline-flex items-center gap-2 bg-blue-600/30 backdrop-blur-md border border-blue-500/20 px-3 py-1 rounded-full text-[9px] font-black tracking-widest uppercase mb-4 text-blue-100">
+            <div className="inline-flex items-center gap-2 bg-blue-600/30 backdrop-blur-md border border-blue-500/20 px-3 py-1 rounded-full text-[8px] md:text-[9px] font-black tracking-widest uppercase mb-3 text-blue-100">
               <ShieldCheck size={12} /> 100% Experience-Verified
             </div>
 
             {/* Tightened Typography */}
-            <h1 className="text-4xl md:text-6xl font-black leading-[1] mb-4 tracking-tight text-white uppercase italic">
+            <h1 className="text-3xl md:text-5xl font-black leading-[1.1] mb-3 tracking-tight text-white uppercase italic">
               The Indian Road Trip <br />
-              <span className="text-3xl md:text-5xl text-blue-500 block">Survival Guide</span>
+              <span className="text-2xl md:text-4xl text-blue-500 block">Survival Guide</span>
             </h1>
 
-            {/* Compact & More Transparent Glass Card */}
-            <div className="bg-white/5 backdrop-blur-xl border border-white/10 border-l-4 border-l-blue-600 p-4 md:p-6 rounded-2xl max-w-xl mb-6 shadow-2xl">
-              <p className="text-white text-sm md:text-base leading-relaxed font-semibold italic opacity-90">
+            {/* Ultra-Compact Glass Card */}
+            <div className="bg-white/5 backdrop-blur-xl border border-white/10 border-l-4 border-l-blue-600 p-4 md:p-5 rounded-2xl max-w-lg mb-4 shadow-2xl">
+              <p className="text-white text-xs md:text-sm leading-relaxed font-semibold italic opacity-90">
                 "Honest advice from real Indian driving logs. No AI generic tips—just the actual rules of the road."
               </p>
-              <div className="mt-3 flex items-center gap-2">
-                <div className="h-[1px] w-6 bg-blue-600"></div>
-                <span className="text-[9px] font-black text-blue-400 uppercase tracking-widest">Rajesh Navsagar, Expert Traveler</span>
+              <div className="mt-2 flex items-center gap-2">
+                <div className="h-[1px] w-5 bg-blue-600"></div>
+                <span className="text-[8px] font-black text-blue-400 uppercase tracking-widest leading-none">Rajesh Navsagar, Expert Traveler</span>
               </div>
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-3">
+            <div className="flex flex-col sm:flex-row gap-2 md:gap-3">
               <Link
                 to="/blog"
-                className="bg-blue-600 hover:bg-blue-700 text-white px-7 py-3 rounded-xl font-black flex items-center justify-center gap-2 transition-all shadow-lg text-[10px] uppercase tracking-widest"
+                className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2.5 md:py-3 rounded-xl font-black flex items-center justify-center gap-2 transition-all shadow-lg text-[9px] uppercase tracking-widest"
               >
-                READ THE BLOGS <ArrowRight size={14} />
+                READ THE BLOGS <ArrowRight size={12} />
               </Link>
               <Link
                 to="/rules"
-                className="bg-gray-900/40 hover:bg-gray-800 text-white backdrop-blur-md border border-white/10 px-7 py-3 rounded-xl font-black transition-all text-[10px] uppercase tracking-widest text-center"
+                className="bg-gray-900/40 hover:bg-gray-800 text-white backdrop-blur-md border border-white/10 px-6 py-2.5 md:py-3 rounded-xl font-black transition-all text-[9px] uppercase tracking-widest text-center"
               >
                 THE RULEBOOK
               </Link>
