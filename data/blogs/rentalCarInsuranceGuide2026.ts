@@ -1,25 +1,25 @@
 import { BlogPost } from '../../types';
 
 const rentalCarInsuranceGuide2026: BlogPost = {
-    id: 'rental-car-insurance-guide-2026-india',
-    title: 'Rental Car Insurance Guide 2026: Zero Dep vs Third Party — Damage ke naam par loot se kaise bachein?',
-    slug: 'rental-car-insurance-guide-2026-india',
-    excerpt:
-        '2026 IRDAI guidelines for rental car insurance in India. Learn the difference between Zero Dep and Third Party, avoid host disputes, and check our 5-point safety checklist.',
-    category: 'Rental Policy',
-    author: 'Rajesh Navsagar',
-    date: '2026-01-05',
-    imageUrl: '/images/blogs/rental-car-insurance-guide.png',
-    keywords: [
-        'Rental car insurance India 2026',
-        'Zero Dep vs Third Party rental car',
-        'Zoomcar insurance policy 2026',
-        'Revv damage protection rules',
-        'IRDAI commercial car insurance',
-        'Rental car damage scam protection'
-    ],
-    expertTip: "Bhai, road par accident aapki galti se nahi, dusre ki galti se bhi ho sakta hai. Hamesha 'Full Protection' (Zero Dep) plan hi select karein, peace of mind sasta nahi hota.",
-    content: `
+  id: 'rental-car-insurance-guide-2026-india',
+  title: 'Rental Car Insurance Guide 2026: Zero Dep vs Third Party — Damage ke naam par loot se kaise bachein?',
+  slug: 'rental-car-insurance-guide-2026-india',
+  excerpt:
+    '2026 IRDAI guidelines for rental car insurance in India. Learn the difference between Zero Dep and Third Party, avoid host disputes, and check our 5-point safety checklist.',
+  category: 'Rental Policy',
+  author: 'Rajesh Navsagar',
+  date: '2026-01-05',
+  imageUrl: '/images/blogs/rental-car-insurance-guide.png',
+  keywords: [
+    'Rental car insurance India 2026',
+    'Zero Dep vs Third Party rental car',
+    'Zoomcar insurance policy 2026',
+    'Revv damage protection rules',
+    'IRDAI commercial car insurance',
+    'Rental car damage scam protection'
+  ],
+  expertTip: "Bhai, road par accident aapki galti se nahi, dusre ki galti se bhi ho sakta hai. Hamesha 'Full Protection' (Zero Dep) plan hi select karein, peace of mind sasta nahi hota.",
+  content: `
 <p>India mein road trip ka maza tab phika pad jata hai jab trip ke end mein gaadi ka "Host" aapse ek chote se scratch ke liye ₹15,000 ki demand kar deta hai. "Bhai, gaadi toh sasti mil gayi, lekin damage ka kya?" — Ye darr har us insaan ko rehta hai jo Zoomcar, Revv ya MyChoize jaisi platforms use karta hai. Aaj ke digital India mein, jahan hum sab kuch app se book karte hain, insurance ki barikiyaan samajhna bohot zaroori hai.</p>
 
 <p><strong>Ye observations 2023–2026 ke beech self-drive rentals (Zoomcar/host models) ke real trip cases aur user disputes par based hain.</strong> Maine dekha hai ki kaise travelers insurance ke technical "Jargon" (kathin shabd) mein fass kar apna hard-earned money lose kar dete hain. Is guide mein hum insurance ki asliyat explore karenge taaki aap be-fikaar hokar steerring sambhaal sakein.</p>
@@ -32,13 +32,13 @@ const rentalCarInsuranceGuide2026: BlogPost = {
 <ul>
   <li><strong>Zero Dep (Full Protection):</strong> Isme aapki liability (paisa jo aapko dena hai) 'Zero' ya bahut kam (₹500-₹3000) hoti hai. Lekin dhyan rakhein—ye sirf accidental damage cover karta hai. Agar aapne tyre phaad diya, interior ganda kiya, ya clutch jala diya, toh ye insurance kaam nahi aayega.</li>
   <li><strong>Standard Protection:</strong> Isme booking sasti hoti hai (Insurance premium kam lagta hai), lekin agar accident hua toh aapko ₹10,000 se ₹25,000 tak ka 'Damage Fee' bharna pad sakta hai.</li>
-  <li><strong>Third Party Only:</strong> Ye mandatory basic insurance hai. Ye sirf dusre ki gaadi ke nuksan ke liye hai. Aapki rented car ka pura kharcha aapki apni jeb se jayega agar accident aapki galti se hua.</li>
+  <li><strong>Third Party Only:</strong> Ye mandatory basic insurance hai. Ye sirf dusre ki gaadi ke nuksan ke liye hai. Aapki rented car ka pura kharcha aapki apni jeb se jayega agar accident aapki galti se hua. Isliye self-drive rentals ke liye sirf Third Party cover practically useless hota hai.</li>
 </ul>
 
 <hr/>
 
 <h3>2. Damage Dispute: Safe Frame mein Samjhein</h3>
-<p>Self-drive industry mein aksar "Scam" jaisi dikhne wali situations banti hain jab ek Host aur Guest ke beech damage ko lekar jhagda hota hai. <em>Ye issues individual hosts ya poor processes ke kaaran hote hain, sab companies ya hosts par apply nahi karte.</em> Lekin ek satark traveler banna aapke hit mein hai.</p>
+<p>Self-drive industry mein aksar "Dispute" jaisi dikhne wali situations banti hain jab ek Host aur Guest ke beech damage ko lekar jhagda hota hai. <em>Ye issues individual hosts ya poor processes ke kaaran hote hain, sab companies ya hosts par apply nahi karte.</em> Lekin ek satark traveler banna aapke hit mein hai.</p>
 
 <p>Aksar disputes tab hote hain jab Host purane dents ya scratches ko naya "Fresh Damage" batata hai. 2026 mein digital inspection systems aane ke baad bhi, server errors ya blurred photos ki wajah se travelers ko "Damage Penalty" bharni padti hai. Isse bachne ka ek hi rasta hai—Document Everything!</p>
 
@@ -73,7 +73,7 @@ const rentalCarInsuranceGuide2026: BlogPost = {
 
 <hr/>
 
-<h4 style="color: #007bff; font-weight: 900; text-transform: uppercase;">Related Guides for Your Safety:</h4>
+<h4 style="color: #007bff; font-weight: 900; text-transform: uppercase;">Read Next (Highly Recommended):</h4>
 <div style="background: #fafafa; padding: 15px; border-radius: 10px; border: 1px solid #eee;">
 <ul style="margin: 0; padding-left: 20px;">
   <li style="margin-bottom: 8px;">🚀 <a href="/blog/black-plate-rule-india" style="color: #000; font-weight: bold; text-decoration: none; border-bottom: 2px solid #007bff;">Black Number Plate Rule: Commercial vs Personal Insurance Laws</a></li>
