@@ -23,6 +23,7 @@ export const blogPosts = [
   blackPlateRuleIndia,            // Jan 1, 2026
   monsoonDrivingHorrors,          // Jan 2, 2026
   carPickupAuditRaaj,             // Jan 3, 2026
+  zoomcarVsRevvComparison,        // Jan 10, 2026
 ];
 
 
