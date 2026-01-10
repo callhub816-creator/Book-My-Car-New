@@ -65,8 +65,6 @@ const Home: React.FC = () => {
               </Link>
             </div>
           </div>
-
-          {/* 4. State-wise line at the Bottom Left */}
         </div>
       </section>
 
