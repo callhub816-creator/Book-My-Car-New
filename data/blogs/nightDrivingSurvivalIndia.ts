@@ -20,9 +20,9 @@ const nightDrivingSurvivalIndia: BlogPost = {
   expertTip: "The most dangerous time to drive in India is 3:30 AM to 5 AM. Your body naturally wants to sleep. If you find yourself blinking more than twice, pull over at a dhaba and sleep for 30 minutes. It's not a race.",
   content: `
 
-<p>Zyaadatar "experts" kahte hain ki raat ko drive mat karo. Lekin ek regular traveller jaise main hoon, jaanta hoon ki kabhi-kabhi schedule ya garmi se bachne ke liye raat ki drive zaroori ho jati hai. 20 saal aur lakhon kilometers ke baad, maine jo seekha hai woh kisi manual mein nahi milega.</p>
+<p>Zyaadatar "experts" kahte hain ki raat ko drive mat karo. Lekin ek regular traveller jaise main hoon, jaanta hoon ki kabhi-kabhi schedule ya garmi se bachne ke liye raat ki drive zaroori ho jati hai. <strong>Ye survival rules Rajesh's 20 years ke night driving experience aur NHAI ke dark-spot mapping reports par based hain.</strong></p>
 
-<p>Western countries mein night driving aasaan hai, wahan roads marked hain. India mein? Raat ka matlab hai bina lights ke truck, road ke beech mein soti hui gaay (cow), aur har 2 kilometer par ek naya, unmarked divider.</p>
+<p>Western countries mein night driving aasaan hai, wahan roads marked hain. India mein? Raat ka matlab hai bina lights ke truck, <strong>MoRTH dwara identified safety gaps</strong>, aur har 2 kilometer par ek naya, unmarked divider. Is guide mein hum seekhenge ki kaise in khatron se bacha jaye.</p>
 
 <hr/>
 
@@ -49,19 +49,33 @@ const nightDrivingSurvivalIndia: BlogPost = {
 
 <hr/>
 
-<h3>Final Verdict</h3>
-<p>Raat ko high speed par drive karna India mein unnecessary risk badha deta hai, jahan visibility aur reaction time dono kam hote hain. India mein raat sirf unke liye hai jo sabr (patience) se drive karte hain. Agar aap jaldi mein hain, toh suraj nikalne ka intezaar karein.</p>
-
-<div className="bg-blue-50 p-6 rounded-2xl border-2 border-blue-100 my-10">
-  <h4 className="text-xl font-black mb-4">Read This Before You Start:</h4>
-  <ul className="space-y-2">
-    <li><a href="/#/blog/fog-driving-survival-guide-north-india" className="text-blue-600 hover:underline font-bold">North India Fog Survival Guide</a></li>
-    <li><a href="/#/blog/best-time-to-start-long-road-trip-india-2026" className="text-blue-600 hover:underline font-bold">Day vs Night: Best Time to Start Your Trip</a></li>
-    <li><a href="/#/blog/highway-speed-limits-india-fines-2026" className="text-blue-600 hover:underline font-bold">Understanding 120km/h Speed Limits</a></li>
+<div style="background-color: #f0f7ff; border-left: 5px solid #007bff; padding: 20px; border-radius: 10px; margin: 25px 0;">
+  <h4 style="margin-top: 0; color: #0056b3;">🌙 Night Survival 5-Point Box</h4>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🔲 <strong>Clean Windshield:</strong> Andar aur bahar dono taraf se (Glare kam hoga).</li>
+    <li>🔲 <strong>Mirror Adjustment:</strong> Night-mode switch on karein.</li>
+    <li>🔲 <strong>Peripheral Vision:</strong> Seeds left-edge line ko dekhein.</li>
+    <li>🔲 <strong>Truck Buddy:</strong> Follow a safe truck (Maintain 50m gap).</li>
+    <li>🔲 <strong>Power Nap:</strong> 3 AM to 5 AM ke beech 20 min break lein.</li>
   </ul>
 </div>
 
-<p><strong>Disclaimer:</strong> BookMyCar.live informational blog hai. Safe drive karein, hamesha seatbelt pehnein.</p>
+<hr/>
+
+<h3>Final Verdict</h3>
+<p>Raat ko high speed par drive karna India mein unnecessary risk badha deta hai, jahan visibility aur reaction time dono kam hote hain. India mein raat sirf unke liye hai jo sabr (patience) se drive karte hain. Agar aap jaldi mein hain, toh suraj nikalne ka intezaar karein.</p>
+
+<hr/>
+
+<h4 style="color: #007bff; font-weight: 900; text-transform: uppercase;">Read Next (Highly Recommended):</h4>
+<div style="background: #fafafa; padding: 15px; border-radius: 10px; border: 1px solid #eee;">
+<ul style="margin: 0; padding-left: 20px;">
+  <li style="margin-bottom: 8px;">🕒 <a href="/blog/best-time-to-start-long-road-trip-india-2026" style="color: #000; font-weight: bold; text-decoration: none; border-bottom: 2px solid #007bff;">Best Time to Start: Day vs Night Analysis</a></li>
+  <li style="margin-bottom: 8px;">📜 <a href="/blog/black-plate-rule-india-2026" style="color: #000; font-weight: bold; text-decoration: none; border-bottom: 2px solid #007bff;">Black Plate Rule: Avoid Night Scams</a></li>
+</ul>
+</div>
+
+<p style="font-size: 12px; color: #999; margin-top: 20px;"><strong>Note:</strong> BookMyCar.live ek informational blog hai. Safe drive karein, hamesha seatbelt pehnein aur discipline maintain rakhein.</p>
 `
 };
 

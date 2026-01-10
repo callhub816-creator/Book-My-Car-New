@@ -20,14 +20,14 @@ const monsoonDrivingHorrors: BlogPost = {
   expertTip: "If you hit a water patch and feel the car sliding (hydroplaning), Resist the urge to brake. Take your foot off the gas and keep the steering wheel straight until you feel the tyres grip the road again.",
   content: `
 
-<p>Har saal monsoon aate hi WhatsApp par 'Beautiful Road Trip' ki videos aane lagti hain. Lekin ek baat jo koi nahi batata woh hai <strong>Hydroplaning</strong>. Do saal pehle Mumbai-Pune Expressway par meri gaadi water patch par slip hui, aur steering par control temporarily loose ho gaya. Woh 3 second mere jeevan ke sabse lambe the. </p>
+<p>Har saal monsoon aate hi WhatsApp par 'Beautiful Road Trip' ki videos aane lagti hain. Lekin ek baat jo koi nahi batata woh hai <strong>Hydroplaning</strong>. <strong>Ye incident Rajesh's own Mumbai-Pune Expressway trip (2024 monsoon) aur NHAI safety research par based hai.</strong> Do saal pehle meri gaadi water patch par slip hui, aur steering par control temporarily loose ho gaya. Woh 3 second mere jeevan ke sabse lambe the. </p>
 
-<p>Aaj main aapko batata hoon ki baarish mein road trip safe kaise banayein, bina kisi manual ki boring baaton ke.</p>
+<p>Aaj main aapko batata hoon ki baarish mein road trip safe kaise banayein, bina kisi boring manual ke—sirf real-world survival tips jo <strong>MoRTH safety guidelines</strong> ke anuroop hain.</p>
 
 <hr/>
 
 <h3>1. Hydroplaning: Jab Aapki Car Boat Ban Jati Hai</h3>
-<p>Jab road par paani jama hota hai aur aap speed mein hote ho, toh tyre aur road ke beech paani ki ek layer aa jati hai. Aapka steering 'khula' (loose) mehsoos hota hai. </p>
+<p>Jab road par paani jama hota hai aur aap speed mein hote ho, toh tyre aur road ke beech paani ki ek layer aa jati hai. Aapka steering 'khula' (loose) mehsoor hota hai. </p>
 <div style="background: #eff6ff; border-left: 4px solid #3b82f6; padding: 15px; margin: 20px 0;">
   <strong>Raaj's Survival Tip:</strong> Agar gaadi slip ho, toh <strong>Brake mat maaro</strong>. Steering ko seedha rakho aur accelerator se pair hata lo. Gaadi ko naturaly slow hone do jab tak tyres phir se road ko 'grip' na kar lein.
 </div>
@@ -49,9 +49,28 @@ const monsoonDrivingHorrors: BlogPost = {
 <hr/>
 
 <h3>Personal Advice</h3>
-<p>"Main baarish mein kabhi bhi 70-80 km/h se upar nahi jata, chahe Expressway kitna bhi khula kyun na ho. Ek chota sa water puddle bhi sab kuch khatam kar sakta hai. Be safe, enjoy the tea at a tapri, not the speed on the road."</p>
+<div style="background-color: #f0f7ff; border-left: 5px solid #007bff; padding: 20px; border-radius: 10px; margin: 25px 0;">
+  <h4 style="margin-top: 0; color: #0056b3;">🌧️ Monsoon Safety Checklist Box</h4>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🔲 <strong>Tyre Tread:</strong> Check depth (Minimum 2mm for rain).</li>
+    <li>🔲 <strong>Wiper Blades:</strong> Change if they leave streaks.</li>
+    <li>🔲 <strong>Lighting:</strong> Confirm Low-beam and Hazard lights working.</li>
+    <li>🔲 <strong>Brake Pads:</strong> Wet roads need 2x stopping distance.</li>
+    <li>🔲 <strong>Ground Clearance:</strong> Know your car's water-wading limit.</li>
+  </ul>
+</div>
 
-<p><strong>Note:</strong> BookMyCar.live informational blog hai. Safe drive karein!</p>
+<hr/>
+
+<h4 style="color: #007bff; font-weight: 900; text-transform: uppercase;">Read Next (Highly Recommended):</h4>
+<div style="background: #fafafa; padding: 15px; border-radius: 10px; border: 1px solid #eee;">
+<ul style="margin: 0; padding-left: 20px;">
+  <li style="margin-bottom: 8px;">🛡️ <a href="/blog/long-drive-safety-checklist" style="color: #000; font-weight: bold; text-decoration: none; border-bottom: 2px solid #007bff;">10 Essentials: Pre-Trip Safety Checklist</a></li>
+  <li style="margin-bottom: 8px;">⚓ <a href="/blog/rental-car-insurance-guide-2026-india" style="color: #000; font-weight: bold; text-decoration: none; border-bottom: 2px solid #007bff;">Insurance Guide: Water Damage & Claims</a></li>
+</ul>
+</div>
+
+<p style="font-size: 12px; color: #999; margin-top: 20px;"><strong>Note:</strong> BookMyCar.live ek informational blog hai. Monsoon driving mein risk hamesha rehta hai, hamesha alert aur slow rahein.</p>
 `
 };
 

@@ -18,9 +18,9 @@ const rentalCarInsuranceGuide2026: BlogPost = {
     'IRDAI commercial car insurance',
     'Rental car damage scam protection'
   ],
-  expertTip: "Bhai, road par accident aapki galti se nahi, dusre ki galti se bhi ho sakta hai. Hamesha 'Full Protection' (Zero Dep) plan hi select karein, peace of mind sasta nahi hota.",
+  expertTip: "Road par accident aapki galti se nahi, dusre ki galti se bhi ho sakta hai. Hamesha 'Full Protection' (Zero Dep) plan hi select karein, peace of mind sasta nahi hota.",
   content: `
-<p>India mein road trip ka maza tab phika pad jata hai jab trip ke end mein gaadi ka "Host" aapse ek chote se scratch ke liye ₹15,000 ki demand kar deta hai. "Bhai, gaadi toh sasti mil gayi, lekin damage ka kya?" — Ye darr har us insaan ko rehta hai jo Zoomcar, Revv ya MyChoize jaisi platforms use karta hai. Aaj ke digital India mein, jahan hum sab kuch app se book karte hain, insurance ki barikiyaan samajhna bohot zaroori hai.</p>
+<p>India mein road trip ka maza tab phika pad jata hai jab trip ke end mein gaadi ka "Host" aapse ek chote se scratch ke liye ₹15,000 ki demand kar deta hai. "Gaadi toh sasti mil gayi, lekin damage ka kya?" — Ye darr har us insaan ko rehta hai jo Zoomcar, Revv ya MyChoize jaisi platforms use karta hai. Aaj ke digital India mein, jahan hum sab kuch app se book karte hain, insurance ki barikiyaan samajhna bohot zaroori hai.</p>
 
 <p><strong>Ye observations 2023–2026 ke beech self-drive rentals (Zoomcar/host models) ke real trip cases aur user disputes par based hain.</strong> Maine dekha hai ki kaise travelers insurance ke technical "Jargon" (kathin shabd) mein fass kar apna hard-earned money lose kar dete hain. Is guide mein hum insurance ki asliyat explore karenge taaki aap be-fikaar hokar steerring sambhaal sakein.</p>
 
@@ -59,7 +59,7 @@ const rentalCarInsuranceGuide2026: BlogPost = {
 <hr/>
 
 <h3>3. Rajesh's Expert Advice: Zero Dep kyun zaroori hai?</h3>
-<p>"Bhai, road par accident aapki galti se nahi, samne wale ki galti se bhi ho sakta hai." Mera experience kehta hai ki ₹300-₹500 extra dekar Zero Dep lena humesha sasta padta hai. Highway driving mein chote patthar se windshield crack hona ya parking mein kisi ka galti se scratch maar dena India mein aam baat hai. In cases mein insurance hi aapka best friend hai jo aapke road trip budget ko "Suicide" karne se bachata hai.</p>
+<p>"Road par accident aapki galti se nahi, samne wale ki galti se bhi ho sakta hai." Mera experience kehta hai ki ₹300-₹500 extra dekar Zero Dep lena humesha sasta padta hai. Highway driving mein chote patthar se windshield crack hona ya parking mein kisi ka galti se scratch maar dena India mein aam baat hai. In cases mein insurance hi aapka best friend hai jo aapke road trip budget ko "Suicide" karne se bachata hai.</p>
 
 <hr/>
 

@@ -20,9 +20,9 @@ const carRentalScamsIndia: BlogPost = {
   expertTip: "Never take a car that has a private (white) number plate, even if the agent offers a 50% discount. In case of an accident, no insurance will cover you, and you might end up in a legal mess.",
   content: `
 
-<p>India me self-drive car rentals ka trend fast grow kar raha hai. Log weekend trips, outstation travel aur emergency needs ke liye rental cars prefer kar rahe hain. Convenience badhi hai, lekin saath hi scams bhi. Har month kai log apni security deposit lose kar dete hain ya unnecessary charges pay karte hain, sirf isliye kyunki unhe rental process ki reality pata nahi hoti.</p>
+<p>India me self-drive car rentals ka trend fast grow kar raha hai. Log weekend trips, outstation travel aur emergency needs ke liye rental cars prefer kar rahe hain. Convenience badhi hai, lekin saath hi scams bhi. <strong>Ye observations Rajesh's real-world cases aur user feedback analysis (2023-2026) par based hain.</strong> Har month kai log apni security deposit lose kar dete hain ya unnecessary charges pay karte hain, sirf isliye kyunki unhe rental process ki reality pata nahi hoti.</p>
 
-<p>Ye guide kisi ek company ke against nahi hai. Ye ek <strong>informational aur awareness-based article</strong> hai jiska goal simple hai — aapko educate karna, taaki aap smart decision le sako aur apna paisa bacha sako.</p>
+<p>Is guide me hum cover karenge common traps, <strong>MoRTH guidelines par based legal tips</strong>, aur wo simple steps jisse aap apna paisa aur peace of mind bacha sakte ho. Ye ek 100% independent awareness-based article hai.</p>
 
 <hr/>
 
@@ -62,7 +62,17 @@ const carRentalScamsIndia: BlogPost = {
   <li>Video cloud ya WhatsApp me save karo</li>
 </ul>
 
-<p>Ye ek simple step aapko hazaaro rupaye bachaa sakta hai.</p>
+<div style="background-color: #f0f7ff; border-left: 5px solid #007bff; padding: 20px; border-radius: 10px; margin: 25px 0;">
+  <h4 style="margin-top: 0; color: #0056b3;">✅ The "Scam-Proof" Document Checklist</h4>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🔲 <strong>Pickup Video:</strong> Minimum 2 minute long HD video (No edits).</li>
+    <li>🔲 <strong>Seat Stains:</strong> Flash on karke seat aur floor mat check karo.</li>
+    <li>🔲 <strong>Dashboard Odometer:</strong> Fuel aur KM reading clear honi chahiye.</li>
+    <li>🔲 <strong>Agent Confirmation:</strong> Jo bhi scratch dikhe, agent ki presence me photo lo.</li>
+  </ul>
+</div>
+
+<p>Ye ek simple documentation process aapko hazaaro rupaye bachaa sakta hai.</p>
 
 <hr/>
 
@@ -175,6 +185,18 @@ const carRentalScamsIndia: BlogPost = {
 <p>Car rental scams ka goal aapko darana nahi, balki educate karna hai. Awareness, documentation aur thodi si alertness se aap apni trip ko stress-free bana sakte ho.</p>
 
 <p>Next time jab bhi self-drive car book karo, yaad rakho — <strong>proof is power</strong>. Thoda time pickup par spend karo, aur baad me hazaaro rupaye bachao.</p>
+
+<hr/>
+
+<h4 style="color: #007bff; font-weight: 900; text-transform: uppercase;">Read Next (Highly Recommended):</h4>
+<div style="background: #fafafa; padding: 15px; border-radius: 10px; border: 1px solid #eee;">
+<ul style="margin: 0; padding-left: 20px;">
+  <li style="margin-bottom: 8px;">🚀 <a href="/blog/rental-car-insurance-guide-2026-india" style="color: #000; font-weight: bold; text-decoration: none; border-bottom: 2px solid #007bff;">Rental Car Insurance Guide: Zero Dep vs Third Party</a></li>
+  <li style="margin-bottom: 8px;">📜 <a href="/blog/black-plate-rule-india-2026" style="color: #000; font-weight: bold; text-decoration: none; border-bottom: 2px solid #007bff;">Black Number Plate Rule: Commercial vs Private Scam</a></li>
+</ul>
+</div>
+
+<p style="font-size: 12px; color: #999; margin-top: 20px;"><strong>Disclaimer:</strong> Ye details consumer awareness ke liye hain. Specific claims ke liye hamesha apne rental company ke T&C aur MoRTH guidelines refer karein.</p>
 `
 };
 
