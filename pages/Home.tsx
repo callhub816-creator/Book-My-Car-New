@@ -67,11 +67,6 @@ const Home: React.FC = () => {
           </div>
 
           {/* 4. State-wise line at the Bottom Left */}
-          <div className="absolute bottom-10 left-6 md:left-12">
-            <p className="text-[10px] text-gray-400 font-bold uppercase tracking-[0.2em] opacity-80 border-l-2 border-blue-600 pl-3">
-              State-wise road rules, permits & rental laws explained.
-            </p>
-          </div>
         </div>
       </section>
 
