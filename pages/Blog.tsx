@@ -186,7 +186,7 @@ const BlogPostView: React.FC = () => {
               <div className="bg-blue-50/50 border-l-2 border-blue-600 p-5 md:p-6 rounded-r-xl mb-8 relative overflow-hidden group">
                 <div className="relative z-10">
                   <div className="flex items-center gap-2 mb-2 uppercase tracking-widest text-[9px] font-black text-blue-700">
-                    <ShieldCheck size={14} /> Raaj's Expert Corner
+                    <ShieldCheck size={14} /> Rajesh's Expert Corner
                   </div>
                   <p className="text-base md:text-lg leading-relaxed font-serif text-gray-900 italic font-medium">
                     "{post.expertTip}"

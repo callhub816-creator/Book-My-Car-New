@@ -59,7 +59,7 @@ const interstatePermitGuide: BlogPost = {
 </ul>
 
 <h3>4. Form 59 and Authorization Documents</h3>
-<p>Commercial cars ke liye <strong>Form 59</strong> non-negotiable hai. Iske bina gaadi seize (zabt) ho sakti hai. Rental car pickup ke waqt hamesha confirm karein ki ye form digital folder mein available hai. Iske baare mein aur jan-ne ke liye hamari <a href="/blog/car-pickup-inspection-checklist-raaj">Car Pickup Audit Guide</a> dekhein.</p>
+<p>Commercial cars ke liye <strong>Form 59</strong> non-negotiable hai. Iske bina gaadi seize (zabt) ho sakti hai. Rental car pickup ke waqt hamesha confirm karein ki ye form digital folder mein available hai. Iske baare mein aur jan-ne ke liye hamari <a href="/blog/car-pickup-inspection-checklist-rajesh">Car Pickup Audit Guide</a> dekhein.</p>
 <p>Authorization document ka matlab hai ki car operator (Zoomcar host) ne aapko permission di hai gaadi chalane ki. Iske bina borders par "Theft" ka case bhi ban sakta hai agar inspector pushy ho.</p>
 
 <h3>5. Toll vs State Tax (The Digital Barrier)</h3>

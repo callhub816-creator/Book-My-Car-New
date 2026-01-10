@@ -5,7 +5,7 @@ const nightDrivingSurvivalIndia: BlogPost = {
   title: 'Raat mein Driving ke 7 Survival Rules: High-Beam aur Thakan se kaise bachein?',
   slug: 'night-driving-survival-guide-india-2026',
   excerpt:
-    "Indian highways par raat ko drive karna alag khel hai. High-beam glare, animals aur unmarked diversions se kaise bachein? Raaj's survival guide.",
+    "Indian highways par raat ko drive karna alag khel hai. High-beam glare, animals aur unmarked diversions se kaise bachein? Rajesh's survival guide.",
   category: 'Safety',
   author: 'Rajesh Navsagar',
   date: '2025-12-30',

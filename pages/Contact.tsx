@@ -14,7 +14,7 @@ const Contact: React.FC = () => {
           <User size={12} /> Human Response
         </div>
         <h1 className="text-3xl md:text-5xl font-black text-gray-900 mb-2 tracking-tighter font-serif italic uppercase leading-none">
-          Talk to <span className="text-blue-600 not-italic">Raaj.</span>
+          Talk to <span className="text-blue-600 not-italic">Rajesh.</span>
         </h1>
         <p className="text-sm md:text-base text-gray-500 max-w-xl mx-auto leading-relaxed font-medium">
           Stuck with a rental policy? <strong> I personally respond </strong> to genuine road trip queries.

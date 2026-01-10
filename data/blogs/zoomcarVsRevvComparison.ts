@@ -49,7 +49,7 @@ const zoomcarVsRevvComparison: BlogPost = {
 <h3>2. Revv: The Quality & Service Leader (The Organized Rival)</h3>
 <p>Revv ne apne aap ko hamesha "Service First" company ke roop mein dikhaya hai. Inka model Zoomcar se thoda alag aur zyada organized hai. Revv apni gaadiyon ki maintenance par kafi focus karta hai, jo ki ek traveler ke liye sabse zaroori cheez hai. Unka sanitation process 'Revv-Clean' kafi famous hua tha pandemic ke baad se.</p>
 
-<p><strong>City Specific Experience:</strong> Bangalore aur Delhi mein Revv ki availability kafi achi hai. Inke executives hamesha uniform mein aate hain aur properly <a href="/blog/car-pickup-inspection-checklist-raaj">pickup checklist</a> follow karte hain. Agar gaadi mein koi defect hai, toh woh use document par turant note karte hain, unlike Zoomcar jahan sab kuch app-driven hai aur agent aksar missing hota hai.</p>
+<p><strong>City Specific Experience:</strong> Bangalore aur Delhi mein Revv ki availability kafi achi hai. Inke executives hamesha uniform mein aate hain aur properly <a href="/blog/car-pickup-inspection-checklist-rajesh">pickup checklist</a> follow karte hain. Agar gaadi mein koi defect hai, toh woh use document par turant note karte hain, unlike Zoomcar jahan sab kuch app-driven hai aur agent aksar missing hota hai.</p>
 
 <ul>
   <li><strong>Pros:</strong> Well-maintained cars, punctual doorstep delivery, transparent fuel policy.</li>

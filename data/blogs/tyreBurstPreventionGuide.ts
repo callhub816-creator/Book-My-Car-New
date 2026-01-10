@@ -63,7 +63,7 @@ const tyreBurstPreventionGuide: BlogPost = {
 
 <h3>4. Rental Car Tyres: The Hidden Danger</h3>
 <p>Jab aap <a href="/blog/zoomcar-vs-revv-comparison-india-2026">Zoomcar ya Revv</a> jaise platforms se car rent karte hain, toh aapko unke tyres ki history nahi pata hoti. Host aksar saste 'Retreaded' tyres lagwa kar paise bachate hain. </p>
-<p>Isliye pickup ke waqt hamara <a href="/blog/car-pickup-inspection-checklist-raaj">Car Pickup Audit</a> zaroori karein. Tyres ko physically check karein aur agar un par cracks dikhein, toh gaadi turant reject kar dein. Yaad rakhiye, insurance body damage cover karta hai, lekin tyre burst se hone wala trauma nahi.</p>
+<p>Isliye pickup ke waqt hamara <a href="/blog/car-pickup-inspection-checklist-rajesh">Car Pickup Audit</a> zaroori karein. Tyres ko physically check karein aur agar un par cracks dikhein, toh gaadi turant reject kar dein. Yaad rakhiye, insurance body damage cover karta hai, lekin tyre burst se hone wala trauma nahi.</p>
 
 <h3>5. The Role of TPMS (Tyre Pressure Monitoring System)</h3>
 <p>Modern cars (Tata Nexon, XUV700, etc.) mein TPMS built-in aata hai. Ye system aapko batata hai ki tyre ka "Temperature" kitna hai. Agar temperature 70°C cross kar jaye, toh iska matlab hai tyre stress mein hai. Wahan aapko 15 minute ka break lekar tyres ko thanda hone dena chahiye. Agar aap purani gaadi chala rahe hain, toh aftermarket Bluetooth TPMS sensors zaroori lagwayein. </p>

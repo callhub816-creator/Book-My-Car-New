@@ -1,9 +1,9 @@
 import { BlogPost } from '../../types';
 
-const carPickupAuditRaaj: BlogPost = {
-  id: 'car-pickup-inspection-checklist-raaj',
+const carPickupAuditRajesh: BlogPost = {
+  id: 'car-pickup-inspection-checklist-rajesh',
   title: "Rental Car Pickup Checklist: Gaadi lene se pehle ye 15 point 'Audit' zaroor karein",
-  slug: 'car-pickup-inspection-checklist-raaj',
+  slug: 'car-pickup-inspection-checklist-rajesh',
   excerpt:
     "Rental car pickup ke waqt agent hamesha jaldi mein hota hai. Paise bachane aur fraud se bachne ke liye mera 15-point expert inspection formula use karein.",
   category: 'Rental Policy',
@@ -25,7 +25,7 @@ const carPickupAuditRaaj: BlogPost = {
   content: `
 <p>India mein self-drive car rental ek convenience toh hai, lekin agar aapne pickup ke waqt laparwahi barti, toh ye ek mehnga "Nightmare" ban sakta hai. Jab aap ek rental car pick karte hain, toh agent hamesha "Sir, gaadi ekdum fresh hai, kuch nahi hoga, aap bas sign kardo" bolkar aapko hurry karne ki koshish karega. Lekin wahi agent drop ke waqt ek makhri ke jaale jitne chote scratch ke liye bhi aapse ₹3,000 se ₹5,000 charge karne ki koshish karega.</p>
 
-<p>Ye <strong>'Raaj's Stealth Audit'</strong> purely mere personal experience (100+ rental pickups across India) aur <strong>MoRTH (Ministry of Road Transport and Highways)</strong> ke rental car protocols par based hai. Is guide mein main aapko bataoonga ki kaise 10 minute ka audit aapke hazaron rupaye aur mental peace bacha sakta hai. Ye sirf "bahari" scratches ki baat nahi hai, ye gaadi ki mechanical integrity aur legal documentation ka mamla hai.</p>
+<p>Ye <strong>'Rajesh\'s Audit'</strong> purely mere personal experience (100+ rental pickups across India) aur <strong>MoRTH (Ministry of Road Transport and Highways)</strong> ke rental car protocols par based hai. Is guide mein main aapko bataoonga ki kaise 10 minute ka audit aapke hazaron rupaye aur mental peace bacha sakta hai. Ye sirf "bahari" scratches ki baat nahi hai, ye gaadi ki mechanical integrity aur legal documentation ka mamla hai.</p>
 
 <div style="background-color: #fff4e5; border-left: 5px solid #ff9800; padding: 25px; border-radius: 15px; margin: 30px 0; font-family: 'Inter', sans-serif;">
   <h4 style="margin-top: 0; color: #e65100; font-weight: 800; text-transform: uppercase;">⚠️ The "Golden Rule" of Pickup</h4>
@@ -47,7 +47,7 @@ const carPickupAuditRaaj: BlogPost = {
 <p><strong>Rims and Alloys:</strong> "Curb rash" check karein. Agar alloy wheel tedha hai (bent rim), toh highway par 80 kmph+ speed par gaadi vibrate karegi, jo dangerous ho sakta hai. Saath hi, tyre ki sidewall check karein. Agar tyre par koi "Bulge" (phoola hua hissa) hai, toh gaadi turant reject kar den. Ye tyre burst hone ka sabse bada sign hai.</p>
 
 <div style="background-color: #f0f7ff; border-left: 5px solid #007bff; padding: 25px; border-radius: 15px; margin: 30px 0; font-family: 'Inter', sans-serif;">
-  <h4 style="margin-top: 0; color: #0056b3; font-weight: 800; text-transform: uppercase;">🛠️ Raaj's Stealth Audit 5-Point Box</h4>
+  <h4 style="margin-top: 0; color: #0056b3; font-weight: 800; text-transform: uppercase;">🛠️ Rajesh\'s Audit 5-Point Box</h4>
   <ul style="list-style-type: none; padding-left: 0; line-height: 2;">
     <li>🔲 <strong>Spare Tyre & Jack:</strong> Stepney mein hawa aur Jack ki working condition check karein.</li>
     <li>🔲 <strong>Interior Stains:</strong> Seat covers aur roof liner ko check karein (Cleaning fee se bachne ke liye).</li>
@@ -112,5 +112,5 @@ const carPickupAuditRaaj: BlogPost = {
 `
 };
 
-export default carPickupAuditRaaj;
+export default carPickupAuditRajesh;
 

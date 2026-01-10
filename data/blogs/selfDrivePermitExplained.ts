@@ -1,9 +1,9 @@
 import { BlogPost } from '../../types';
 
 const selfDrivePermitExplained: BlogPost = {
-  id: 'self-drive-permit-india-guide-raaj',
+  id: 'self-drive-permit-india-guide-rajesh',
   title: 'All India Permit vs State Permit: Rental Car le kar border cross karne se pehle ye zaroor check karein',
-  slug: 'self-drive-permit-india-guide-raaj',
+  slug: 'self-drive-permit-india-guide-rajesh',
   excerpt:
     "Self-drive car mein state border cross karte waqt 'All India Permit' kyun zaroori hai? RTO fines aur documentation ka complete human-verified guide.",
   category: 'Legal',
@@ -21,7 +21,7 @@ const selfDrivePermitExplained: BlogPost = {
   ],
   expertTip: "Hamesha 'Form 48' (National Permit) ki physical copy mangiye. Bhale hi aaj kal digital documents valid hain, lekin Odisha ya West Bengal jaise states ke remote border check-posts par physical paper dekhne ke baad hi entry tax process kiya jata hai. No paper = No entry.",
   content: `
-<p>Log aksar mujhse poochte hain—"Raaj, maine Zoomcar li hai, kya mujhe border par tax dena hoga?" Jawab hai haan, lekin tax se bhi pehle aapko car ka <strong>Permit</strong> check karna chahiye. India mein 90% rental car users ko "Permit" aur "Entry Tax" ke beech ka antar (difference) nahi pata hota. Agar aap bina valid permit ke kisi doosre state mein enter karte hain, toh RTO gaadi seize kar sakta hai, aur aapka trip wahi khatam ho jayega.</p>
+<p>Log aksar mujhse poochte hain—"Rajesh, maine Zoomcar li hai, kya mujhe border par tax dena hoga?" Jawab hai haan, lekin tax se bhi pehle aapko car ka <strong>Permit</strong> check karna chahiye. India mein 90% rental car users ko "Permit" aur "Entry Tax" ke beech ka antar (difference) nahi pata hota. Agar aap bina valid permit ke kisi doosre state mein enter karte hain, toh RTO gaadi seize kar sakta hai, aur aapka trip wahi khatam ho jayega.</p>
 
 <p>Main Rajesh Navsagar, automobile auditor aur legal consultant, pichle 12 saalon se Indian road laws ko closely follow kar raha hoon. Is <strong>1200+ words comprehensive guide</strong> mein hum samjhenge ki All India Permit (AITP) kya hota hai aur kaise aap determine kar sakte hain ki aapki rental car legal hai ya nahi. Ye sirf information nahi, ye aapke safety aur legal rights ka sawal hai.</p>
 
@@ -55,7 +55,7 @@ const selfDrivePermitExplained: BlogPost = {
 
 <h3>3. The "Temporary Permit" (TP) Trap</h3>
 <p>Kuch local self-drive operators saste mein gaadi rent karte hain jo Temporary Permit (TP) par hoti hain. TP usually 1 mahine ya 7 din ke liye valid hota hai. </p>
-<p><strong>The Risk:</strong> Agar aapka trip TP expire hone ke baad tak chala, toh aap illegal driving kar rahe hain. Police aise cases mein gaadi seize (zabt) kar leti hai aur passengers ko beech road par utaar diya jata hai. Pickup ke waqt hamara <a href="/blog/car-pickup-inspection-checklist-raaj">Car Pickup Audit</a> zaroori karein aur documents ki expiry date check karein.</p>
+<p><strong>The Risk:</strong> Agar aapka trip TP expire hone ke baad tak chala, toh aap illegal driving kar rahe hain. Police aise cases mein gaadi seize (zabt) kar leti hai aur passengers ko beech road par utaar diya jata hai. Pickup ke waqt hamara <a href="/blog/car-pickup-inspection-checklist-rajesh">Car Pickup Audit</a> zaroori karein aur documents ki expiry date check karein.</p>
 
 <h3>4. Physical Documents: Are they Still Mandatory?</h3>
 <p>Digital India mein mParivahan aur DigiLocker valid hain, lekin Indian borders (Check-posts) par infrastructure abhi bhi 100% digital nahi hai. Haryana, Rajasthan, aur West Bengal ke borders par RTO officers aksar Internet connectivity issues ki wajah se "Physical Paper" ki mang karte hain.</p>

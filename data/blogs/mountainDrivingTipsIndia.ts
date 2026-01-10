@@ -70,7 +70,7 @@ const mountainDrivingTipsIndia: BlogPost = {
 
 <h3>5. High Altitude Challenges: Human and Machine</h3>
 <p>Ladakh aur Spiti jaise ilako mein 'Air pressure' kam hota hai. </p>
-<p><strong>For the Car:</strong> Engine ko oxygen kam milti hai, isiliye power drop mehsoos hoga (Altitude lag). Turbo cars yahan better perform karti hain. Agar aap rental car lekar ja rahe hain, toh unse <a href="/blog/car-pickup-inspection-checklist-raaj">High-Altitude tune</a> ke baare mein poochein.</p>
+<p><strong>For the Car:</strong> Engine ko oxygen kam milti hai, isiliye power drop mehsoos hoga (Altitude lag). Turbo cars yahan better perform karti hain. Agar aap rental car lekar ja rahe hain, toh unse <a href="/blog/car-pickup-inspection-checklist-rajesh">High-Altitude tune</a> ke baare mein poochein.</p>
 <p><strong>For the Driver (AMS):</strong> Acute Mountain Sickness se bachne ke liye hydrate rahein. Agar sir mein dard ho (headache), toh drive turant chhod dein. In accidents se bachne ke liye hamari <a href="/blog/long-drive-safety-checklist-2026">Safety Checklist</a> hamesha follow karein.</p>
 
 <h3>6. Landslide Awareness: When to Stop?</h3>

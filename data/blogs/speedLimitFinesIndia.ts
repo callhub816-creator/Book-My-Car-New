@@ -5,7 +5,7 @@ const speedLimitFinesIndia: BlogPost = {
   title: 'Highway Speed Limits India 2026: Challan aur Rental Penalties se bachne ki expert guide',
   slug: 'highway-speed-limits-india-fines-2026',
   excerpt:
-    "Indian Expressways par speed cams ab AI-based hain. 120 km/h vs 100 km/h ka confusion aur rental car penalties se kaise bachein? Raaj's guide.",
+    "Indian Expressways par speed cams ab AI-based hain. 120 km/h vs 100 km/h ka confusion aur rental car penalties se kaise bachein? Rajesh's guide.",
   category: 'Legal',
   author: 'Rajesh Navsagar',
   date: '2026-01-10',

@@ -5,7 +5,7 @@ import bestTimeToStartLongRoadTripIndia2026 from './bestTimeToStartLongRoadTripI
 import nightDrivingSurvivalIndia from './nightDrivingSurvivalIndia';
 import blackPlateRuleIndia from './blackPlateRuleIndia';
 import monsoonDrivingHorrors from './monsoonDrivingHorrors';
-import carPickupAuditRaaj from './carPickupAuditRaaj';
+import carPickupAuditRajesh from './carPickupAuditRajesh';
 import fastagRulesIndia2026 from './fastagRulesIndia2026';
 import tyreBurstPreventionGuide from './tyreBurstPreventionGuide';
 import mountainDrivingTipsIndia from './mountainDrivingTipsIndia';
@@ -24,7 +24,7 @@ export const blogPosts = [
   nightDrivingSurvivalIndia,      // Dec 30, 2025
   blackPlateRuleIndia,            // Jan 1, 2026
   monsoonDrivingHorrors,          // Jan 2, 2026
-  carPickupAuditRaaj,             // Jan 3, 2026
+  carPickupAuditRajesh,             // Jan 3, 2026
   fastagRulesIndia2026,           // Jan 4, 2026
   tyreBurstPreventionGuide,       // Jan 5, 2026
   mountainDrivingTipsIndia,       // Jan 5, 2026
