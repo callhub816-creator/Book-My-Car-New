@@ -164,7 +164,7 @@ const BlogPostView: React.FC = () => {
           </h1>
           <div className="flex flex-wrap items-center gap-3 text-gray-400 text-[9px] font-black uppercase tracking-widest">
             <span className="flex items-center bg-white/5 border border-white/10 px-3 py-1.5 rounded-lg text-white">
-              <ShieldCheck className="h-3.5 w-3.5 mr-2 text-blue-400" /> By Rajesh Navsagar
+              <img src="/logo.png" className="h-3.5 w-3.5 mr-2 rounded-sm" alt="Logo" /> By Rajesh Navsagar
             </span>
             <span className="flex items-center">
               <Calendar className="h-3.5 w-3.5 mr-1.5" /> {post.date}
@@ -204,7 +204,8 @@ const BlogPostView: React.FC = () => {
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
 
-            <div className="text-[9px] font-black text-gray-400 mb-8 tracking-widest uppercase border-t pt-6">
+            <div className="text-[9px] font-black text-gray-400 mb-8 tracking-widest uppercase border-t pt-6 flex items-center gap-2">
+              <img src="/logo.png" className="h-4 w-4 rounded-sm" alt="Logo" />
               Human-written & verified by Rajesh Navsagar | {new Date(post.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
             </div>
 

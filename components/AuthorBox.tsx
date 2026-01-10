@@ -8,8 +8,8 @@ const AuthorBox: React.FC = () => {
             <div className="absolute top-0 left-0 w-2 h-full bg-blue-600"></div>
 
             <div className="flex-shrink-0">
-                <div className="w-24 h-24 bg-gradient-to-br from-blue-600 to-indigo-700 rounded-2xl flex items-center justify-center text-white shadow-xl transform transition-transform group-hover:rotate-3">
-                    <User size={48} />
+                <div className="w-24 h-24 rounded-2xl flex items-center justify-center shadow-xl transform transition-transform group-hover:rotate-3 overflow-hidden">
+                    <img src="/logo.png" alt="BookMyCar Logo" className="w-full h-full object-cover" />
                 </div>
             </div>
 

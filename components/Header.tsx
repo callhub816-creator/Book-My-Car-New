@@ -35,8 +35,8 @@ const Header: React.FC = () => {
             title="BookMyCar.live"
             className="flex items-center space-x-3 group"
           >
-            <div className="bg-blue-600 p-2 rounded-xl group-hover:rotate-6 transition-transform shadow-lg shadow-blue-600/20">
-              <Car className="h-5 w-5 text-white" />
+            <div className="w-9 h-9 overflow-hidden rounded-xl border border-gray-100 shadow-sm group-hover:rotate-6 transition-transform">
+              <img src="/logo.png" alt="BookMyCar Logo" className="w-full h-full object-cover" />
             </div>
             <span className="text-xl font-black text-black tracking-tighter">
               BookMyCar<span className="text-blue-500">.live</span>

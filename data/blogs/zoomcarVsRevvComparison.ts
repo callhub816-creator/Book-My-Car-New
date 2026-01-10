@@ -8,7 +8,7 @@ const zoomcarVsRevvComparison: BlogPost = {
     'India ki top self-drive car rental companies ka comparison. App interface, car condition, security deposit aur customer service ke basis par honest review.',
   category: 'Rental Policy',
   author: 'Rajesh Navsagar',
-  date: '2026-01-10',
+  date: '2026-01-05',
   imageUrl: '/images/blogs/zoomcar-revv-comparison.png',
   keywords: [
     'Zoomcar vs Revv',
