@@ -26,7 +26,7 @@ const Rules: React.FC = () => {
             "Written from real police checkpoints & rental cases, not copied RTO PDFs."
           </p>
           <p className="text-sm md:text-base text-gray-500 max-w-xl mx-auto font-medium leading-relaxed italic border-l-2 border-blue-100 pl-4 py-1">
-            Documents, insurance, and local laws — explained in plain Hinglish from real driving logs.
+            Documents, insurance, and state laws — Practical guidance for Indian travelers, based on real highway logs.
           </p>
         </div>
 
