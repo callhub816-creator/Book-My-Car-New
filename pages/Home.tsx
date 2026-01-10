@@ -18,7 +18,7 @@ const Home: React.FC = () => {
             src="/images/hero/home-hero-indian-road-trip-car.png"
             className="w-full h-full object-cover object-center scale-105"
             alt="Indian Road Trip"
-            fetchpriority="high"
+            fetchPriority="high"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent" />
         </div>
