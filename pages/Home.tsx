@@ -9,9 +9,9 @@ const Home: React.FC = () => {
   return (
     <div className="flex flex-col min-h-screen">
 
-      {/* ================= PREMIUM HERO SECTION ================= */}
-      <section className="relative h-[85vh] md:h-[90vh] min-h-[600px] flex items-center overflow-hidden bg-gray-900">
-        {/* Background Image with better overlay */}
+      {/* ================= ULTRA-PREMIUM HERO SECTION ================= */}
+      <section className="relative h-[85vh] md:h-[90vh] min-h-[600px] flex items-center overflow-hidden bg-black">
+        {/* Background Image with optimized overlay */}
         <div className="absolute inset-0 z-0">
           <img
             src="/images/hero/home-hero-indian-road-trip-car.png"
@@ -19,49 +19,50 @@ const Home: React.FC = () => {
             alt="Indian Road Trip"
             fetchPriority="high"
           />
-          <div className="absolute inset-0 bg-gradient-to-tr from-black/90 via-black/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent" />
+          <div className="absolute inset-0 bg-black/40" />
         </div>
 
         <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full pt-16">
           <div className="max-w-3xl">
-            {/* Elegant Badge */}
-            <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 px-3 py-1.5 rounded-full text-[10px] font-black tracking-widest uppercase mb-6 text-blue-400">
-              <ShieldCheck size={14} /> 100% Experience-Verified
+            {/* Sharper Trust Badge */}
+            <div className="inline-flex items-center gap-2 bg-blue-600/20 backdrop-blur-xl border border-blue-500/40 px-4 py-2 rounded-full text-[10px] font-black tracking-[0.2em] uppercase mb-8 text-blue-400 shadow-[0_0_20px_rgba(59,130,246,0.2)]">
+              <ShieldCheck size={16} className="text-blue-500" /> 100% Experience-Verified
             </div>
 
-            {/* Premium Typography */}
-            <h1 className="text-4xl md:text-7xl font-light leading-[1] mb-6 tracking-tighter text-white">
+            {/* High-Impact Typography */}
+            <h1 className="text-5xl md:text-8xl font-light leading-[0.9] mb-8 tracking-tighter text-white">
               The Indian Road Trip <br />
-              <span className="font-black italic text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Survival Guide</span>
+              <span className="font-black italic text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-blue-100 to-white drop-shadow-2xl">Survival Guide</span>
             </h1>
 
-            {/* Glassmorphism Text Card */}
-            <div className="bg-white/5 backdrop-blur-xl border-l-4 border-blue-600 p-6 rounded-2xl md:rounded-r-3xl max-w-xl mb-10 shadow-2xl">
-              <p className="text-gray-200 text-sm md:text-lg leading-relaxed font-medium italic">
-                "Honest advice from real trips. No AI summaries, no brand favoritism—just the hard truths about Indian highways and rental cars."
+            {/* Refined Glassmorphism Card */}
+            <div className="bg-white/[0.03] backdrop-blur-2xl border border-white/10 border-l-4 border-l-blue-600 p-8 rounded-2xl md:rounded-r-3xl max-w-xl mb-12 shadow-[0_20px_50px_rgba(0,0,0,0.5)] group hover:bg-white/[0.05] transition-all duration-500">
+              <p className="text-gray-100 text-lg md:text-xl leading-relaxed font-medium italic">
+                "Honest advice from real Indian driving logs. No PR fluff, no AI generic tips—just the actual rules of the road."
               </p>
-              <div className="mt-4 flex items-center gap-3">
-                <div className="h-px w-8 bg-blue-500/50"></div>
-                <span className="text-[10px] font-black text-blue-400 uppercase tracking-[0.3em]">Rajesh Navsagar, Expert Traveler</span>
+              <div className="mt-6 flex items-center gap-4">
+                <div className="h-[2px] w-12 bg-blue-600 shadow-[0_0_10px_rgba(37,99,235,0.8)]"></div>
+                <span className="text-[11px] font-black text-blue-400 uppercase tracking-[0.4em]">Rajesh Navsagar, Expert Traveler</span>
               </div>
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-4">
+            <div className="flex flex-col sm:flex-row gap-5">
               <Link
                 to="/blog"
-                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-xl font-black flex items-center justify-center gap-3 transition-all shadow-[0_10px_30px_rgba(37,99,235,0.4)] text-[11px] uppercase tracking-[0.2em] transform hover:-translate-y-1"
+                className="bg-blue-600 hover:bg-blue-500 text-white px-10 py-5 rounded-2xl font-black flex items-center justify-center gap-3 transition-all shadow-[0_15px_35px_rgba(37,99,235,0.4)] text-[12px] uppercase tracking-[0.2em] transform hover:-translate-y-1 active:scale-95"
               >
-                READ THE BLOGS <ArrowRight size={16} />
+                READ THE BLOGS <ArrowRight size={18} />
               </Link>
               <Link
                 to="/rules"
-                className="bg-white/10 hover:bg-white/20 text-white backdrop-blur-md border border-white/20 px-8 py-4 rounded-xl font-black transition-all text-[11px] uppercase tracking-[0.2em] text-center"
+                className="bg-white/5 hover:bg-white/10 text-white backdrop-blur-md border border-white/20 px-10 py-5 rounded-2xl font-black transition-all text-[12px] uppercase tracking-[0.2em] text-center border-b-2 border-b-white/10"
               >
                 THE RULEBOOK
               </Link>
             </div>
 
-            <p className="mt-6 text-[10px] text-gray-500 font-bold uppercase tracking-widest ml-1 opacity-80">
+            <p className="mt-8 text-[11px] text-gray-500 font-bold uppercase tracking-widest ml-1 opacity-70">
               State-wise road rules, permits & rental laws explained.
             </p>
           </div>
