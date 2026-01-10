@@ -23,7 +23,7 @@ const mountainDrivingTipsIndia: BlogPost = {
   content: `
 <p>Himalayas, Western Ghats, ya Nilgiris mein drive karna har Indian road-tripper ka ek sapna hota hai. Lekin plains (maidani ilako) se pahadon mein aana sirf nazara badalna nahi hai, ye driving dynamics ka poora overhaul hai. Manali-Leh Highway ho ya Munnar ke hair-pin bends, ek choti si galti yahan bahut mehangi pad sakti hai.</p>
 
-<p>Main Rajesh Navsagar pichle 15 saalon se Himalayan regions mein group expeditions lead kar raha hoon. Maine dekha hai ki "Plains" ke drivers aksar wahi galtiyan karte hain jo unki gaadi ke brakes fail kar deti hain ya engine overheat kar deti hain. Ye <strong>comprehensive 1200+ words guide</strong> aapko banayegi ek expert mountain driver.</p>
+<p>Main Rajesh Navsagar pichle 7 saalon se Himalayan regions mein group expeditions lead kar raha hoon. Maine dekha hai ki "Plains" ke drivers aksar wahi galtiyan karte hain jo unki gaadi ke brakes fail kar deti hain ya engine overheat kar deti hain. Ye <strong>comprehensive 1200+ words guide</strong> aapko banayegi ek expert mountain driver.</p>
 
 <div style="background-color: #f0fdf4; border-left: 5px solid #16a34a; padding: 25px; border-radius: 15px; margin: 30px 0; font-family: 'Inter', sans-serif;">
   <h4 style="margin-top: 0; color: #166534; font-weight: 800; text-transform: uppercase;">⛰️ Hill-Side Survival Rule #1</h4>

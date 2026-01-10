@@ -23,7 +23,7 @@ const selfDrivePermitExplained: BlogPost = {
   content: `
 <p>Log aksar mujhse poochte hain—"Rajesh, maine Zoomcar li hai, kya mujhe border par tax dena hoga?" Jawab hai haan, lekin tax se bhi pehle aapko car ka <strong>Permit</strong> check karna chahiye. India mein 90% rental car users ko "Permit" aur "Entry Tax" ke beech ka antar (difference) nahi pata hota. Agar aap bina valid permit ke kisi doosre state mein enter karte hain, toh RTO gaadi seize kar sakta hai, aur aapka trip wahi khatam ho jayega.</p>
 
-<p>Main Rajesh Navsagar, automobile auditor aur legal consultant, pichle 12 saalon se Indian road laws ko closely follow kar raha hoon. Is <strong>1200+ words comprehensive guide</strong> mein hum samjhenge ki All India Permit (AITP) kya hota hai aur kaise aap determine kar sakte hain ki aapki rental car legal hai ya nahi. Ye sirf information nahi, ye aapke safety aur legal rights ka sawal hai.</p>
+<p>Main Rajesh Navsagar, automobile auditor aur legal consultant, pichle 7 saalon se Indian road laws ko closely follow kar raha hoon. Is <strong>1200+ words comprehensive guide</strong> mein hum samjhenge ki All India Permit (AITP) kya hota hai aur kaise aap determine kar sakte hain ki aapki rental car legal hai ya nahi. Ye sirf information nahi, ye aapke safety aur legal rights ka sawal hai.</p>
 
 <div style="background-color: #f8fafc; border-left: 5px solid #64748b; padding: 25px; border-radius: 15px; margin: 30px 0; font-family: 'Inter', sans-serif;">
   <h4 style="margin-top: 0; color: #1e293b; font-weight: 800; text-transform: uppercase;">📜 The Motor Vehicles Act 1988</h4>

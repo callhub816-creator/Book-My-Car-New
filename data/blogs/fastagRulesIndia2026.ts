@@ -24,7 +24,7 @@ const fastagRulesIndia2026: BlogPost = {
 
 <p>India ki highways par driving ka maza ab "Cashless" ho chuka hai, lekin self-drive car rental karne walon ke liye ye abhi bhi ek badi "Tension" ka karan hai. 2026 mein NHAI ne kai naye badlav kiye hain jo ek aam traveler ko shayad nahi pata hotey. Maine khud NH-48 aur NH-44 par travel karte waqt dekha hai ki log toll plaza par 2 guna (Double) penalty bharte hain sirf isliye kyunki unhe rental car ke FASTag rules ki barikiyaan nahi pata hotey.</p>
 
-<p>Chahe aap Zoomcar rent karein, Revv ya MyChoize—FASTag ka maamla aapka pura road trip budget bigad sakta hai. Is guide mein hum **Rajesh's 15-year driving experience** aur **NHAI (National Highway Authority of India)** ke 2026 protocols ke base par deep dive karenge. Ye robots ke liye nahi, balki un travelers ke liye hai jo "Double Toll" ke paise bachana chahte hain.</p>
+<p>Chahe aap Zoomcar rent karein, Revv ya MyChoize—FASTag ka maamla aapka pura road trip budget bigad sakta hai. Is guide mein hum **Rajesh's 7-year driving experience** aur **NHAI (National Highway Authority of India)** ke 2026 protocols ke base par deep dive karenge. Ye robots ke liye nahi, balki un travelers ke liye hai jo "Double Toll" ke paise bachana chahte hain.</p>
 
 <hr/>
 

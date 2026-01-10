@@ -21,7 +21,7 @@ const nightDrivingSurvivalIndia: BlogPost = {
   expertTip: "The most dangerous time to drive in India is 3:30 AM to 5 AM. Your body naturally wants to sleep. If you find yourself blinking more than twice, pull over at a dhaba and sleep for 30 minutes. It's not a race.",
   content: `
 
-<p>Zyaadatar "experts" kehte hain ki raat ko drive mat karo. Lekin ek regular traveller jaise main hoon, jaanta hoon ki kabhi-kabhi schedule ya garmi se bachne ke liye raat ki drive zaroori ho jati hai. <strong>Ye survival rules Rajesh's 20 years ke night driving experience aur NHAI ke dark-spot mapping reports par based hain.</strong></p>
+<p>Zyaadatar "experts" kehte hain ki raat ko drive mat karo. Lekin ek regular traveller jaise main hoon, jaanta hoon ki kabhi-kabhi schedule ya garmi se bachne ke liye raat ki drive zaroori ho jati hai. <strong>Ye survival rules Rajesh's 7 years ke night driving experience aur NHAI ke dark-spot mapping reports par based hain.</strong></p>
 
 <p>Western countries mein night driving aasaan hai kyunki wahan roads well-marked aur illuminated hain. India mein? Raat ka matlab hai bina lights ke truck, <strong>MoRTH dwara identified safety gaps</strong>, aur har 2 kilometer par ek naya, unmarked divider. Is guide mein hum seekhenge ki kaise in khatron se bacha jaye—ye robots ke liye nahi, unke liye hai jo asli "Night Owl" ban-na chahte hain.</p>
 

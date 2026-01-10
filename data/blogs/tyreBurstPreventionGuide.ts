@@ -23,7 +23,7 @@ const tyreBurstPreventionGuide: BlogPost = {
   content: `
 <p>India ke naye Expressways (Delhi-Mumbai, Samruddhi Mahamarg, Lucknow-Ghazipur) par speed limits 120 km/h tak touch kar gayi hain. Jahan ye infrastructure desh ke liye garv ki baat hai, wahi ye tyres ke liye ek "Battleground" ban gaya hai. High speed par tyre ke andar ki hawa garm hoti hai, pressure badhta hai, aur agar tyre mein koi choti si kamzori bhi ho, toh woh <strong>Tyre Burst</strong> mein badal jati hai. Har saal India mein hazaron accidents sirf isi wajah se hote hain.</p>
 
-<p>Main Rajesh Navsagar, pichle 10 saalon se highway safety auditor ke roop mein kaam kar raha hoon. Is <strong>1200+ words deep-dive guide</strong> mein hum samjhenge ki tyre burst kyu hote hain aur agar khuda-na-khasta aapke saath aisa ho jaye, toh 5 second ke andar wo kaunse faisle hain jo aapki jaan bacha sakte hain. Ye purely human-written experience based knowledge hai jo aapko kisi manual mein nahi milegi.</p>
+<p>Main Rajesh Navsagar, pichle 7 saalon se highway safety auditor ke roop mein kaam kar raha hoon. Is <strong>1200+ words deep-dive guide</strong> mein hum samjhenge ki tyre burst kyu hote hain aur agar khuda-na-khasta aapke saath aisa ho jaye, toh 5 second ke andar wo kaunse faisle hain jo aapki jaan bacha sakte hain. Ye purely human-written experience based knowledge hai jo aapko kisi manual mein nahi milegi.</p>
 
 <div style="background-color: #fff4e5; border-left: 5px solid #ff9800; padding: 25px; border-radius: 15px; margin: 30px 0; font-family: 'Inter', sans-serif;">
   <h4 style="margin-top: 0; color: #e65100; font-weight: 800; text-transform: uppercase;">🔥 The Heat Factor</h4>

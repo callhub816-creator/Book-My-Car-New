@@ -224,7 +224,7 @@ const Home: React.FC = () => {
                 Safar Ke Saathi: <br /><span className="text-blue-500">Expert Corner</span>
               </h2>
               <div className="bg-blue-600/20 border border-blue-500/30 px-3 py-1 rounded-lg inline-block mb-4 text-[10px] font-black uppercase tracking-widest text-blue-400">
-                20+ years of driving • Multi-state highway experience • Rental rule researcher
+                7 years of driving • Multi-state highway experience • Rental rule researcher
               </div>
               <p className="text-base md:text-lg text-gray-400 mb-6 italic font-medium leading-relaxed">
                 "I've spent years on Indian highways. I built BookMyCar.live so you can focus on the drive, not the paperwork."
