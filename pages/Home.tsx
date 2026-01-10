@@ -19,8 +19,8 @@ const Home: React.FC = () => {
             alt="Indian Road Trip"
             fetchPriority="high"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent" />
-          <div className="absolute inset-0 bg-black/40" />
+          <div className="absolute inset-0 bg-black/60" />
+          <div className="absolute inset-0 bg-gradient-to-tr from-black/80 via-black/40 to-black/60" />
         </div>
 
         <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full pt-16">
@@ -30,39 +30,39 @@ const Home: React.FC = () => {
               <ShieldCheck size={16} className="text-blue-500" /> 100% Experience-Verified
             </div>
 
-            {/* High-Impact Typography */}
-            <h1 className="text-5xl md:text-8xl font-light leading-[0.9] mb-8 tracking-tighter text-white">
+            {/* Powerful Typography */}
+            <h1 className="text-4xl md:text-7xl font-black leading-[1.1] mb-6 tracking-tight text-white uppercase italic">
               The Indian Road Trip <br />
-              <span className="font-black italic text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-blue-100 to-white drop-shadow-2xl">Survival Guide</span>
+              <span className="text-4xl md:text-6xl text-blue-500 block mt-2 font-black">Survival Guide</span>
             </h1>
 
-            {/* Refined Glassmorphism Card */}
-            <div className="bg-white/[0.03] backdrop-blur-2xl border border-white/10 border-l-4 border-l-blue-600 p-8 rounded-2xl md:rounded-r-3xl max-w-xl mb-12 shadow-[0_20px_50px_rgba(0,0,0,0.5)] group hover:bg-white/[0.05] transition-all duration-500">
-              <p className="text-gray-100 text-lg md:text-xl leading-relaxed font-medium italic">
+            {/* Improved Glassmorphism Card */}
+            <div className="bg-white/10 backdrop-blur-2xl border border-white/10 border-l-4 border-l-blue-600 p-6 md:p-8 rounded-2xl md:rounded-r-3xl max-w-xl mb-10 shadow-3xl">
+              <p className="text-white text-base md:text-lg leading-relaxed font-semibold italic opacity-90">
                 "Honest advice from real Indian driving logs. No PR fluff, no AI generic tips—just the actual rules of the road."
               </p>
-              <div className="mt-6 flex items-center gap-4">
-                <div className="h-[2px] w-12 bg-blue-600 shadow-[0_0_10px_rgba(37,99,235,0.8)]"></div>
-                <span className="text-[11px] font-black text-blue-400 uppercase tracking-[0.4em]">Rajesh Navsagar, Expert Traveler</span>
+              <div className="mt-4 flex items-center gap-3">
+                <div className="h-[2px] w-8 bg-blue-600"></div>
+                <span className="text-[10px] font-black text-blue-400 uppercase tracking-[0.3em]">Rajesh Navsagar, Expert Traveler</span>
               </div>
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-5">
+            <div className="flex flex-col sm:flex-row gap-4">
               <Link
                 to="/blog"
-                className="bg-blue-600 hover:bg-blue-500 text-white px-10 py-5 rounded-2xl font-black flex items-center justify-center gap-3 transition-all shadow-[0_15px_35px_rgba(37,99,235,0.4)] text-[12px] uppercase tracking-[0.2em] transform hover:-translate-y-1 active:scale-95"
+                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-xl font-black flex items-center justify-center gap-3 transition-all shadow-xl text-[11px] uppercase tracking-[0.2em]"
               >
-                READ THE BLOGS <ArrowRight size={18} />
+                READ THE BLOGS <ArrowRight size={16} />
               </Link>
               <Link
                 to="/rules"
-                className="bg-white/5 hover:bg-white/10 text-white backdrop-blur-md border border-white/20 px-10 py-5 rounded-2xl font-black transition-all text-[12px] uppercase tracking-[0.2em] text-center border-b-2 border-b-white/10"
+                className="bg-gray-800 hover:bg-gray-700 text-white px-8 py-4 rounded-xl font-black transition-all text-[11px] uppercase tracking-[0.2em] text-center border border-gray-700"
               >
                 THE RULEBOOK
               </Link>
             </div>
 
-            <p className="mt-8 text-[11px] text-gray-500 font-bold uppercase tracking-widest ml-1 opacity-70">
+            <p className="mt-6 text-[10px] text-gray-500 font-bold uppercase tracking-widest ml-1 opacity-80">
               State-wise road rules, permits & rental laws explained.
             </p>
           </div>
