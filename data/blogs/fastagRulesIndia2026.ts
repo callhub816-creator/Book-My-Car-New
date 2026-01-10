@@ -1,25 +1,25 @@
 import { BlogPost } from '../../types';
 
 const fastagRulesIndia2026: BlogPost = {
-    id: 'fastag-rules-india-2026-rental-cars',
-    title: 'FASTag Rules 2026: Rental Cars mein Double Toll Penalty se kaise bachein?',
-    slug: 'fastag-rules-india-2026-rental-cars',
-    excerpt:
-        'NHAI aur MoRTH ke naye FASTag rules 2026. Seekhiye kaise rental cars mein double toll penalty se bachein aur blacklist status check karein.',
-    category: 'Highway Rules',
-    author: 'Rajesh Navsagar',
-    date: '2026-01-10',
-    imageUrl: '/images/blogs/fastag-rules-india-2026.png',
-    keywords: [
-        'FASTag rules 2026',
-        'NHAI one vehicle one FASTag',
-        'Double toll penalty India',
-        'Rental car FASTag recharge',
-        'FASTag blacklist status check',
-        'GPS based tolling India'
-    ],
-    expertTip: "Bhai, toll par jhagadne se acha hai, pehle se taiyar raho. Hamesha trip shuru karne se pehle 'Park+' app par gaadi ka FASTag balance aur blacklist status check kar lo.",
-    content: `
+  id: 'fastag-rules-india-2026-rental-cars',
+  title: 'FASTag Rules 2026: Rental Cars mein Double Toll Penalty se kaise bachein?',
+  slug: 'fastag-rules-india-2026-rental-cars',
+  excerpt:
+    'NHAI aur MoRTH ke naye FASTag rules 2026. Seekhiye kaise rental cars mein double toll penalty se bachein aur blacklist status check karein.',
+  category: 'Highway Rules',
+  author: 'Rajesh Navsagar',
+  date: '2026-01-05',
+  imageUrl: '/images/blogs/fastag-rules-india-2026.png',
+  keywords: [
+    'FASTag rules 2026',
+    'NHAI one vehicle one FASTag',
+    'Double toll penalty India',
+    'Rental car FASTag recharge',
+    'FASTag blacklist status check',
+    'GPS based tolling India'
+  ],
+  expertTip: "Bhai, toll par jhagadne se acha hai, pehle se taiyar raho. Hamesha trip shuru karne se pehle 'Park+' app par gaadi ka FASTag balance aur blacklist status check kar lo.",
+  content: `
 <p>India ki highways par driving ka maza ab "Cashless" ho chuka hai, lekin self-drive car rental karne walon ke liye ye abhi bhi ek "Tension" ka karan hai. 2026 mein NHAI ne kai naye badlav kiye hain jo ek aam traveler ko shayad nahi pata hotey. Maine khud NH-48 aur NH-44 par travel karte waqt dekha hai ki log toll plaza par 2 guna (Double) penalty bharte hain sirf isliye kyunki unhe rental car ke FASTag rules ki barikiyaan nahi pata hotey.</p>
 
 <p>Chahe aap Zoomcar rent karein, Revv ya MyChoize—FASTag ka maamla aapka pura road trip budget bigad sakta hai. Is guide mein hum Rajesh's experience ke base par deep dive karenge ki kaise aap in toll ke chakkar se bach sakte hain.</p>
