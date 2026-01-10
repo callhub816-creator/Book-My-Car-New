@@ -29,13 +29,15 @@ const Home: React.FC = () => {
               <ShieldCheck size={12} className="text-blue-100" /> Honest Traveler's Guide
             </div>
 
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-black leading-[1.1] mb-6 tracking-tight text-white uppercase italic">
-              Indian Road Trip Guide <br />
-              <span className="text-blue-600">(Honest & Experience-Based)</span>
-            </h1>
-            <p className="mt-2 text-sm md:text-base text-gray-200 max-w-xl leading-relaxed font-medium border-l-2 border-blue-600 pl-4 py-1">
-              BookMyCar.live is a Human-written & experience-verified guide built to help you avoid costly mistakes on Indian roads.
-            </p>
+            <div className="max-w-[90%] md:max-w-none">
+              <h1 className="text-3xl md:text-6xl lg:text-7xl font-black leading-[1.1] mb-4 tracking-tight text-white uppercase italic">
+                Indian Road Trip Guide <br />
+                <span className="text-gray-300 text-xl md:text-4xl lg:text-5xl block mt-2 normal-case not-italic font-bold">Honest & Experience-Based</span>
+              </h1>
+              <p className="text-sm md:text-base text-gray-200 max-w-xl leading-relaxed font-medium border-l-2 border-blue-600 pl-4 py-1">
+                BookMyCar.live is a Human-written & experience-verified guide built to help you avoid costly mistakes on Indian roads.
+              </p>
+            </div>
             <div className="mt-8 flex flex-col sm:flex-row gap-3">
               <Link
                 to="/blog"
