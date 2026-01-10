@@ -144,11 +144,11 @@ const Home: React.FC = () => {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="flex justify-between items-end mb-10">
             <div>
-              <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-1 tracking-tight uppercase">
-                Latest Guides
+              <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-1 tracking-tight uppercase italic">
+                Latest Road Trip <span className="text-blue-600">Guides</span>
               </h2>
-              <p className="text-gray-500 text-sm">
-                Updated routes and rule changes from my latest highway trips.
+              <p className="text-gray-500 text-sm font-medium">
+                Updated routes aur rule changes mere latest trips se.
               </p>
             </div>
             <Link
@@ -209,8 +209,8 @@ const Home: React.FC = () => {
               </div>
             </div>
             <div className="lg:w-3/4">
-              <h2 className="text-3xl md:text-5xl font-black mb-4 uppercase tracking-tighter leading-none">
-                Don’t learn the <br /><span className="text-blue-500 italic">hard way.</span>
+              <h2 className="text-3xl md:text-5xl font-black mb-4 uppercase tracking-tighter leading-none italic">
+                Safar Ke Saathi: <br /><span className="text-blue-500">Expert Corner</span>
               </h2>
               <div className="bg-blue-600/20 border border-blue-500/30 px-3 py-1 rounded-lg inline-block mb-4 text-[10px] font-black uppercase tracking-widest text-blue-400">
                 20+ years of driving • Multi-state highway experience • Rental rule researcher
@@ -230,8 +230,10 @@ const Home: React.FC = () => {
       <section className="py-20 bg-white">
         <div className="max-w-4xl mx-auto px-6">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-4 uppercase tracking-tight">Common Questions</h2>
-            <p className="text-gray-500 font-medium">Tez aur saaf jawab, bina kisi filter ke.</p>
+            <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-4 uppercase tracking-tight italic">
+              Zaroori <span className="text-blue-600">Sawalaat</span> (FAQ)
+            </h2>
+            <p className="text-gray-500 font-medium italic">Tez aur saaf jawab, bina kisi filter ke.</p>
           </div>
 
           <div className="space-y-4">
