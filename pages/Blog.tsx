@@ -35,8 +35,9 @@ const BlogList: React.FC = () => {
               <div className="relative h-48 overflow-hidden rounded-2xl">
                 <img
                   src={post.imageUrl}
-                  alt=""
+                  alt={post.title}
                   loading="lazy"
+                  decoding="async"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
                 <div className="absolute top-3 left-3">
