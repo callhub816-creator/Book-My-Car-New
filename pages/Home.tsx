@@ -50,7 +50,7 @@ const Home: React.FC = () => {
             </div>
 
             {/* 3. Buttons */}
-            <div className="flex flex-col sm:flex-row gap-3">
+            <div className="flex flex-col sm:flex-row gap-4">
               <Link
                 to="/blog"
                 className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3.5 rounded-xl font-black flex items-center justify-center gap-2 transition-all shadow-[0_10px_30px_rgba(37,99,235,0.4)] text-[10px] uppercase tracking-widest"
@@ -59,7 +59,7 @@ const Home: React.FC = () => {
               </Link>
               <Link
                 to="/rules"
-                className="bg-white/5 hover:bg-white/10 text-white backdrop-blur-md border border-white/20 px-8 py-3.5 rounded-xl font-black transition-all text-[10px] uppercase tracking-widest text-center"
+                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3.5 rounded-xl font-black flex items-center justify-center transition-all shadow-[0_10px_30px_rgba(37,99,235,0.4)] text-[10px] uppercase tracking-widest text-center"
               >
                 THE RULEBOOK
               </Link>
