@@ -29,9 +29,9 @@ const Home: React.FC = () => {
               <ShieldCheck size={12} className="text-blue-100" /> Honest Traveler's Guide
             </div>
 
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-black leading-[1.1] mb-6 tracking-tight text-white uppercase">
-              Real Road Logic. <br />
-              <span className="text-blue-600">Straight Talk.</span>
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-black leading-[1.1] mb-6 tracking-tight text-white uppercase italic">
+              Indian Road Trip Guide <br />
+              <span className="text-blue-600">(Honest & Experience-Based)</span>
             </h1>
             <p className="mt-2 text-sm md:text-base text-gray-200 max-w-xl leading-relaxed font-medium border-l-2 border-blue-600 pl-4 py-1">
               BookMyCar.live is a Human-written & experience-verified guide built to help you avoid costly mistakes on Indian roads.
@@ -50,6 +50,9 @@ const Home: React.FC = () => {
                 THE RULEBOOK
               </Link>
             </div>
+            <p className="mt-3 text-[10px] text-gray-400 font-bold uppercase tracking-widest ml-1">
+              State-wise road rules, permits & rental laws explained.
+            </p>
           </div>
         </div>
       </section>
@@ -82,6 +85,55 @@ const Home: React.FC = () => {
             <div>
               <h3 className="font-bold text-gray-900 text-sm uppercase">RTO Truths</h3>
               <p className="text-gray-500 text-[11px] leading-snug">The actual laws of the road, explained simply.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ================= INFORMATIONAL SECTION (WHAT YOU'LL LEARN) ================= */}
+      <section className="py-16 bg-white">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <div className="bg-blue-50/50 rounded-[40px] p-8 md:p-12 border border-blue-100 relative overflow-hidden">
+            <div className="absolute top-0 right-0 p-8 opacity-[0.05] pointer-events-none">
+              <Car size={200} className="text-blue-600" />
+            </div>
+
+            <div className="relative z-10">
+              <h2 className="text-2xl md:text-4xl font-black text-gray-900 mb-8 uppercase tracking-tight">
+                What You’ll Learn on <span className="text-blue-600">BookMyCar.live</span>
+              </h2>
+
+              <div className="grid md:grid-cols-2 gap-8">
+                <ul className="space-y-4">
+                  <li className="flex items-start gap-3">
+                    <div className="mt-1.5 bg-blue-600 rounded-full p-1"><ShieldCheck size={10} className="text-white" /></div>
+                    <p className="text-gray-700 font-medium">How to legally rent and drive self-drive cars in India</p>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <div className="mt-1.5 bg-blue-600 rounded-full p-1"><ShieldCheck size={10} className="text-white" /></div>
+                    <p className="text-gray-700 font-medium">State-wise road rules, tolls, and RTO realities</p>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <div className="mt-1.5 bg-blue-600 rounded-full p-1"><ShieldCheck size={10} className="text-white" /></div>
+                    <p className="text-gray-700 font-medium">Rental car insurance traps and how to avoid damage scams</p>
+                  </li>
+                </ul>
+                <ul className="space-y-4">
+                  <li className="flex items-start gap-3">
+                    <div className="mt-1.5 bg-blue-600 rounded-full p-1"><ShieldCheck size={10} className="text-white" /></div>
+                    <p className="text-gray-700 font-medium">Real highway safety tips from long-distance drives</p>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <div className="mt-1.5 bg-blue-600 rounded-full p-1"><ShieldCheck size={10} className="text-white" /></div>
+                    <p className="text-gray-700 font-medium">Route planning, pitstops, and timing strategies</p>
+                  </li>
+                  <li className="flex items-start gap-3 bg-white/60 p-3 rounded-xl border border-blue-100">
+                    <p className="text-blue-700 font-bold text-xs uppercase tracking-widest italic">
+                      "All guides are written from real trips, not AI summaries."
+                    </p>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
@@ -160,12 +212,54 @@ const Home: React.FC = () => {
               <h2 className="text-3xl md:text-5xl font-black mb-4 uppercase tracking-tighter leading-none">
                 Don’t learn the <br /><span className="text-blue-500 italic">hard way.</span>
               </h2>
+              <div className="bg-blue-600/20 border border-blue-500/30 px-3 py-1 rounded-lg inline-block mb-4 text-[10px] font-black uppercase tracking-widest text-blue-400">
+                20+ years of driving • Multi-state highway experience • Rental rule researcher
+              </div>
               <p className="text-base md:text-lg text-gray-400 mb-6 italic font-medium leading-relaxed">
                 "I've spent years on Indian highways. I built BookMyCar.live so you can focus on the drive, not the paperwork."
               </p>
               <Link to="/about" className="inline-flex items-center text-white bg-blue-600 hover:bg-blue-700 px-8 py-4 rounded-xl font-bold transition-all shadow-xl uppercase tracking-[0.15em] text-[10px]">
                 Understand My Mission <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ================= FAQ SECTION ================= */}
+      <section className="py-20 bg-white">
+        <div className="max-w-4xl mx-auto px-6">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-4 uppercase tracking-tight">Common Questions</h2>
+            <p className="text-gray-500 font-medium">Tez aur saaf jawab, bina kisi filter ke.</p>
+          </div>
+
+          <div className="space-y-4">
+            <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+              <h3 className="text-sm font-black text-gray-900 uppercase mb-2 flex items-center justify-between">
+                Is BookMyCar.live a rental company?
+              </h3>
+              <p className="text-gray-600 text-[13px] leading-relaxed font-medium">
+                Nahi. Hum koi rental company nahi hain. Hum ek independent guide portal hain jo aapko ye batata hai ki rental companies se gaadi kaise leni hai aur scams se kaise bachna hai.
+              </p>
+            </div>
+
+            <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+              <h3 className="text-sm font-black text-gray-900 uppercase mb-2">
+                Are these guides sponsored?
+              </h3>
+              <p className="text-gray-600 text-[13px] leading-relaxed font-medium">
+                Bilkul nahi. Hum brands ko critique karte hain unki actual service ke basis par. Agar koi company fraud hai, toh hum use waisa hi likhte hain.
+              </p>
+            </div>
+
+            <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+              <h3 className="text-sm font-black text-gray-900 uppercase mb-2">
+                Is this content AI-generated?
+              </h3>
+              <p className="text-gray-600 text-[13px] leading-relaxed font-medium">
+                Nahi, ye content Rajesh Navsagar ke personal logs aur road experience par based hai. AI guides aksar road ki real situation (jaise potholes ya local scams) nahi janti.
+              </p>
             </div>
           </div>
         </div>
