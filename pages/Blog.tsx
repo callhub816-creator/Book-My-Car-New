@@ -130,9 +130,6 @@ const BlogPostView: React.FC = () => {
     );
   }
 
-  const recommendedPosts = blogPosts
-    .filter((p) => p.id !== post.id)
-    .slice(0, 3);
 
   return (
     <main className="bg-white min-h-screen pb-12">
@@ -224,40 +221,6 @@ const BlogPostView: React.FC = () => {
 
             {/* Author Section */}
             <AuthorBox />
-
-            {/* Recommended */}
-            {recommendedPosts.length > 0 && (
-              <section className="border-t pt-10 mt-10">
-                <div className="flex justify-between items-end mb-6">
-                  <h3 className="text-lg font-black text-gray-900 uppercase tracking-tight">
-                    Recommended Reads
-                  </h3>
-                  <Link to="/blog" className="text-blue-600 text-[9px] font-black uppercase tracking-widest hover:underline">View All</Link>
-                </div>
-
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-                  {recommendedPosts.map((rec) => (
-                    <Link
-                      key={rec.id}
-                      to={`/blog/${rec.slug}`}
-                      className="group"
-                    >
-                      <div className="rounded-xl overflow-hidden mb-3 h-32 shadow-sm">
-                        <img
-                          src={rec.imageUrl}
-                          alt={rec.title}
-                          loading="lazy"
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                        />
-                      </div>
-                      <h4 className="font-black text-gray-900 group-hover:text-blue-600 text-[11px] leading-snug line-clamp-2 uppercase">
-                        {rec.title}
-                      </h4>
-                    </Link>
-                  ))}
-                </div>
-              </section>
-            )}
           </div>
         </article>
       </section>
