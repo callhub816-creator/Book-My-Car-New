@@ -9,50 +9,59 @@ const Home: React.FC = () => {
   return (
     <div className="flex flex-col min-h-screen">
 
-      {/* ================= HERO SECTION (FIXED HEIGHT) ================= */}
-      <section
-        className="relative h-[calc(100vh-64px)] md:h-[calc(100vh-80px)] md:max-h-[650px] flex items-center overflow-hidden"
-      >
+      {/* ================= PREMIUM HERO SECTION ================= */}
+      <section className="relative h-[85vh] md:h-[90vh] min-h-[600px] flex items-center overflow-hidden bg-gray-900">
+        {/* Background Image with better overlay */}
         <div className="absolute inset-0 z-0">
           <img
             src="/images/hero/home-hero-indian-road-trip-car.png"
-            className="w-full h-full object-cover object-center scale-105"
+            className="w-full h-full object-cover object-center"
             alt="Indian Road Trip"
             fetchPriority="high"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-tr from-black/90 via-black/40 to-transparent" />
         </div>
 
-        <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full pt-10 md:pt-0">
+        <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full pt-16">
           <div className="max-w-3xl">
-            <div className="inline-flex items-center gap-2 bg-blue-600 px-2.5 py-1 rounded-md text-[9px] font-bold tracking-wider uppercase mb-4 text-white">
-              <ShieldCheck size={12} className="text-blue-100" /> Honest Traveler's Guide
+            {/* Elegant Badge */}
+            <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 px-3 py-1.5 rounded-full text-[10px] font-black tracking-widest uppercase mb-6 text-blue-400">
+              <ShieldCheck size={14} /> 100% Experience-Verified
             </div>
 
-            <div className="max-w-[90%] md:max-w-none">
-              <h1 className="text-3xl md:text-6xl lg:text-7xl font-black leading-[1.1] mb-4 tracking-tight text-white uppercase italic">
-                Indian Road Trip Guide <br />
-                <span className="text-gray-300 text-xl md:text-4xl lg:text-5xl block mt-2 normal-case not-italic font-bold">Honest & Experience-Based</span>
-              </h1>
-              <p className="text-sm md:text-base text-gray-200 max-w-xl leading-relaxed font-medium border-l-2 border-blue-600 pl-4 py-1">
-                BookMyCar.live is a Human-written & experience-verified guide built to help you avoid costly mistakes on Indian roads.
+            {/* Premium Typography */}
+            <h1 className="text-4xl md:text-7xl font-light leading-[1] mb-6 tracking-tighter text-white">
+              The Indian Road Trip <br />
+              <span className="font-black italic text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Survival Guide</span>
+            </h1>
+
+            {/* Glassmorphism Text Card */}
+            <div className="bg-white/5 backdrop-blur-xl border-l-4 border-blue-600 p-6 rounded-2xl md:rounded-r-3xl max-w-xl mb-10 shadow-2xl">
+              <p className="text-gray-200 text-sm md:text-lg leading-relaxed font-medium italic">
+                "Honest advice from real trips. No AI summaries, no brand favoritism—just the hard truths about Indian highways and rental cars."
               </p>
+              <div className="mt-4 flex items-center gap-3">
+                <div className="h-px w-8 bg-blue-500/50"></div>
+                <span className="text-[10px] font-black text-blue-400 uppercase tracking-[0.3em]">Rajesh Navsagar, Expert Traveler</span>
+              </div>
             </div>
-            <div className="mt-8 flex flex-col sm:flex-row gap-3">
+
+            <div className="flex flex-col sm:flex-row gap-4">
               <Link
                 to="/blog"
-                className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3.5 rounded-xl font-bold flex items-center justify-center gap-2 transition-all shadow-lg text-[11px] uppercase tracking-widest"
+                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-xl font-black flex items-center justify-center gap-3 transition-all shadow-[0_10px_30px_rgba(37,99,235,0.4)] text-[11px] uppercase tracking-[0.2em] transform hover:-translate-y-1"
               >
                 READ THE BLOGS <ArrowRight size={16} />
               </Link>
               <Link
                 to="/rules"
-                className="bg-white/10 hover:bg-white/20 text-white backdrop-blur-md border border-white/30 px-6 py-3.5 rounded-xl font-bold flex items-center justify-center transition-all text-[11px] uppercase tracking-widest"
+                className="bg-white/10 hover:bg-white/20 text-white backdrop-blur-md border border-white/20 px-8 py-4 rounded-xl font-black transition-all text-[11px] uppercase tracking-[0.2em] text-center"
               >
                 THE RULEBOOK
               </Link>
             </div>
-            <p className="mt-3 text-[10px] text-gray-400 font-bold uppercase tracking-widest ml-1">
+
+            <p className="mt-6 text-[10px] text-gray-500 font-bold uppercase tracking-widest ml-1 opacity-80">
               State-wise road rules, permits & rental laws explained.
             </p>
           </div>
