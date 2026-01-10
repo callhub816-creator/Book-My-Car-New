@@ -38,7 +38,10 @@ const About: React.FC = () => (
             <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center text-blue-600 font-black text-base shadow-lg">RN</div>
             <div>
               <p className="font-black text-base uppercase tracking-tight">Rajesh Navsagar</p>
-              <p className="text-[9px] text-blue-200 uppercase tracking-[0.2em] font-bold opacity-80">Founder & Expert Guide</p>
+              <p className="text-[9px] text-blue-200 uppercase tracking-[0.2em] font-bold opacity-80 mb-1">Founder & Expert Guide</p>
+              <p className="text-[10px] md:text-xs text-blue-100/90 font-medium leading-relaxed max-w-md">
+                Independent road-travel researcher with multi-state driving experience across India (2019–2026).
+              </p>
             </div>
           </div>
         </div>

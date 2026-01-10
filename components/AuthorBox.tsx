@@ -40,7 +40,7 @@ const AuthorBox: React.FC = () => {
                     </p>
                     <p className="text-gray-400 text-xs leading-relaxed font-bold border-l-2 border-gray-100 pl-4">
                         <span className="text-gray-600 uppercase text-[8px] tracking-widest block mb-1 font-black">Context</span>
-                        Rajesh is an independent road-travel researcher documenting rental rules and highway safety realities across India.
+                        Rajesh is an independent road-travel researcher with multi-state driving experience across India (2019–2026), documenting rental rules and highway safety realities.
                     </p>
                 </div>
 
