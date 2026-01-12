@@ -30,8 +30,8 @@ export const blogPosts = [
   mountainDrivingTipsIndia,       // Jan 5, 2026
   fogDrivingGuideIndia,           // Jan 6, 2026
   interstatePermitGuide,          // Jan 7, 2026
-  /* 
   selfDrivePermitExplained,       // Jan 9, 2026
+  /* 
   speedLimitFinesIndia,           // Jan 10, 2026
   zoomcarVsRevvComparison,        // Jan 12, 2026
   rentalCarInsuranceGuide2026,    // Jan 15, 2026
