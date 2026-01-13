@@ -9,7 +9,7 @@ const tyreBurstPreventionGuide: BlogPost = {
   category: 'Safety',
   author: 'Rajesh Navsagar',
   date: '2026-01-05',
-  imageUrl: '/images/blogs/mountain-driving-tips-india.png',
+  imageUrl: '/images/blogs/tyre-burst-prevention-highway-guide-2026.png',
   keywords: [
     'Tyre burst prevention highway',
     'Nitro vs Air for highway',

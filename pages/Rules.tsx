@@ -10,6 +10,10 @@ import {
 } from 'lucide-react';
 
 const Rules: React.FC = () => {
+  React.useEffect(() => {
+    document.title = "Rental Car Rules & RTO Reality India | BookMyCar.live";
+  }, []);
+
   return (
     <div className="bg-white min-h-screen pt-4 pb-12 px-4">
       <div className="max-w-5xl mx-auto px-4 md:px-8">

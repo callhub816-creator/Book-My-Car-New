@@ -1,76 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.bookmycar.live/#/</loc>
+    <loc>https://bookmycar.live/#/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog</loc>
+    <loc>https://bookmycar.live/#/blog</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/rules</loc>
+    <loc>https://bookmycar.live/#/rules</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/about</loc>
+    <loc>https://bookmycar.live/#/about</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/contact</loc>
+    <loc>https://bookmycar.live/#/contact</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/privacy</loc>
+    <loc>https://bookmycar.live/#/privacy</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/terms</loc>
+    <loc>https://bookmycar.live/#/terms</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/disclaimer</loc>
+    <loc>https://bookmycar.live/#/disclaimer</loc>
     <priority>0.5</priority>
   </url>
   <!-- Active Blogs -->
   <url>
-    <loc>https://www.bookmycar.live/#/blog/delhi-jaipur-road-trip</loc>
+    <loc>https://bookmycar.live/#/blog/delhi-jaipur-road-trip</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/car-rental-scams-india</loc>
+    <loc>https://bookmycar.live/#/blog/car-rental-scams-india</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/long-drive-safety-checklist</loc>
+    <loc>https://bookmycar.live/#/blog/long-drive-safety-checklist</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/best-time-to-start-long-road-trip-india-2026</loc>
+    <loc>https://bookmycar.live/#/blog/best-time-to-start-long-road-trip-india-2026</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/night-driving-survival-guide-india-2026</loc>
+    <loc>https://bookmycar.live/#/blog/night-driving-survival-guide-india-2026</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/black-plate-rule-india</loc>
+    <loc>https://bookmycar.live/#/blog/black-plate-rule-india</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/monsoon-driving-survival-guide-india</loc>
+    <loc>https://bookmycar.live/#/blog/monsoon-driving-survival-guide-india</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/car-pickup-inspection-checklist-rajesh</loc>
+    <loc>https://bookmycar.live/#/blog/car-pickup-inspection-checklist-rajesh</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/fastag-rules-india-2026-rental-cars</loc>
+    <loc>https://bookmycar.live/#/blog/fastag-rules-india-2026-rental-cars</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/#/blog/rental-car-insurance-guide-2026-india</loc>
+    <loc>https://bookmycar.live/#/blog/tyre-burst-prevention-highway-guide-2026</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bookmycar.live/#/blog/mountain-driving-tips-india-2026</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bookmycar.live/#/blog/fog-driving-guide-india-2026</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bookmycar.live/#/blog/interstate-permit-guide-india-2026</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bookmycar.live/#/blog/self-drive-permit-india-guide-rajesh</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bookmycar.live/#/blog/rental-car-insurance-guide-2026-india</loc>
     <priority>0.6</priority>
   </url>
 </urlset>

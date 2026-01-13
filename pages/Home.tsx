@@ -4,6 +4,10 @@ import { ShieldCheck, ArrowRight, User, BookOpen, AlertCircle, Car } from 'lucid
 import { blogPosts } from '../data/blogs';
 
 const Home: React.FC = () => {
+  React.useEffect(() => {
+    document.title = "BookMyCar.live | Honest Indian Road Trip & Rental Guide";
+  }, []);
+
   const featuredBlogs = blogPosts.slice(0, 3);
 
   return (

@@ -2,6 +2,10 @@ import React from 'react';
 import { Mail, MessageSquare, ShieldCheck, User, ArrowRight } from 'lucide-react';
 
 const Contact: React.FC = () => {
+  React.useEffect(() => {
+    document.title = "Contact Rajesh Navsagar | BookMyCar.live";
+  }, []);
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     alert('Bhai, message mil gaya! Rajesh will get back to you within 24-48 hours.');
