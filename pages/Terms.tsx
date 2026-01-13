@@ -1,5 +1,5 @@
 import React from 'react';
-import { Gavel, CheckCircle2, Bookmark, ExternalLink, ShieldAlert } from 'lucide-react';
+import { Gavel, CheckCircle2, Bookmark, ExternalLink, ShieldAlert, UserCheck } from 'lucide-react';
 
 const Terms: React.FC = () => {
   React.useEffect(() => {
@@ -19,7 +19,7 @@ const Terms: React.FC = () => {
             Terms & Conditions
           </h1>
           <p className="text-base md:text-lg text-gray-500 font-medium leading-relaxed italic border-l-2 border-gray-200 pl-4 py-1">
-            "I keep the rules simple so you can focus on the drive."
+            "Clear terms so you can focus on the drive."
           </p>
         </div>
 
@@ -27,7 +27,7 @@ const Terms: React.FC = () => {
           <p className="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-8">Updated: Jan 2026</p>
 
           <p className="leading-relaxed mb-10 text-sm md:text-base">
-            Welcome to <strong>BookMyCar.live</strong>. By using this site, you agree to the rules below. I built this to help honest travelers, and these terms ensure we stay on the same page.
+            Welcome to <strong>BookMyCar.live</strong>. By using this website, users agree to the terms and conditions outlined below. This platform is intended for informational purposes for the road travel community.
           </p>
 
           <section className="mb-12">
@@ -35,11 +35,11 @@ const Terms: React.FC = () => {
               <div className="bg-gray-900 p-2 rounded-xl text-white shadow-lg">
                 <CheckCircle2 size={20} />
               </div>
-              <h2 className="text-xl font-black text-gray-900 m-0 tracking-tight uppercase">1. Just a Blog</h2>
+              <h2 className="text-xl font-black text-gray-900 m-0 tracking-tight uppercase">1. Informational Service Only</h2>
             </div>
             <div className="bg-blue-50/50 border border-blue-100 p-6 rounded-2xl">
               <p className="text-gray-900 font-bold m-0 leading-relaxed text-sm">
-                BookMyCar.live is an informational hub. I am NOT a car rental agency or booking platform. I don't manage any fleet of cars.
+                BookMyCar.live is an informational guide portal. This website is not a car rental agency, broker, or booking platform, and we do not manage or operate any fleet of vehicles.
               </p>
             </div>
           </section>
@@ -50,10 +50,10 @@ const Terms: React.FC = () => {
                 <div className="bg-gray-100 p-2 rounded-xl text-gray-900 group-hover:bg-blue-600 group-hover:text-white transition-all">
                   <Bookmark size={20} />
                 </div>
-                2. Your Responsibility
+                2. User Responsibility
               </h2>
               <p className="leading-relaxed text-gray-500 font-medium text-sm">
-                I share real-world logs for guidance. However, road laws and rental policies change fast. You are responsible for verifying facts with official portals.
+                Content is based on documented road experiences for general guidance. However, road laws and rental policies are subject to change without notice. Users are responsible for verifying all information with official government portals and their respective rental providers before travel.
               </p>
             </section>
 
@@ -62,10 +62,23 @@ const Terms: React.FC = () => {
                 <div className="bg-gray-100 p-2 rounded-xl text-gray-900 group-hover:bg-blue-600 group-hover:text-white transition-all">
                   <ExternalLink size={20} />
                 </div>
-                3. External Links
+                3. External Resources
               </h2>
               <p className="leading-relaxed text-gray-500 font-medium text-sm">
-                My articles may link to other sites. I have no control over their content. A link doesn't mean I endorse everything on that site.
+                This website may link to external resources or third-party websites. BookMyCar.live has no control over the nature, content, or availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them.
+              </p>
+            </section>
+
+            {/* New Section: Acceptable Use */}
+            <section className="group">
+              <h2 className="text-xl font-black text-gray-900 flex items-center gap-3 mb-4 tracking-tight uppercase">
+                <div className="bg-gray-100 p-2 rounded-xl text-gray-900 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                  <UserCheck size={20} />
+                </div>
+                4. Acceptable Use
+              </h2>
+              <p className="leading-relaxed text-gray-500 font-medium text-sm">
+                Users agree not to misuse the content on this website for unlawful purposes, automated scraping, or redistribution without explicit permission. The content is intended for personal, non-commercial informational use only.
               </p>
             </section>
 
@@ -74,10 +87,10 @@ const Terms: React.FC = () => {
                 <div className="bg-red-50 p-2 rounded-xl text-red-600 group-hover:bg-red-600 group-hover:text-white transition-all">
                   <ShieldAlert size={20} />
                 </div>
-                4. Liability
+                5. Limitation of Liability
               </h2>
               <p className="leading-relaxed text-red-900 font-bold bg-red-50/30 p-5 rounded-xl border border-red-100 text-sm">
-                BookMyCar.live is not liable for any fines, disputes, or accidents. Your reliance on the information here is at your own risk.
+                BookMyCar.live provides informational content for general guidance only. While efforts are made to keep information accurate, we do not guarantee completeness or current validity. BookMyCar.live shall not be held responsible for losses, disputes, penalties, or incidents arising from reliance on the information provided. Use of this site is at the user's own risk.
               </p>
             </section>
           </div>
