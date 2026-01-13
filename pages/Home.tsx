@@ -14,57 +14,57 @@ const Home: React.FC = () => {
     <div className="flex flex-col min-h-screen">
 
       {/* ================= HERO REFINED (USER FEEDBACK) ================= */}
-      <section className="relative h-[calc(85vh-64px)] md:max-h-[500px] flex items-center overflow-hidden bg-black">
+      <section className="relative min-h-[550px] md:h-[calc(85vh-64px)] md:max-h-[500px] flex items-center overflow-hidden bg-black">
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img
             src="/images/hero/home-hero-indian-road-trip-car.png"
-            className="w-full h-full object-cover object-center"
+            className="w-full h-full object-cover object-[65%_center] md:object-center opacity-60 md:opacity-100"
             alt="Indian Road Trip"
             fetchPriority="high"
           />
-          <div className="absolute inset-0 bg-black/40" />
-          <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent" />
+          <div className="absolute inset-0 bg-black/40 md:bg-black/20" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent md:bg-gradient-to-r md:from-black/80 md:via-black/20 md:to-transparent" />
         </div>
 
-        <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full h-full flex flex-col justify-center py-12">
-          <div className="max-w-2xl mt-10">
+        <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full flex flex-col justify-center py-10">
+          <div className="max-w-2xl text-center md:text-left mx-auto md:mx-0">
             {/* Subtle Evidence Signal */}
-            <div className="flex items-center gap-2 mb-4 opacity-80">
-              <div className="h-[1px] w-8 bg-blue-500"></div>
+            <div className="flex items-center justify-center md:justify-start gap-2 mb-4 opacity-100">
+              <div className="h-[2px] w-6 bg-blue-500"></div>
               <span className="text-[10px] md:text-[11px] font-black text-blue-400 uppercase tracking-[0.3em]">
                 From Indian Highways — Field Notes
               </span>
             </div>
 
             {/* Title */}
-            <h1 className="text-4xl md:text-6xl font-black leading-[1] mb-6 tracking-tight text-white uppercase italic drop-shadow-lg">
+            <h1 className="text-4xl md:text-6xl font-black leading-[1.1] mb-6 tracking-tight text-white uppercase italic drop-shadow-2xl">
               The Indian Road Trip <br />
               <span className="text-3xl md:text-5xl text-blue-500 block mt-2">Reality Guide</span>
             </h1>
 
             {/* 2. Transparent Glass Card with Blue Border */}
-            <div className="bg-transparent backdrop-blur-md border-2 border-blue-500/50 p-4 md:p-5 rounded-2xl max-w-lg mb-6 shadow-[0_0_20px_rgba(59,130,246,0.2)]">
-              <p className="text-white text-sm md:text-base leading-relaxed font-bold italic">
+            <div className="bg-black/40 backdrop-blur-md border border-blue-500/30 p-5 rounded-2xl max-w-lg mb-8 shadow-xl mx-auto md:mx-0">
+              <p className="text-white text-[13px] md:text-base leading-relaxed font-bold italic">
                 "Real-world driving lessons from Indian highways — routes, rules, tolls, and mistakes you only learn on the road."
               </p>
-              <div className="mt-3 flex items-center gap-2">
-                <div className="h-[2px] w-6 bg-blue-500"></div>
-                <span className="text-[9px] font-black text-blue-400 uppercase tracking-widest">Rajesh Navsagar, Expert Traveler</span>
+              <div className="mt-4 flex items-center justify-center md:justify-start gap-2">
+                <div className="h-[2px] w-4 bg-blue-500"></div>
+                <span className="text-[9px] font-black text-blue-300 uppercase tracking-widest">Rajesh Navsagar, Expert Traveler</span>
               </div>
             </div>
 
             {/* 3. Buttons */}
-            <div className="flex flex-col sm:flex-row gap-4">
+            <div className="flex flex-col sm:flex-row gap-4 items-center md:items-start justify-center md:justify-start">
               <Link
                 to="/blog"
-                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3.5 rounded-xl font-black flex items-center justify-center gap-2 transition-all shadow-[0_10px_30px_rgba(37,99,235,0.4)] text-[10px] uppercase tracking-widest"
+                className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-xl font-black flex items-center justify-center gap-2 transition-all shadow-lg text-[10px] uppercase tracking-widest min-w-[180px]"
               >
                 READ THE BLOGS <ArrowRight size={14} />
               </Link>
               <Link
                 to="/rules"
-                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3.5 rounded-xl font-black flex items-center justify-center transition-all shadow-[0_10px_30px_rgba(37,99,235,0.4)] text-[10px] uppercase tracking-widest text-center"
+                className="w-full sm:w-auto bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white border border-white/20 px-8 py-4 rounded-xl font-black flex items-center justify-center transition-all text-[10px] uppercase tracking-widest text-center min-w-[180px]"
               >
                 THE RULEBOOK
               </Link>
