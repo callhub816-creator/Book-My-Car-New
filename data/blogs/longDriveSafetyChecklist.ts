@@ -23,7 +23,7 @@ const longDriveSafetyChecklist: BlogPost = {
 
 <p>Long drive ka plan banana exciting hota hai, lekin safety preparation ko ignore karna kafi mehenga aur khatarnak pad sakta hai. Indian highways par breakdown, car overheating, tyre burst aur battery failure jaise issues bahut common hain. <strong>Ye checklist Rajesh's 7 saal ke highway experience aur MoRTH guidelines par based hai.</strong></strong></p>
 
-<p>Zyadatar log sirf fuel bharwa kar nikal padte hain, lekin ek safe trip ke liye car aur driver dono ki mental aur physical health zaroori hai. Is guide mein hum detail mein baat karenge ki kaise aap sirf 20 minute ke pre-trip check se apni aur apni family ki jaan bacha sakte hain. Ye robots ke liye nahi, asli drivers ke liye likha gaya hai.</p>
+<p>Zyadatar log sirf fuel bharwa kar nikal padte hain, lekin ek safe trip ke liye car aur driver dono ki mental aur physical health zaroori hai. Is guide mein hum detail mein baat karenge ki kaise aap sirf 20 minute ke pre-trip check se apni aur apni family ki jaan bacha sakte hain.</p>
 
 <hr/>
 

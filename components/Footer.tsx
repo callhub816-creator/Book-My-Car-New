@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
                 <h3 className="text-[10px] font-black uppercase tracking-widest text-white underline decoration-blue-500/50 underline-offset-4">Transparency notice</h3>
               </div>
               <p className="text-[12px] text-gray-400 leading-relaxed font-medium">
-                Based on real experience. I don't sell bookings or take commissions. My goal is to share on-road evidence and verified advice.
+                Based on real experience. I don't sell bookings or take commissions. My goal is to share on-road evidence and practical advice.
               </p>
               <div className="mt-4 pt-4 border-t border-white/5">
                 <p className="text-[10px] text-gray-500 leading-relaxed font-bold italic opacity-60">
@@ -98,7 +98,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/5 flex justify-center items-center text-center">
           <p className="text-[10px] text-gray-500 font-black uppercase tracking-[0.2em]">
-            © {currentYear} BookMyCar.live. Content verified by Rajesh Navsagar based on on-road experience.
+            © {currentYear} BookMyCar.live. Content by Rajesh Navsagar, based on on-road experience.
           </p>
         </div>
       </div>

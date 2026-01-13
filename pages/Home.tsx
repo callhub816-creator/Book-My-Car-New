@@ -14,7 +14,7 @@ const Home: React.FC = () => {
     <div className="flex flex-col min-h-screen">
 
       {/* ================= HERO REFINED (USER FEEDBACK) ================= */}
-      <section className="relative h-[calc(100vh-64px)] md:max-h-[600px] flex items-center overflow-hidden bg-black">
+      <section className="relative h-[calc(85vh-64px)] md:max-h-[500px] flex items-center overflow-hidden bg-black">
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img
@@ -33,7 +33,7 @@ const Home: React.FC = () => {
             <div className="flex items-center gap-2 mb-4 opacity-80">
               <div className="h-[1px] w-8 bg-blue-500"></div>
               <span className="text-[10px] md:text-[11px] font-black text-blue-400 uppercase tracking-[0.3em]">
-                From Indian Highways — Real Evidence
+                From Indian Highways — Field Notes
               </span>
             </div>
 
@@ -44,7 +44,7 @@ const Home: React.FC = () => {
             </h1>
 
             {/* 2. Transparent Glass Card with Blue Border */}
-            <div className="bg-transparent backdrop-blur-md border-2 border-blue-500/50 p-5 md:p-6 rounded-2xl max-w-lg mb-8 shadow-[0_0_20px_rgba(59,130,246,0.2)]">
+            <div className="bg-transparent backdrop-blur-md border-2 border-blue-500/50 p-4 md:p-5 rounded-2xl max-w-lg mb-6 shadow-[0_0_20px_rgba(59,130,246,0.2)]">
               <p className="text-white text-sm md:text-base leading-relaxed font-bold italic">
                 "Real-world driving lessons from Indian highways — routes, rules, tolls, and mistakes you only learn on the road."
               </p>
@@ -226,7 +226,7 @@ const Home: React.FC = () => {
             </div>
             <div className="lg:w-3/4">
               <h2 className="text-3xl md:text-5xl font-black mb-4 uppercase tracking-tighter leading-none italic">
-                Safar Ke Saathi: <br /><span className="text-blue-500">Expert Corner</span>
+                Meet the Expert: <br /><span className="text-blue-500">Expert Corner</span>
               </h2>
               <div className="bg-blue-600/20 border border-blue-500/30 px-3 py-1 rounded-lg inline-block mb-4 text-[10px] font-black uppercase tracking-widest text-blue-400">
                 7 years of driving • Multi-state highway experience • Rental policy auditor (based on real booking and dispute cases)
@@ -247,7 +247,7 @@ const Home: React.FC = () => {
         <div className="max-w-4xl mx-auto px-6">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-4 uppercase tracking-tight italic">
-              Zaroori <span className="text-blue-600">Sawalaat</span> (FAQ)
+              Frequently Asked <span className="text-blue-600">Questions</span> (FAQ)
             </h2>
             <p className="text-gray-500 font-medium italic">Tez aur saaf jawab, bina kisi filter ke.</p>
           </div>
