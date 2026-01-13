@@ -21,13 +21,13 @@ const Rules: React.FC = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <div className="inline-flex items-center gap-2 bg-blue-50 text-blue-600 px-3 py-1.5 rounded-full text-[9px] font-black uppercase tracking-widest mb-3 border border-blue-100/50">
-            <ShieldCheck size={12} /> Experience-verified
+            <ShieldCheck size={12} /> Road Trip Field Notes
           </div>
           <h1 className="text-3xl md:text-5xl font-black text-gray-900 mb-2 tracking-tighter leading-[1.1] font-serif uppercase">
             Road Rules They <br /> <span className="text-blue-600">Don't Tell You.</span>
           </h1>
           <p className="text-[10px] md:text-xs text-blue-600 font-black uppercase tracking-widest mb-4">
-            "Written from real police checkpoints & rental cases, based on on-road evidence."
+            "Written from observations made at highway check-posts and real rental experiences."
           </p>
           <p className="text-sm md:text-base text-gray-500 max-w-xl mx-auto font-medium leading-relaxed italic border-l-2 border-blue-100 pl-4 py-1">
             Documents, insurance, and state laws — Practical guidance for Indian travelers, based on real highway logs.
@@ -94,17 +94,17 @@ const Rules: React.FC = () => {
         <section className="mb-10 bg-red-50 p-6 md:p-8 rounded-2xl border border-red-200 relative overflow-hidden">
           <div className="relative z-10">
             <div className="inline-flex items-center gap-1.5 bg-red-600 text-white px-2 py-0.5 rounded-md text-[9px] font-black uppercase tracking-widest mb-4">
-              <AlertTriangle size={12} /> High Risk Warning
+              <AlertTriangle size={12} /> High Risk Warning: White Plate Rentals
             </div>
             <h2 className="text-2xl font-black text-gray-900 mb-2 tracking-tight uppercase">
-              The White Plate Scam
+              Insurance & Compliance Risks
             </h2>
             <p className="text-sm font-bold text-gray-800 leading-relaxed mb-4 border-l-2 border-red-500 pl-4">
-              Renting cars with white number plates is generally considered illegal for commercial use. <strong>This can lead to total insurance nullification.</strong> Based on most insurance terms, if you are involved in a crash, you may be held personally liable for all damages.
+              In many states, private (white plate) vehicles are not permitted for commercial rental use. Some insurance policies may deny claims if a vehicle is found to be operating outside permitted use. In such cases, renters may face claim complications or financial liability depending on policy terms and local enforcement.
             </p>
             <div className="bg-white/80 backdrop-blur-sm p-3 rounded-lg border border-red-300 inline-block shadow-sm">
               <p className="text-red-900 font-black uppercase tracking-tighter text-[10px] italic">
-                Rajesh's Advice: Seek out Black + Yellow plates for legal protection.
+                Rajesh's Advice: Prefer commercially registered vehicles (black + yellow plates) to reduce insurance and compliance risks.
               </p>
             </div>
           </div>
@@ -122,17 +122,17 @@ const Rules: React.FC = () => {
 
           <div className="grid md:grid-cols-2 gap-4">
             <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm">
-              <h3 className="text-[9px] font-black text-blue-600 uppercase tracking-widest mb-2">Liability Limit</h3>
-              <p className="text-base font-black text-gray-900 mb-1 uppercase tracking-tighter">You Pay ~₹10,000</p>
+              <h3 className="text-[9px] font-black text-blue-600 uppercase tracking-widest mb-2">Typical Deductible (Varies by Provider)</h3>
+              <p className="text-base font-black text-gray-900 mb-1 uppercase tracking-tighter">Limited Liability</p>
               <p className="text-gray-500 text-[11px] leading-relaxed font-medium">
-                Deducted from deposit for minor scratches or glass damage.
+                Often deducted from the security deposit for minor damages such as scratches or glass damage, subject to rental and insurance policy terms.
               </p>
             </div>
             <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm text-center md:text-left">
               <h3 className="text-[9px] font-black text-red-600 uppercase tracking-widest mb-2">Severe Violation</h3>
-              <p className="text-base font-black text-gray-900 mb-1 uppercase tracking-tighter text-red-600">Possible Total Liability</p>
+              <p className="text-base font-black text-gray-900 mb-1 uppercase tracking-tighter text-red-600">Possible Recovery Costs</p>
               <p className="text-gray-500 text-[11px] leading-relaxed font-medium">
-                In cases like drink & drive or extreme overspeeding, insurance claims are often rejected. You may be required to cover the full recovery of the vehicle.
+                In cases such as drink & drive or extreme overspeeding, insurance claims may be rejected depending on policy terms and enforcement reports. In such situations, renters may be required to bear significant recovery costs.
               </p>
             </div>
           </div>
