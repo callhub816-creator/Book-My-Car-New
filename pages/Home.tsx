@@ -28,14 +28,15 @@ const Home: React.FC = () => {
         </div>
 
         <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full h-full flex flex-col justify-center py-12">
-          {/* 1. 100% Verified Badge at the Top Left */}
-          <div className="absolute top-8 left-6 md:left-12">
-            <div className="inline-flex items-center gap-2 bg-blue-600/20 backdrop-blur-md border border-blue-500/30 px-3 py-1 rounded-full text-[8px] md:text-[9px] font-black tracking-widest uppercase text-blue-100 italic">
-              <ShieldCheck size={12} className="text-blue-400" /> On-Road Evidence
-            </div>
-          </div>
-
           <div className="max-w-2xl mt-10">
+            {/* Subtle Evidence Signal */}
+            <div className="flex items-center gap-2 mb-4 opacity-80">
+              <div className="h-[1px] w-8 bg-blue-500"></div>
+              <span className="text-[10px] md:text-[11px] font-black text-blue-400 uppercase tracking-[0.3em]">
+                From Indian Highways — Real Evidence
+              </span>
+            </div>
+
             {/* Title */}
             <h1 className="text-4xl md:text-6xl font-black leading-[1] mb-6 tracking-tight text-white uppercase italic drop-shadow-lg">
               The Indian Road Trip <br />
