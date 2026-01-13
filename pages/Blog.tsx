@@ -221,6 +221,59 @@ const BlogPostView: React.FC = () => {
 
             {/* Author Section */}
             <AuthorBox />
+
+            {/* Suggested Blogs Section */}
+            <div className="mt-16 pt-12 border-t border-gray-100">
+              <div className="flex items-center justify-between mb-8">
+                <div>
+                  <h3 className="text-xl font-black text-gray-900 uppercase tracking-tight italic">
+                    Related <span className="text-blue-600">Guides</span>
+                  </h3>
+                  <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest mt-1">Recommended for your trip</p>
+                </div>
+                <Link to="/blog" className="text-[10px] font-black text-blue-600 uppercase tracking-widest border-b-2 border-blue-100 pb-0.5 hover:border-blue-600 transition-all">
+                  View All
+                </Link>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {blogPosts
+                  .filter((p) => p.slug !== post.slug)
+                  .sort(() => Math.random() - 0.5)
+                  .slice(0, 2)
+                  .map((suggestedPost) => (
+                    <Link
+                      key={suggestedPost.id}
+                      to={`/blog/${suggestedPost.slug}`}
+                      className="group bg-gray-50/50 rounded-2xl p-4 border border-transparent hover:border-blue-100 hover:bg-white hover:shadow-xl transition-all duration-300"
+                    >
+                      <div className="relative h-32 mb-4 overflow-hidden rounded-xl">
+                        <img
+                          src={suggestedPost.imageUrl}
+                          alt={suggestedPost.title}
+                          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                        />
+                        <div className="absolute top-2 left-2">
+                          <span className="bg-white/90 backdrop-blur-sm text-[7px] font-black px-1.5 py-0.5 rounded shadow-sm uppercase">
+                            {suggestedPost.category}
+                          </span>
+                        </div>
+                      </div>
+                      <h4 className="text-sm font-black text-gray-900 uppercase leading-snug line-clamp-2 group-hover:text-blue-600 transition-colors">
+                        {suggestedPost.title}
+                      </h4>
+                      <div className="flex items-center justify-between mt-3">
+                        <span className="text-[8px] font-black text-gray-400 uppercase tracking-widest flex items-center gap-1">
+                          <Calendar size={10} /> {suggestedPost.date}
+                        </span>
+                        <span className="text-blue-600 font-black text-[8px] uppercase tracking-widest flex items-center gap-1 group-hover:gap-2 transition-all">
+                          Read <ArrowLeft size={10} className="rotate-180" />
+                        </span>
+                      </div>
+                    </Link>
+                  ))}
+              </div>
+            </div>
           </div>
         </article>
       </section>
