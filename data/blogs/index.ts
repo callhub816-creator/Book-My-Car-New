@@ -13,12 +13,6 @@ import fogDrivingGuideIndia from './fogDrivingGuideIndia';
 import interstatePermitGuide from './interstatePermitGuide';
 import selfDrivePermitExplained from './selfDrivePermitExplained';
 import speedLimitFinesIndia from './speedLimitFinesIndia';
-import zoomcarVsRevvComparison from './zoomcarVsRevvComparison';
-import rentalCarInsuranceGuide2026 from './rentalCarInsuranceGuide2026';
-import carRentalVsOwnership from './carRentalVsOwnership';
-import anprChallanGuide from './anprChallanGuide';
-import femaleSoloTravelSafety from './femaleSoloTravelSafety';
-import scenicRoutesIndia from './scenicRoutesIndia';
 
 export const blogPosts = [
   delhiJaipurRoadTrip,            // Dec 20, 2025
@@ -36,12 +30,4 @@ export const blogPosts = [
   interstatePermitGuide,          // Jan 7, 2026
   selfDrivePermitExplained,       // Jan 9, 2026
   speedLimitFinesIndia,           // Jan 10, 2026
-  /*
-  zoomcarVsRevvComparison,        // Jan 12, 2026
-  rentalCarInsuranceGuide2026,    // Jan 15, 2026
-  carRentalVsOwnership,           // Jan 13, 2026
-  anprChallanGuide,               // Jan 14, 2026
-  femaleSoloTravelSafety,         // Jan 15, 2026
-  scenicRoutesIndia,              // Jan 15, 2026
-  */
 ];
