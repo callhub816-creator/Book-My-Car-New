@@ -35,7 +35,7 @@ const About: React.FC = () => {
                 "Most disasters happen because of bad info, not bad roads."
               </p>
               <p className="text-xs md:text-base font-medium text-white/90 border-l-2 border-white/30 pl-4 py-0.5">
-                Families often end up paying multiple times more for damages they didn’t even cause. This site exists so you don’t have to learn the hard way.
+                Families often end up paying far more for damages they didn’t even cause. This site exists so you don’t have to learn the hard way.
               </p>
             </div>
 
@@ -43,7 +43,7 @@ const About: React.FC = () => {
               <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center text-blue-600 font-black text-base shadow-lg">RN</div>
               <div>
                 <p className="font-black text-base uppercase tracking-tight">Rajesh Navsagar</p>
-                <p className="text-[9px] text-blue-200 uppercase tracking-[0.2em] font-bold opacity-80 mb-1">Founder & Expert Guide</p>
+                <p className="text-[9px] text-blue-200 uppercase tracking-[0.2em] font-bold opacity-80 mb-1">Founder & Field Guide</p>
                 <p className="text-[10px] md:text-xs text-blue-100/90 font-medium leading-relaxed max-w-md">
                   Rental policy reviewer based on multi-state driving experience across India (2019–2026).
                 </p>
@@ -63,7 +63,7 @@ const About: React.FC = () => {
               <ShieldCheck className="text-blue-600 flex-shrink-0" size={20} />
               <div>
                 <h3 className="font-black text-gray-900 mb-1 text-sm uppercase tracking-tight">No Brand Favorites</h3>
-                <p className="text-gray-500 text-xs leading-relaxed font-medium">I don't take referral fees. If a company has poor service, I'll say it.</p>
+                <p className="text-gray-500 text-xs leading-relaxed font-medium">I don’t take referral fees. If a company provides poor service, it is clearly stated in the guides.</p>
               </div>
             </div>
             <div className="flex gap-3 p-5 bg-white rounded-xl border border-gray-100 hover:border-blue-100 transition-all shadow-sm">
@@ -117,7 +117,7 @@ const About: React.FC = () => {
               <div className="w-8 h-8 rounded-full bg-blue-50 flex items-center justify-center text-blue-600 font-black text-xs shrink-0">03</div>
               <div>
                 <h4 className="font-black text-gray-900 text-sm uppercase mb-1">Anonymity for Honesty</h4>
-                <p className="text-gray-500 text-xs leading-relaxed">I rent cars as a regular customer. I never accept "media cars" or sponsorships from companies I audit.</p>
+                <p className="text-gray-500 text-xs leading-relaxed">Rentals are taken as a regular customer, without accepting “media cars” or sponsored access from companies reviewed.</p>
               </div>
             </div>
           </div>
