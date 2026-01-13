@@ -31,7 +31,7 @@ const Home: React.FC = () => {
           {/* 1. 100% Verified Badge at the Top Left */}
           <div className="absolute top-8 left-6 md:left-12">
             <div className="inline-flex items-center gap-2 bg-blue-600/20 backdrop-blur-md border border-blue-500/30 px-3 py-1 rounded-full text-[8px] md:text-[9px] font-black tracking-widest uppercase text-blue-100 italic">
-              <ShieldCheck size={12} className="text-blue-400" /> 100% Experience-Verified
+              <ShieldCheck size={12} className="text-blue-400" /> On-Road Evidence
             </div>
           </div>
 
@@ -39,7 +39,7 @@ const Home: React.FC = () => {
             {/* Title */}
             <h1 className="text-4xl md:text-6xl font-black leading-[1] mb-6 tracking-tight text-white uppercase italic drop-shadow-lg">
               The Indian Road Trip <br />
-              <span className="text-3xl md:text-5xl text-blue-500 block mt-2">Survival Guide</span>
+              <span className="text-3xl md:text-5xl text-blue-500 block mt-2">Reality Guide</span>
             </h1>
 
             {/* 2. Transparent Glass Card with Blue Border */}
@@ -80,7 +80,7 @@ const Home: React.FC = () => {
               <BookOpen size={22} />
             </div>
             <div>
-              <h3 className="font-bold text-gray-900 text-sm uppercase">100% Personal</h3>
+              <h3 className="font-bold text-gray-900 text-sm uppercase">First-hand Experience</h3>
               <p className="text-gray-500 text-[11px] leading-snug">Based on multi-state road trips, toll booths, border check-posts, and real rental disputes.</p>
             </div>
           </div>
@@ -163,7 +163,7 @@ const Home: React.FC = () => {
                 Latest Road Trip <span className="text-blue-600">Guides</span>
               </h2>
               <p className="text-gray-500 text-sm font-medium">
-                Updated routes aur rule changes mere latest trips se.
+                Updated routes and rule changes based on recent road trips.
               </p>
             </div>
             <Link
@@ -190,7 +190,7 @@ const Home: React.FC = () => {
                 </div>
                 <div className="p-5 flex flex-col flex-1">
                   <div className="flex items-center gap-2 mb-2 text-[9px] font-black text-blue-600 uppercase tracking-widest">
-                    <ShieldCheck size={12} /> On-road experience
+                    {/* Explicit trust label removed as per Option A */}
                   </div>
                   <h3 className="text-lg font-black text-gray-900 mb-2 line-clamp-2 leading-tight">
                     <Link to={`/blog/${blog.slug}`} className="hover:text-blue-600 transition-colors uppercase">{blog.title}</Link>
@@ -270,6 +270,14 @@ const Home: React.FC = () => {
               </p>
             </div>
 
+            <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+              <h3 className="text-sm font-black text-gray-900 uppercase mb-2">
+                Kaun is content ke liye responsible hai?
+              </h3>
+              <p className="text-gray-600 text-[13px] leading-relaxed font-medium">
+                Is site ka saara content Rajesh Navsagar ke personal road experience aur document verification par based hai.
+              </p>
+            </div>
           </div>
         </div>
       </section>

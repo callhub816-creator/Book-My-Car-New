@@ -78,8 +78,7 @@ const Footer: React.FC = () => {
           <div className="bg-white/[0.03] p-6 rounded-[2rem] border border-white/5 relative overflow-hidden group">
             <div className="relative z-10">
               <div className="flex items-center gap-2 mb-3 text-blue-400">
-                <ShieldCheck size={18} className="animate-pulse" />
-                <h3 className="text-[10px] font-black uppercase tracking-widest text-white">Expert Verified</h3>
+                <h3 className="text-[10px] font-black uppercase tracking-widest text-white underline decoration-blue-500/50 underline-offset-4">Transparency notice</h3>
               </div>
               <p className="text-[12px] text-gray-400 leading-relaxed font-medium">
                 Based on real experience. I don't sell bookings or take commissions. My goal is to share on-road evidence and verified advice.
@@ -99,7 +98,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/5 flex justify-center items-center text-center">
           <p className="text-[10px] text-gray-500 font-black uppercase tracking-[0.2em]">
-            © {currentYear} BookMyCar.live. Verified by Rajesh Navsagar based on on-road experience.
+            © {currentYear} BookMyCar.live. Content verified by Rajesh Navsagar based on on-road experience.
           </p>
         </div>
       </div>
