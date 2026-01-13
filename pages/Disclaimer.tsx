@@ -53,7 +53,7 @@ const Disclaimer: React.FC = () => {
                 1. Independent Status
               </h2>
               <p className="leading-relaxed text-gray-500 font-medium text-sm">
-                BookMyCar.live is not affiliated with Zoomcar, Revv, MyChoize, or any other rental brand. Mentioning them is purely for informational comparison.
+                BookMyCar.live is not affiliated with any car rental brand. Mentioning them is purely for informational comparison.
               </p>
             </section>
 
@@ -65,7 +65,7 @@ const Disclaimer: React.FC = () => {
                 2. Content Accuracy
               </h2>
               <p className="leading-relaxed text-gray-500 font-medium text-sm mb-4">
-                While I strive to update my Human-written guides regularly, I cannot guarantee that all info (toll prices, permit rules) is 100% current.
+                While I strive to update my road trip guides regularly, I cannot guarantee that all info (toll prices, permit rules) is 100% current.
               </p>
               <div className="bg-gray-50 border-l-2 border-blue-600 p-4 rounded-r-xl">
                 <p className="text-gray-900 font-bold mb-0 text-sm">Use this info as a guide, not a law book. Check local authorities before crossing borders.</p>

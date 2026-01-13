@@ -49,7 +49,7 @@ const BlogList: React.FC = () => {
 
               <div className="p-5 flex flex-col flex-1">
                 <div className="flex items-center gap-2 mb-2 text-[8px] font-black text-blue-600 uppercase tracking-[0.2em]">
-                  <ShieldCheck size={10} /> Experience-verified
+                  <ShieldCheck size={10} /> On-road experience
                 </div>
 
                 <h2 className="text-lg font-black text-gray-900 mb-2 line-clamp-2 tracking-tight leading-tight group-hover:text-blue-600 transition-colors uppercase">
@@ -203,7 +203,7 @@ const BlogPostView: React.FC = () => {
 
             <div className="text-[9px] font-black text-gray-400 mb-8 tracking-widest uppercase border-t pt-6 flex items-center gap-2">
               <img src="/logo.png" className="h-4 w-4 rounded-sm" alt="Logo" />
-              Human-written & verified by Rajesh Navsagar | {new Date(post.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
+              Verified by Rajesh Navsagar | {new Date(post.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
             </div>
 
             {/* Tags */}

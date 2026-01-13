@@ -45,7 +45,7 @@ const About: React.FC = () => {
                 <p className="font-black text-base uppercase tracking-tight">Rajesh Navsagar</p>
                 <p className="text-[9px] text-blue-200 uppercase tracking-[0.2em] font-bold opacity-80 mb-1">Founder & Expert Guide</p>
                 <p className="text-[10px] md:text-xs text-blue-100/90 font-medium leading-relaxed max-w-md">
-                  Independent road-travel researcher with multi-state driving experience across India (2019–2026).
+                  Rental policy auditor based on multi-state driving experience across India (2019–2026).
                 </p>
               </div>
             </div>
@@ -84,7 +84,7 @@ const About: React.FC = () => {
           </div>
           <div className="text-gray-400 text-xs md:text-sm leading-relaxed space-y-3 relative z-10">
             <p>
-              BookMyCar.live is an <strong>independent observational guide</strong>. I am not affiliated with Zoomcar or Revv.
+              BookMyCar.live is an <strong>independent observational guide</strong>. I am not affiliated with any rental agency.
             </p>
             <p className="border-l-2 border-blue-600 pl-4 py-0.5 text-white/80">
               This site exists to help Indian travelers understand rules through verified experience.

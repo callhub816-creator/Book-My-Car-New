@@ -45,7 +45,7 @@ const Home: React.FC = () => {
             {/* 2. Transparent Glass Card with Blue Border */}
             <div className="bg-transparent backdrop-blur-md border-2 border-blue-500/50 p-5 md:p-6 rounded-2xl max-w-lg mb-8 shadow-[0_0_20px_rgba(59,130,246,0.2)]">
               <p className="text-white text-sm md:text-base leading-relaxed font-bold italic">
-                "Honest advice from real Indian driving logs. No AI generic tips—just the actual rules of the road."
+                "Real-world driving lessons from Indian highways — routes, rules, tolls, and mistakes you only learn on the road."
               </p>
               <div className="mt-3 flex items-center gap-2">
                 <div className="h-[2px] w-6 bg-blue-500"></div>
@@ -81,7 +81,7 @@ const Home: React.FC = () => {
             </div>
             <div>
               <h3 className="font-bold text-gray-900 text-sm uppercase">100% Personal</h3>
-              <p className="text-gray-500 text-[11px] leading-snug">Coming from real driving logs, not bot-written manuals.</p>
+              <p className="text-gray-500 text-[11px] leading-snug">Based on multi-state road trips, toll booths, border check-posts, and real rental disputes.</p>
             </div>
           </div>
           <div className="flex flex-col md:flex-row items-center gap-4 border-y md:border-y-0 md:border-x py-8 md:py-2 px-0 md:px-8">
@@ -90,7 +90,7 @@ const Home: React.FC = () => {
             </div>
             <div>
               <h3 className="font-bold text-gray-900 text-sm uppercase">Zero Agency Favor</h3>
-              <p className="text-gray-500 text-[11px] leading-snug">If a brand has poor service, I’ll say it clearly.</p>
+              <p className="text-gray-500 text-[11px] leading-snug">No paid partnerships. Companies are mentioned only when necessary for explanation.</p>
             </div>
           </div>
           <div className="flex flex-col md:flex-row items-center gap-4">
@@ -99,7 +99,7 @@ const Home: React.FC = () => {
             </div>
             <div>
               <h3 className="font-bold text-gray-900 text-sm uppercase">RTO Truths</h3>
-              <p className="text-gray-500 text-[11px] leading-snug">The actual laws of the road, explained simply.</p>
+              <p className="text-gray-500 text-[11px] leading-snug">RTO rules explained as they are enforced on highways, not as written in PDFs.</p>
             </div>
           </div>
         </div>
@@ -144,7 +144,7 @@ const Home: React.FC = () => {
                   </li>
                   <li className="flex items-start gap-3 bg-white/60 p-3 rounded-xl border border-blue-100">
                     <p className="text-blue-700 font-bold text-xs uppercase tracking-widest italic">
-                      "All guides are written from real trips, not AI summaries."
+                      "Every guide focuses on avoiding fines, delays, and rental disputes — not selling services."
                     </p>
                   </li>
                 </ul>
@@ -190,7 +190,7 @@ const Home: React.FC = () => {
                 </div>
                 <div className="p-5 flex flex-col flex-1">
                   <div className="flex items-center gap-2 mb-2 text-[9px] font-black text-blue-600 uppercase tracking-widest">
-                    <ShieldCheck size={12} /> Human-written
+                    <ShieldCheck size={12} /> On-road experience
                   </div>
                   <h3 className="text-lg font-black text-gray-900 mb-2 line-clamp-2 leading-tight">
                     <Link to={`/blog/${blog.slug}`} className="hover:text-blue-600 transition-colors uppercase">{blog.title}</Link>
@@ -228,7 +228,7 @@ const Home: React.FC = () => {
                 Safar Ke Saathi: <br /><span className="text-blue-500">Expert Corner</span>
               </h2>
               <div className="bg-blue-600/20 border border-blue-500/30 px-3 py-1 rounded-lg inline-block mb-4 text-[10px] font-black uppercase tracking-widest text-blue-400">
-                7 years of driving • Multi-state highway experience • Rental rule researcher
+                7 years of driving • Multi-state highway experience • Rental policy auditor (based on real booking and dispute cases)
               </div>
               <p className="text-base md:text-lg text-gray-400 mb-6 italic font-medium leading-relaxed">
                 "I've spent years on Indian highways. I built BookMyCar.live so you can focus on the drive, not the paperwork."
@@ -270,14 +270,6 @@ const Home: React.FC = () => {
               </p>
             </div>
 
-            <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
-              <h3 className="text-sm font-black text-gray-900 uppercase mb-2">
-                Is this content AI-generated?
-              </h3>
-              <p className="text-gray-600 text-[13px] leading-relaxed font-medium">
-                Nahi, ye content Rajesh Navsagar ke personal logs aur road experience par based hai. AI guides aksar road ki real situation (jaise potholes ya local scams) nahi janti.
-              </p>
-            </div>
           </div>
         </div>
       </section>

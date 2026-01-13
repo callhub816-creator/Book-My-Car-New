@@ -27,7 +27,7 @@ const Rules: React.FC = () => {
             Road Rules They <br /> <span className="text-blue-600">Don't Tell You.</span>
           </h1>
           <p className="text-[10px] md:text-xs text-blue-600 font-black uppercase tracking-widest mb-4">
-            "Written from real police checkpoints & rental cases, not copied RTO PDFs."
+            "Written from real police checkpoints & rental cases, based on on-road evidence."
           </p>
           <p className="text-sm md:text-base text-gray-500 max-w-xl mx-auto font-medium leading-relaxed italic border-l-2 border-blue-100 pl-4 py-1">
             Documents, insurance, and state laws — Practical guidance for Indian travelers, based on real highway logs.

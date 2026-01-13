@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
             </Link>
 
             <p className="text-gray-400 text-sm leading-relaxed mb-6 font-medium">
-              Real road trip guides for real people. Human-written & experience-verified. Just the honest truth about Indian highways.
+              Real road trip guides for real people. Based on multi-state road experience. Just the honest truth about Indian highways.
             </p>
           </div>
 
@@ -82,11 +82,11 @@ const Footer: React.FC = () => {
                 <h3 className="text-[10px] font-black uppercase tracking-widest text-white">Expert Verified</h3>
               </div>
               <p className="text-[12px] text-gray-400 leading-relaxed font-medium">
-                Based on real experience. I don't sell bookings or take commissions. My goal is to share Human-written & experience-verified advice.
+                Based on real experience. I don't sell bookings or take commissions. My goal is to share on-road evidence and verified advice.
               </p>
               <div className="mt-4 pt-4 border-t border-white/5">
                 <p className="text-[10px] text-gray-500 leading-relaxed font-bold italic opacity-60">
-                  This site may display ads to support independent research and keep guides free for travelers.
+                  Ads help fund independent road research and keep guides free for travelers.
                 </p>
               </div>
             </div>
@@ -99,7 +99,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/5 flex justify-center items-center text-center">
           <p className="text-[10px] text-gray-500 font-black uppercase tracking-[0.2em]">
-            © {currentYear} BookMyCar.live. Human-written & experience-verified by Rajesh Navsagar.
+            © {currentYear} BookMyCar.live. Verified by Rajesh Navsagar based on on-road experience.
           </p>
         </div>
       </div>
