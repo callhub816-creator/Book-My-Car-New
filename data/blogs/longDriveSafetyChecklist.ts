@@ -21,15 +21,25 @@ const longDriveSafetyChecklist: BlogPost = {
   expertTip: "Don't just check the engine oil level, check its consistency. If it feels gritty or looks like dark sludge, change it before the trip. A 1000km drive on bad oil can seriously reduce your engine’s lifespan.",
   content: `
 
-<p>Long drive ka plan banana exciting hota hai, lekin safety preparation ko ignore karna kafi mehenga aur khatarnak pad sakta hai. Indian highways par breakdown, car overheating, tyre burst aur battery failure jaise issues bahut common hain. <strong>Ye checklist Rajesh's 7 saal ke highway experience aur MoRTH guidelines par based hai.</strong></strong></p>
+<p>Long drive ka plan banana exciting hota hai, lekin safety preparation ko ignore karna kafi mehenga aur khatarnak pad sakta hai. Indian highways par breakdown, car overheating, tyre burst aur battery failure jaise issues bahut common hain. <strong>Ye checklist Rajesh's 7 saal ke highway experience aur MoRTH guidelines ke general reference par based hai.</strong></strong></p>
 
-<p>Zyadatar log sirf fuel bharwa kar nikal padte hain, lekin ek safe trip ke liye car aur driver dono ki mental aur physical health zaroori hai. Is guide mein hum detail mein baat karenge ki kaise aap sirf 20 minute ke pre-trip check se apni aur apni family ki jaan bacha sakte hain.</p>
+<p><em>This guide is written for Indian road travelers using personal or self-drive rental cars, based on real on-road experience.</em></p>
+
+<p>Zyadatar log sirf fuel bharwa kar nikal padte hain, lekin ek safe trip ke liye car aur driver dono ki mental aur physical health zaroori hai. Is guide mein hum detail mein baat karenge ki kaise aap sirf 20 minute ke pre-trip check se apni aur apni family ki jaan bacha sakte hain. This article focuses on real Indian highway conditions, not generic travel advice.</p>
 
 <hr/>
 
-<h3>1. Tyres aur Spare Wheel (The Foundation)</h3>
+<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; padding: 20px; border-radius: 12px; margin: 25px 0;">
+  <h3 style="color: #1a73e8; margin-top: 0; font-size: 18px; text-transform: uppercase;">Rajesh's Expert Corner</h3>
+  <p style="font-style: italic; font-weight: 500; color: #3c4043;">"Agar aapki battery 3 saal se purani hai, toh uska voltage check karwa len. Raat mein long drive par headlamps aur AC battery par kafi load dalte hain. Don't take chances with weak electricals on the highway."</p>
+  <p style="font-size: 11px; color: #70757a; margin-top: 10px; border-top: 1px solid #eee; pt-2;">*Based on documented trips and field observations (2019–2026).*</p>
+</div>
 
-<p>Tyres aapki car aur road ke beech ka ek-lauta contact point hain. Highway par high speed mein tyre ki temperature kafi badh jati hai.</p>
+<hr/>
+
+<h2>1. Tyres aur Spare Wheel (The Foundation)</h2>
+
+<p>Tyres aapki car aur road ke beech ka ek-lauta contact point hain. Highway par high speed mein tyre ki temperature kafi badh jati hai. Check how to plan your route in our <a href="/blog/delhi-jaipur-road-trip">Delhi to Jaipur Guide</a>.</p>
 
 <ul>
   <li><strong>Tread Depth:</strong> Check karein ki tyre ghis toh nahi gaye hain. "Penny Test" ka use karein. Agar tyre bald hain, toh baarish mein gaadi slip (hydroplane) hogi.</li>
@@ -39,7 +49,7 @@ const longDriveSafetyChecklist: BlogPost = {
 
 <hr/>
 
-<h3>2. Oil aur Fluid Levels (The Blood of the Car)</h3>
+<h2>2. Oil aur Fluid Levels (The Blood of the Car)</h2>
 
 <p>Engine oil sirf lubrication nahi karta, vo engine ko thanda bhi rakhta hai. Long drives par engine hours kafi zyada hote hain.</p>
 
@@ -51,7 +61,7 @@ const longDriveSafetyChecklist: BlogPost = {
 
 <hr/>
 
-<h3>3. Coolant Level (Surviving Indian Summers)</h3>
+<h2>3. Coolant Level (Surviving Indian Summers)</h2>
 
 <p>Overheating Indian roads par breakdown ka number 1 reason hai. Highway par agar gaadi overheat hui, toh engine seize ho sakta hai.</p>
 
@@ -59,15 +69,13 @@ const longDriveSafetyChecklist: BlogPost = {
 
 <hr/>
 
-<h3>4. Battery aur Electricals (The Nerve System)</h3>
+<h2>4. Battery aur Electricals (The Nerve System)</h2>
 
 <p>Weak battery highway dhabas par start hone mein dikkat de sakti hai. Terminals par safed powder (corrosion) check karein aur use garam pani se saaf karein.</p>
 
-<p><strong>Rajesh's Advice:</strong> Agar aapki battery 3 saal se purani hai, toh uska voltage check karwa len. Raat mein long drive par headlamps aur AC battery par kafi load dalte hain.</p>
-
 <hr/>
 
-<h3>5. Brake Pad aur Clutch Check</h3>
+<h2>5. Brake Pad aur Clutch Check</h2>
 
 <p>Sirf brake oil kaafi nahi hai. Alloy wheels ke beech se brake pads ki thickness check karein. Agar brakes se "Squealing" (keech-keech) ki awaaz aa rahi hai, toh pads replace karein. Highway par high speed braking se pads jaldi ghis sakte hain.</p>
 
@@ -87,24 +95,24 @@ const longDriveSafetyChecklist: BlogPost = {
 
 <hr/>
 
-<h3>6. Lights aur Visibility (Night Prep)</h3>
+<h2>6. Lights aur Visibility (Night Prep)</h2>
 
-<p>Agar aapka trip shaam ke baad continue hona hai, toh lights check karna sabse zaroori hai. Faulty brake light ki wajah se peeche waala truck aapke andar ghus sakta hai. Headlights ke sheeshe saaf rakhen taaki glare kam ho.</p>
+<p>Agar aapka trip shaam ke baad continue hona hai, toh lights check karna sabse zaroori hai. Faulty brake light ki wajah se peeche waala truck aapke andar ghus sakta hai. Headlights ke sheeshe saaf rakhen taaki glare kam ho. If you are using a rental, beware of <a href="/blog/car-rental-scams-india">Rental Scams</a> related to minor electrical faults.</p>
 
 <hr/>
 
-<h3>7. Documents aur Digital Safety</h3>
+<h2>7. Documents aur Digital Safety</h2>
 
 <p>India ke expressway aur state borders par police checking kafi strict ho gayi hai. DigiLocker ek achha option hai, lekin remote areas mein physical documents lifesaver bante hain.</p>
 <ul>
   <li>RC, Insurance aur original Driving Licence.</li>
-  <li>**PUC Certificate (Pollution):** Iske bina ₹10,000 ka fine lag sakta hai.</li>
+  <li>**PUC Certificate (Pollution):** Iske bina ₹10,000 ka fine lag sakta hai. Check <a href="/blog/speed-limit-fines-india">Current Fines</a> for other offenses.</li>
   <li>**FASTag Account:** Balance check karke recharge karein taaki toll par jhagda na ho.</li>
 </ul>
 
 <hr/>
 
-<h3>8. Emergency "Survival" Kit</h3>
+<h2>8. Emergency Survival Kit</h2>
 
 <p>Sirf tool kit kafi nahi hai. Ek separate emergency bag hona chahiye jisme ho:</p>
 <ul>
@@ -116,7 +124,7 @@ const longDriveSafetyChecklist: BlogPost = {
 
 <hr/>
 
-<h3>9. Driver Fitness: Sabse Badi Unit</h3>
+<h2>9. Driver Fitness: Sabse Badi Unit</h2>
 
 <p>Asli safety factor car nahi, aap khud hain. High-speed highway driving focus maangti hai.</p>
 <ol>
@@ -127,24 +135,25 @@ const longDriveSafetyChecklist: BlogPost = {
 
 <hr/>
 
-<h3>10. Route aur Weather Planning</h3>
+<h2>10. Route aur Weather Planning</h2>
 
 <p>Network har jagah reliable nahi hota, especially hills ya jungle routes par. **Offline Maps** hamesha download rakhen. Weather report check karein — agar raste mein "Red Alert" (Heavy rain) hai, toh trip postpone karna hi samajhdari hai.</p>
 
 <hr/>
 
-<h3>Conclusion: Safe Wapsi ka Vada</h3>
+<h2>Conclusion: Safe Wapsi ka Vada</h2>
 
 <p>Long drive ka maza tabhi hai jab aap aur aapki family safe wapas ghar pahunchen. Ye checklist follow karne mein sirf thoda waqt lagta hai, lekin ye aapko hazaron rupaye ke repairs aur accidents se bacha sakta hai. Yaad rakhen, Indian road rules aur preparation hi aapka asli insurance hain.</p>
 
 <p>Safe driving habits follow karein, speed limit mein rahen, aur trip ko enjoy karein. Happy Journey!</p>
 
+<p><em>Who this guide is NOT for: This guide is not for commercial operators or taxi drivers. It is for private travelers and self-drive renters.</em></p>
+
 <hr/>
 
-
 <div style="background-color: #f9fafb; border: 1px solid #e5e7eb; padding: 25px; border-radius: 15px; margin-top: 40px; border-left: 5px solid #007bff;">
-  <p style="font-size: 15px; color: #4b5563; line-height: 1.6; margin: 0;">
-    <strong>Disclaimer:</strong> Ye checklist general safety ke liye hai. Har car ka manual alag hota hai, toh manufacturer guidelines hamesha check karein. BookMyCar.live kisi bhi accident ya breakdown ke liye zimmedar nahi hai. Drive Safe!
+  <p style="font-size: 13px; color: #4b5563; line-height: 1.6; margin: 0;">
+    <em>Disclaimer: BookMyCar.live is an independent informational platform. Road rules, enforcement practices, and rental policies may change. Always verify with official authorities and providers before travel.</em>
   </p>
 </div>
 

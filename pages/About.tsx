@@ -87,7 +87,7 @@ const About: React.FC = () => {
               BookMyCar.live is an <strong>independent observational guide</strong>. I am not affiliated with any rental agency.
             </p>
             <p className="border-l-2 border-blue-600 pl-4 py-0.5 text-white/80">
-              This site exists to help Indian travelers understand rules through documented field experience.
+              This site exists to help Indian travelers understand rules through documented field experience. This site does not publish sponsored or paid content.
             </p>
           </div>
           <ShieldCheck className="absolute -top-6 -right-6 text-white/5" size={100} />

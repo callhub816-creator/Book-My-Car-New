@@ -105,6 +105,7 @@ const Contact: React.FC = () => {
           </form>
           <div className="mt-5 pt-5 border-t border-gray-50 text-center">
             <p className="text-[9px] text-gray-400 font-black leading-relaxed uppercase tracking-tight">
+              Messages are answered personally; automated replies are not used. <br />
               Replies are informational only. <br />
               No paid consultation or emergency assistance.
             </p>

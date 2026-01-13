@@ -21,22 +21,34 @@ const nightDrivingSurvivalIndia: BlogPost = {
   expertTip: "The most dangerous time to drive in India is 3:30 AM to 5 AM. Your body naturally wants to sleep. If you find yourself blinking more than twice, pull over at a dhaba and sleep for 30 minutes. It's not a race.",
   content: `
 
-<p>Zyaadatar "experts" kehte hain ki raat ko drive mat karo. Lekin ek regular traveller jaise main hoon, jaanta hoon ki kabhi-kabhi schedule ya garmi se bachne ke liye raat ki drive zaroori ho jati hai. <strong>Ye survival rules Rajesh's 7 years ke night driving experience aur NHAI ke dark-spot mapping reports par based hain.</strong></p>
+<p>Zyaadatar "experts" kehte hain ki raat ko drive mat karo. Lekin ek regular traveller jaise main hoon, jaanta hoon ki kabhi-kabhi schedule ya garmi se bachne ke liye raat ki drive zaroori ho jati hai. <strong>Ye survival rules Rajesh's 7 years ke night driving experience aur NHAI ke dark-spot mapping reports ke general reference par based hain.</strong></p>
 
-<p>Western countries mein night driving aasaan hai kyunki wahan roads well-marked aur illuminated hain. India mein? Raat ka matlab hai bina lights ke truck, <strong>MoRTH dwara identified safety gaps</strong>, aur har 2 kilometer par ek naya, unmarked divider. Is guide mein hum seekhenge ki kaise in khatron se bacha jaye—ye robots ke liye nahi, unke liye hai jo asli "Night Owl" ban-na chahte hain.</p>
+<p><em>This guide is written for Indian road travelers using personal or self-drive rental cars, based on real on-road experience.</em></p>
+
+<p>Western countries mein night driving aasaan hai kyunki wahan roads well-marked aur illuminated hain. India mein? Raat ka matlab hai bina lights ke truck aur har 2 kilometer par ek naya, unmarked divider. Is guide mein hum seekhenge ki kaise in khatron se bacha jaye. This article focuses on real Indian highway conditions, not generic travel advice.</p>
 
 <hr/>
 
-<h3>1. The Glare War: Managing High Beams</h3>
-<p>India ka sabse bada dushman hai 'High Beam'. Jab saamne se koi 100W ki LED aankhon mein maarta hai, toh aap kuch seconds ke liye "Blind" ho jaate ho. Ise 'Glare' kehte hain.</p>
+<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; padding: 20px; border-radius: 12px; margin: 25px 0;">
+  <h3 style="color: #1a73e8; margin-top: 0; font-size: 18px; text-transform: uppercase;">Rajesh's Expert Corner</h3>
+  <p style="font-style: italic; font-weight: 500; color: #3c4043;">"Subah ke 3:30 AM se 5 AM sabse khatarnak waqt hota hai. Agar aankhein bhari lag rahi hain, toh 20 minute ki Power Nap kisi bhi Red Bull ya Coffee se 100 guna zyada effective hai. Pull over safely."</p>
+  <p style="font-size: 11px; color: #70757a; margin-top: 10px; border-top: 1px solid #eee; pt-2;">*Based on documented trips and field observations (2019–2026).*</p>
+</div>
 
-<h4>Solution: Avoid Direct Eye Contact</h4>
+<hr/>
+
+<h2>1. The Glare War: Managing High Beams</h2>
+
+<p>India ka sabse bada dushman hai 'High Beam'. Jab saamne se koi 100W ki LED aankhon mein maarta hai, toh aap kuch seconds ke liye "Blind" ho jaate ho. Ise 'Glare' kehte hain. For more on highway hazards, check our <a href="/blog/delhi-jaipur-road-trip">Delhi-Jaipur Route Review</a>.</p>
+
+<h3>Solution: Avoid Direct Eye Contact</h3>
 <p>Saamne waali light ko mat dekho. Apni nazrein road ki <strong>left-side white line (edge line)</strong> par rakho. Isse aap line ko guide banakar road par ticket-straight chal sakenge aur glare aapke vision ko destroy nahi karega.</p>
 
 <hr/>
 
-<h3>2. The "Shadow Trigger" aur Road Hypnosis</h3>
-<p>Lambi, sunsaan roads par jab divider ke beech se ped (trees) guzar rahe hote hain, toh shadows ek "Rhythmic pattern" create karti hain. Isse 'Road Hypnosis' hota hai—aapka dimag jaag raha hai lekin body respond karna band kar deti hai. Aapko raste mein "Bhoot" ya "Shadowy figures" dikhne lag sakte hain, jo ki kuch nahi sirf thakan ka sign hai.</p>
+<h2>2. The Shadow Trigger aur Road Hypnosis</h2>
+
+<p>Lambi, sunsaan roads par jab divider ke beech se ped (trees) guzar rahe hote hain, toh shadows ek "Rhythmic pattern" create karti hain. Isse 'Road Hypnosis' hota hai. If the weather gets worse, read our <a href="/blog/fog-driving-guide-india">Fog Driving Survival Guide</a>.</p>
 
 <p><strong>Tips to break hypnosis:</strong>
 <ul>
@@ -47,7 +59,8 @@ const nightDrivingSurvivalIndia: BlogPost = {
 
 <hr/>
 
-<h3>3. "Truck Slang": Indicators ka Asli Matlab</h3>
+<h2>3. "Truck Slang": Indicators ka Asli Matlab</h2>
+
 <p>India ke truck drivers kafi madadgar hote hain agar aap unka code samajh saken.</p>
 <ul>
   <li><strong>Right Indicator (on a straight road):</strong> Iska matlab hai truck driver keh raha hai "Abhi overtake mat karo, saamne se traffic aa raha hai."</li>
@@ -57,9 +70,9 @@ const nightDrivingSurvivalIndia: BlogPost = {
 
 <hr/>
 
-<h3>4. The "Ghost" Diversions aur Construction</h3>
-<p>National Highways par construction kabhi khatam nahi hota. Raat ko bahut saare diversions ke paas reflectors nahi hote. </p>
-<p><strong>Truck Buddy Strategy:</strong> Hamesha kisi fast-moving truck ke peeche 50-70 meter distance par chalein. Truck ki brake lights aapko aane waale gaddhe (potholes) ya sudden diversion ka pehle signal de degi. Bas truck ke bilkul peeche (blind spot) mein mat rahein.</p>
+<h2>4. The "Ghost" Diversions aur Construction</h2>
+
+<p>National Highways par construction kabhi khatam nahi hota. Raat ko bahut saare diversions ke paas reflectors nahi hote. Hamesha kisi fast-moving truck ke peeche 50-70 meter distance par chalein. Check our <a href="/blog/long-drive-safety-checklist">Safety Checklist</a> before starting your night trip.</p>
 
 <hr/>
 
@@ -76,37 +89,37 @@ const nightDrivingSurvivalIndia: BlogPost = {
 
 <hr/>
 
-<h3>5. Fatigue is a Silent Killer (3 AM - 5 AM)</h3>
-<p>Subah ke 3 baje se 5 baje ke beech brain 'shutdown' mode mein jaane ki koshish karta hai. Ise 'Microsleep' kehte hain. India mein zyada tar truck accidents isi time par hote hain.</p>
-<p><strong>Power Nap ka Jadu:</strong> Agar aankhein bhari lag rahi hain, toh 20 minute ki "Power Nap" kisi bhi Red Bull ya Coffee se 100 guna zyada effective hai. Kisi safe fuel pump ya dhaba par ruk kar thodi der so jayein.</p>
+<h2>5. Fatigue is a Silent Killer (3 AM - 5 AM)</h2>
+
+<p>Subah ke 3 baje se 5 baje ke beech brain 'shutdown' mode mein jaane ki koshish karta hai. Ise 'Microsleep' kehte hain. India mein zyada tar truck accidents isi time par hote hain. Kisi safe fuel pump ya dhaba par ruk kar thodi der so jayein.</p>
 
 <hr/>
 
-<h3>6. Wildlife aur Cattle: Sudden Hazards</h3>
-<p>Rajasthan, Madhya Pradesh aur Maharashtra ke highways par raat mein cows aur wildlife road par baithe hote hain. 
-<ul>
-  <li>Black cows raat mein bilkul nahi dikhti jab tak aap 10 meter door na hon.</li>
-  <li>Hamesha "High Beam" aur "Low Beam" ke beech toggle karte rahen taaki road ki edge aur center dono cheezein dikhti rahen.</li>
-</ul>
+<h2>6. Wildlife aur Cattle: Sudden Hazards</h2>
+
+<p>Rajasthan, Madhya Pradesh aur Maharashtra ke highways par raat mein cows aur wildlife road par baithe hote hain. Black cows raat mein bilkul nahi dikhti jab tak aap 10 meter door na hon. Hamesha "High Beam" aur "Low Beam" ke beech toggle karte rahen.</p>
 
 <hr/>
 
-<h3>7. Fuel aur Security at Night</h3>
+<h2>7. Fuel aur Security at Night</h2>
+
 <p>Raat mein sunsaan raste par fuel khatam hona sabse bada risk hai. Hamesha 25% fuel rehte hi refill karwa len. Koshish karein ki branded fuel stations (COCO pumps) par hi rukein jahan light aur CCTV ho.</p>
 
 <hr/>
 
-<h3>Final Verdict: Patience is King</h3>
-<p>Raat ko high speed par drive karna India mein unnecessary risk badha deta hai. Yahan visibility kam hai aur reaction time slow hota hai. India mein raat sirff unke liye hai jo "Sabar" aur "Alertness" se drive karte hain. Agar aapko thoda bhi darr ya thakan lag rahi hai, toh suraj nikalne ka intezaar karna hi bravery hai, be-vkufi nahi.</p>
+<h2>Final Verdict: Patience is King</h2>
+
+<p>Raat ko high speed par drive karna India mein unnecessary risk badha deta hai. Yahan visibility kam hai aur reaction time slow hota hai. India mein raat sirff unke liye hai jo "Sabar" aur "Alertness" se drive karte hain. This article focus on real Indian highway conditions, not generic travel advice.</p>
 
 <p>Safe drive karein, hamesha seatbelt pehnein aur trip ko ek race ki tarah nahi, ek adventure ki tarah jiyen.</p>
 
+<p><em>Who this guide is NOT for: This guide is not for commercial operators or taxi drivers. It is for private travelers and self-drive renters.</em></p>
+
 <hr/>
 
-
 <div style="background-color: #f9fafb; border: 1px solid #e5e7eb; padding: 25px; border-radius: 15px; margin-top: 40px; border-left: 5px solid #007bff;">
-  <p style="font-size: 15px; color: #4b5563; line-height: 1.6; margin: 0;">
-    <strong>Disclaimer:</strong> BookMyCar.live ek independent informational blog hai. Hum safety awareness failate hain taaki aapka highway safar sukhad aur safe rahe. Drive responsibly!
+  <p style="font-size: 13px; color: #4b5563; line-height: 1.6; margin: 0;">
+    <em>Disclaimer: BookMyCar.live is an independent informational platform. Road rules, enforcement practices, and rental policies may change. Always verify with official authorities and providers before travel.</em>
   </p>
 </div>
 
