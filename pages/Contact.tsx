@@ -21,7 +21,7 @@ const Contact: React.FC = () => {
           Talk to <span className="text-blue-600 not-italic">Rajesh.</span>
         </h1>
         <p className="text-sm md:text-base text-gray-500 max-w-xl mx-auto leading-relaxed font-medium">
-          Stuck with a rental policy? <strong> I personally respond </strong> to genuine road trip queries.
+          Stuck with a rental policy? <strong> I personally review and respond </strong> to genuine road trip queries.
         </p>
       </div>
 
@@ -36,7 +36,7 @@ const Contact: React.FC = () => {
               Direct Line
             </h3>
             <p className="text-gray-500 text-[11px] leading-relaxed mb-3 font-medium">
-              For route planning or sending policy documents for audit:
+              For route planning or sharing policy documents for review:
             </p>
             <a href="mailto:support@bookmycar.live" className="text-lg md:text-xl font-black text-blue-600 hover:text-blue-700 transition-colors underline decoration-blue-100 underline-offset-4 tracking-tighter uppercase">
               support@bookmycar.live
@@ -61,7 +61,7 @@ const Contact: React.FC = () => {
               <ShieldCheck className="mr-2 text-blue-200" size={20} /> Privacy First
             </h3>
             <p className="text-blue-100 text-[11px] leading-relaxed font-medium relative z-10">
-              Your details are safe. I don't share data with agencies or brokers. My goal is to help you.
+              Your details are safe. I don't share data with third parties or brokers. My goal is to help you.
             </p>
           </div>
         </div>
