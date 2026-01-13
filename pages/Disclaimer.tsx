@@ -19,7 +19,7 @@ const Disclaimer: React.FC = () => {
             Disclaimer
           </h1>
           <p className="text-base md:text-lg text-gray-500 font-medium leading-relaxed italic border-l-2 border-yellow-500/20 pl-4 py-1">
-            "I share my logs to help you, but the final decision is yours."
+            "Documented observations for travelers, but final travel decisions remain with the user."
           </p>
         </div>
 
@@ -32,13 +32,13 @@ const Disclaimer: React.FC = () => {
                 <div className="bg-yellow-500 p-2 rounded-xl text-white shadow-lg">
                   <AlertTriangle size={20} />
                 </div>
-                <h2 className="text-xl font-black text-gray-900 m-0 tracking-tight uppercase">Zero Rental Services</h2>
+                <h2 className="text-xl font-black text-gray-900 m-0 tracking-tight uppercase">No Rental or Booking Services</h2>
               </div>
               <p className="text-gray-900 font-bold leading-relaxed mb-3 text-base md:text-lg">
-                BookMyCar.live is an independent observational guide. I do not facilitate car rentals or taxi bookings.
+                BookMyCar.live is an independent observational guide. This website does not facilitate car rentals, taxi bookings, or travel reservations.
               </p>
               <p className="text-yellow-800 font-medium text-sm">
-                I will <strong>never</strong> ask for payment to book a vehicle. If anyone uses my name to solicit money, it is a scam.
+                BookMyCar.live will never solicit payment for vehicle bookings or travel services. If any individual claims to represent BookMyCar.live for payment requests, such communication should be treated as unauthorized.
               </p>
             </div>
             <AlertTriangle className="absolute -bottom-6 -right-6 text-yellow-600/10 group-hover:scale-110 transition-transform duration-700" size={150} />
@@ -53,7 +53,7 @@ const Disclaimer: React.FC = () => {
                 1. Independent Status
               </h2>
               <p className="leading-relaxed text-gray-500 font-medium text-sm">
-                BookMyCar.live is not affiliated with any car rental brand. Mentioning them is purely for informational comparison.
+                BookMyCar.live is not affiliated with any car rental brand. Any mention of rental agencies is purely for informational comparison and general guidance based on user experience.
               </p>
             </section>
 
@@ -65,10 +65,10 @@ const Disclaimer: React.FC = () => {
                 2. Content Accuracy
               </h2>
               <p className="leading-relaxed text-gray-500 font-medium text-sm mb-4">
-                While I strive to update my road trip guides regularly, I cannot guarantee that all info (toll prices, permit rules) is 100% current.
+                While efforts are made to update road trip guides regularly, BookMyCar.live cannot guarantee that all information (such as toll prices, local taxes, or permit rules) is current or exhaustive.
               </p>
               <div className="bg-gray-50 border-l-2 border-blue-600 p-4 rounded-r-xl">
-                <p className="text-gray-900 font-bold mb-0 text-sm">Use this info as a guide, not a law book. Check local authorities before crossing borders.</p>
+                <p className="text-gray-900 font-bold mb-0 text-sm">This information should be used as general guidance and not as a substitute for official legal or regulatory advice. Always verify rules with local authorities.</p>
               </div>
             </section>
 
@@ -77,10 +77,10 @@ const Disclaimer: React.FC = () => {
                 <div className="bg-blue-600 p-2 rounded-xl text-white shadow-lg group-hover:rotate-6 transition-transform">
                   <Scale size={20} />
                 </div>
-                3. Liability
+                3. Limitation of Liability
               </h2>
               <p className="leading-relaxed text-gray-500 font-medium text-sm">
-                BookMyCar.live will not be liable for any losses or damages. You drive at your own risk and responsibility.
+                BookMyCar.live provides informational content for general guidance only. While reasonable efforts are made to keep information accurate, no guarantees are made regarding completeness or current applicability. Users are responsible for making travel and compliance decisions based on official sources and provider policies. Use of this site is at the user's own risk.
               </p>
             </section>
           </div>
