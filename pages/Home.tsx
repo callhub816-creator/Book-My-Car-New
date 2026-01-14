@@ -14,7 +14,7 @@ const Home: React.FC = () => {
     <div className="flex flex-col min-h-screen">
 
       {/* ================= HERO REFINED (USER FEEDBACK) ================= */}
-      <section className="relative min-h-[550px] md:h-[calc(85vh-64px)] md:max-h-[500px] flex items-center overflow-hidden bg-black">
+      <section className="relative min-h-[500px] md:h-[60vh] md:max-h-[420px] flex items-center overflow-hidden bg-black">
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img
@@ -31,7 +31,6 @@ const Home: React.FC = () => {
           <div className="max-w-2xl text-center md:text-left mx-auto md:mx-0">
             {/* Subtle Evidence Signal */}
             <div className="flex items-center justify-center md:justify-start gap-2 mb-4 opacity-100">
-              <div className="h-[2px] w-6 bg-blue-500"></div>
               <span className="text-[10px] md:text-[11px] font-black text-blue-400 uppercase tracking-[0.3em]">
                 From Indian Highways — Field Notes
               </span>
@@ -49,7 +48,6 @@ const Home: React.FC = () => {
                 "Real-world driving lessons from Indian highways — routes, rules, tolls, and mistakes you only learn on the road."
               </p>
               <div className="mt-4 flex items-center justify-center md:justify-start gap-2">
-                <div className="h-[2px] w-4 bg-blue-500"></div>
                 <span className="text-[9px] font-black text-blue-300 uppercase tracking-widest">Rajesh Navsagar, Expert Traveler</span>
               </div>
             </div>
@@ -64,9 +62,9 @@ const Home: React.FC = () => {
               </Link>
               <Link
                 to="/rules"
-                className="w-full sm:w-auto bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white border border-white/20 px-8 py-4 rounded-xl font-black flex items-center justify-center transition-all text-[10px] uppercase tracking-widest text-center min-w-[180px]"
+                className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-xl font-black flex items-center justify-center gap-2 transition-all shadow-lg text-[10px] uppercase tracking-widest min-w-[180px]"
               >
-                THE RULEBOOK
+                THE RULEBOOK <ArrowRight size={14} />
               </Link>
             </div>
           </div>
@@ -182,7 +180,7 @@ const Home: React.FC = () => {
                 className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-all flex flex-col"
               >
                 <div className="relative h-48 overflow-hidden">
-                  <img src={blog.imageUrl} alt="" className="w-full h-full object-cover" />
+                  <img src={blog.imageUrl} alt={blog.title} className="w-full h-full object-cover" />
                   <div className="absolute top-3 left-3">
                     <span className="bg-white/90 backdrop-blur-md text-[9px] font-black px-2 py-1 rounded-md uppercase tracking-wider">
                       {blog.category}
@@ -254,7 +252,7 @@ const Home: React.FC = () => {
 
           <div className="space-y-4">
             <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
-              <h3 className="text-sm font-black text-gray-900 uppercase mb-2 flex items-center justify-between">
+              <h3 className="text-sm font-black text-gray-900 uppercase mb-2">
                 Is BookMyCar.live a rental company?
               </h3>
               <p className="text-gray-600 text-[13px] leading-relaxed font-medium">

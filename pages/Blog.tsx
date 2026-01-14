@@ -136,7 +136,7 @@ const BlogPostView: React.FC = () => {
       {/* Hero - Compacted */}
       <section className="bg-gray-900 text-white pt-6 pb-12 px-4 overflow-hidden relative">
         <div className="absolute inset-0 opacity-10 pointer-events-none">
-          <img src={post.imageUrl} className="w-full h-full object-cover blur-sm" alt="" />
+          <img src={post.imageUrl} className="w-full h-full object-cover blur-sm" alt={post.title} />
         </div>
         <div className="max-w-4xl mx-auto relative z-10">
           <Link
@@ -176,7 +176,7 @@ const BlogPostView: React.FC = () => {
           <div className="p-1">
             <img
               src={post.imageUrl}
-              alt=""
+              alt={post.title}
               className="w-full h-48 md:h-[350px] object-cover rounded-3xl"
             />
           </div>

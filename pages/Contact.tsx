@@ -8,7 +8,7 @@ const Contact: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    alert('Bhai, message mil gaya! Rajesh will get back to you within 24-48 hours.');
+    alert('Message mil gaya! Rajesh will get back to you within 24-48 hours.');
   };
 
   return (
@@ -38,8 +38,8 @@ const Contact: React.FC = () => {
             <p className="text-gray-500 text-[11px] leading-relaxed mb-3 font-medium">
               For route planning or sharing policy documents for review:
             </p>
-            <a href="mailto:support@bookmycar.live" className="text-lg md:text-xl font-black text-blue-600 hover:text-blue-700 transition-colors underline decoration-blue-100 underline-offset-4 tracking-tighter uppercase">
-              support@bookmycar.live
+            <a href="mailto:bookmycar.live@gmail.com" className="text-lg md:text-xl font-black text-blue-600 hover:text-blue-700 transition-colors underline decoration-blue-100 underline-offset-4 tracking-tighter uppercase">
+              bookmycar.live@gmail.com
             </a>
           </div>
 

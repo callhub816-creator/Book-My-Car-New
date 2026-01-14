@@ -59,19 +59,29 @@ const Privacy: React.FC = () => {
             <ul className="space-y-3 text-blue-100 font-medium list-none pl-0 text-sm">
               <li className="flex items-start gap-4">
                 <div className="w-1.5 h-1.5 bg-blue-300 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Google, as a third-party vendor, uses cookies to serve ads based on a user's prior visits to BookMyCar.live or other websites on the internet.</span>
+                <span><strong>Google AdSense:</strong> Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the <strong>DART cookie</strong> enables it to serve ads to our users based on their visit to our site and other sites on the Internet.</span>
               </li>
               <li className="flex items-start gap-4">
                 <div className="w-1.5 h-1.5 bg-blue-300 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Google's use of advertising cookies enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet.</span>
+                <span>Users may opt out of the use of the DART cookie by visiting the <strong>Google ad and content network privacy policy</strong> at the following URL: <a href="https://policies.google.com/technologies/ads" className="text-white hover:text-blue-200 underline">https://policies.google.com/technologies/ads</a></span>
               </li>
               <li className="flex items-start gap-4">
                 <div className="w-1.5 h-1.5 bg-blue-300 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Users may opt out of personalized advertising by visiting Google's Ads Settings.</span>
+                <span>Third-party ad servers or ad networks use technologies like cookies, JavaScript, or Web Beacons in their respective advertisements. BookMyCar.live has no access to or control over these cookies that are used by third-party advertisers.</span>
               </li>
             </ul>
             <ShieldCheck className="absolute -bottom-6 -right-6 text-white/5 transform group-hover:scale-110 transition-transform" size={150} />
           </div>
+
+          <h2 className="text-xl font-black text-gray-900 mt-12 mb-4 tracking-tight uppercase border-b pb-2 tracking-tight">CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+          <p className="text-gray-600 text-sm leading-relaxed mb-6">
+            Under the CCPA, among other rights, California consumers have the right to: Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers. Request that a business delete any personal data about the consumer that a business has collected. Request that a business that sells a consumer's personal data, not sell the consumer's personal data. If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+          </p>
+
+          <h2 className="text-xl font-black text-gray-900 mt-12 mb-4 tracking-tight uppercase border-b pb-2 tracking-tight">GDPR Data Protection Rights</h2>
+          <p className="text-gray-600 text-sm leading-relaxed mb-6">
+            We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following: The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service. The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete. The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+          </p>
 
           <h2 className="text-xl font-black text-gray-900 mt-12 mb-4 tracking-tight uppercase border-b pb-2">Advertising Partners</h2>
           <p className="text-gray-600 text-sm leading-relaxed mb-6">
@@ -95,7 +105,7 @@ const Privacy: React.FC = () => {
             <div className="flex items-start gap-3">
               <UserCheck size={20} className="text-blue-600 shrink-0" />
               <p className="text-gray-600 text-sm leading-relaxed">
-                <strong>Data Deletion Requests:</strong> If you wish to request the deletion of any personal data shared through our contact forms, please contact us at <strong>support@bookmycar.live</strong>. We will process your request as per applicable guidelines.
+                <strong>Data Deletion Requests:</strong> If you wish to request the deletion of any personal data shared through our contact forms, please contact us at <strong>bookmycar.live@gmail.com</strong>. We will process your request as per applicable guidelines.
               </p>
             </div>
           </div>

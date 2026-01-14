@@ -97,8 +97,8 @@ const Terms: React.FC = () => {
 
           <div className="mt-20 pt-10 border-t border-gray-100 mb-10 text-center md:text-left">
             <p className="text-gray-400 font-black uppercase tracking-widest text-[10px] mb-4">Contact for Legal Queries</p>
-            <a href="mailto:support@bookmycar.live" className="text-lg md:text-xl font-black text-gray-900 hover:text-blue-600 transition-colors underline decoration-blue-100 underline-offset-4 uppercase tracking-tighter">
-              support@bookmycar.live
+            <a href="mailto:bookmycar.live@gmail.com" className="text-lg md:text-xl font-black text-gray-900 hover:text-blue-600 transition-colors underline decoration-blue-100 underline-offset-4 uppercase tracking-tighter">
+              bookmycar.live@gmail.com
             </a>
           </div>
         </div>

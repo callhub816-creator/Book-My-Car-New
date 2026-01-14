@@ -27,7 +27,7 @@ const AuthorBox: React.FC = () => {
                         </p>
                     </div>
                     <a
-                        href="mailto:support@bookmycar.live"
+                        href="mailto:bookmycar.live@gmail.com"
                         className="inline-flex items-center px-4 py-2 rounded-xl bg-gray-50 text-gray-900 hover:bg-blue-600 hover:text-white transition-all text-[9px] font-black uppercase tracking-widest border border-gray-100 group/btn"
                     >
                         <Mail className="w-3.5 h-3.5 mr-2 group-hover/btn:scale-110 transition-transform" /> Contact Rajesh

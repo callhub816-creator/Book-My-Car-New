@@ -123,6 +123,22 @@ const About: React.FC = () => {
           </div>
         </section>
 
+        {/* --- AdSense Transparency Section --- */}
+        <section className="bg-blue-50 rounded-2xl p-6 md:p-8 border border-blue-100">
+          <h2 className="text-lg font-black text-gray-900 mb-4 uppercase tracking-tight flex items-center gap-2">
+            How We Sustain This Site
+          </h2>
+          <p className="text-gray-600 text-xs md:text-sm leading-relaxed mb-4 font-medium">
+            Running <strong>BookMyCar.live</strong> involves costs for on-road research, hosting, and constant updates to travel rules. To keep this information free for every Indian traveler, we participate in the <strong>Google AdSense</strong> program.
+          </p>
+          <div className="flex items-start gap-3 bg-white p-4 rounded-xl shadow-sm">
+            <ShieldCheck className="text-blue-600 shrink-0" size={18} />
+            <p className="text-[11px] text-gray-500 font-medium leading-relaxed">
+              <strong>Transparency Note:</strong> We use third-party advertising cookies to serve ads based on your interests. This does not affect our editorial integrity; we never write positive reviews in exchange for money. Our advice remains independent and experience-verified.
+            </p>
+          </div>
+        </section>
+
         {/* --- Strong CTAs --- */}
         <section className="pt-6 border-t border-gray-100">
           <h2 className="text-lg font-black text-gray-900 mb-4 uppercase tracking-widest">Where to start?</h2>
