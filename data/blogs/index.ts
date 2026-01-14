@@ -13,6 +13,7 @@ import fogDrivingGuideIndia from './fogDrivingGuideIndia';
 import interstatePermitGuide from './interstatePermitGuide';
 import selfDrivePermitExplained from './selfDrivePermitExplained';
 import speedLimitFinesIndia from './speedLimitFinesIndia';
+import oneWayRentalGuide from './oneWayRentalGuide';
 
 export const blogPosts = [
   delhiJaipurRoadTrip,            // Dec 20, 2025
@@ -30,4 +31,5 @@ export const blogPosts = [
   interstatePermitGuide,          // Jan 7, 2026
   selfDrivePermitExplained,       // Jan 9, 2026
   speedLimitFinesIndia,           // Jan 10, 2026
+  oneWayRentalGuide,              // Jan 14, 2026
 ];
