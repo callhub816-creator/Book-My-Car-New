@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { X, Shield } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 const CookieConsent: React.FC = () => {
     const [isVisible, setIsVisible] = useState(false);
@@ -37,7 +38,7 @@ const CookieConsent: React.FC = () => {
                     </div>
 
                     <p className="text-gray-400 text-[11px] leading-relaxed font-medium mb-6">
-                        We use cookies to improve your experience and show relevant ads via Google AdSense. By continuing to explore our road trip guides, you agree to our <a href="/#/privacy" className="text-blue-400 underline underline-offset-4">Privacy Policy</a>.
+                        We use cookies to improve your experience and show relevant ads via Google AdSense. By continuing to explore our road trip guides, you agree to our <Link to="/privacy" className="text-blue-400 underline underline-offset-4">Privacy Policy</Link>.
                     </p>
 
                     <div className="flex gap-3">
