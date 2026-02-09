@@ -1,109 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Static Pages -->
   <url>
-    <loc>https://bookmycar.live/</loc>
+    <loc>https://www.bookmycar.live/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/blog</loc>
+    <loc>https://www.bookmycar.live/blog</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/rules</loc>
+    <loc>https://www.bookmycar.live/rules</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/about</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/contact</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/privacy</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/terms</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/disclaimer</loc>
-    <priority>0.5</priority>
-  </url>
-  <!-- Active Blogs -->
-  <url>
-    <loc>https://bookmycar.live/blog/delhi-jaipur-road-trip</loc>
+    <loc>https://www.bookmycar.live/about</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/blog/car-rental-scams-india</loc>
+    <loc>https://www.bookmycar.live/contact</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/blog/long-drive-safety-checklist</loc>
-    <priority>0.6</priority>
+    <loc>https://www.bookmycar.live/privacy</loc>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/blog/best-time-to-start-long-road-trip-india-2026</loc>
-    <priority>0.6</priority>
+    <loc>https://www.bookmycar.live/terms</loc>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/blog/night-driving-survival-guide-india-2026</loc>
-    <priority>0.6</priority>
+    <loc>https://www.bookmycar.live/disclaimer</loc>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/blog/black-plate-rule-india-2026</loc>
-    <priority>0.6</priority>
+    <loc>https://www.bookmycar.live/cookies</loc>
+    <priority>0.4</priority>
   </url>
+
+  <!-- Blog Posts -->
   <url>
-    <loc>https://bookmycar.live/blog/monsoon-driving-survival-guide-india</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/car-pickup-inspection-checklist-rajesh</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/fastag-rules-india-2026-rental-cars</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/tyre-burst-prevention-highway-guide-2026</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/mountain-driving-tips-india-2026</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/fog-driving-survival-guide-north-india</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/interstate-permit-guide-india-2026</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/self-drive-permit-india-guide-rajesh</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/highway-speed-limits-india-fines-2026</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/one-way-car-rental-india-guide</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://bookmycar.live/blog/alcohol-transport-rules-india-border-guide</loc>
+    <loc>https://www.bookmycar.live/blog/alcohol-transport-rules-india-border-guide</loc>
     <lastmod>2026-02-10</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bookmycar.live/blog/wrong-traffic-challan-contest-guide-india-2026</loc>
+    <loc>https://www.bookmycar.live/blog/wrong-traffic-challan-contest-guide-india-2026</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/car-rental-scams-india</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/black-plate-rule-india-2026</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/long-drive-safety-checklist</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/night-driving-survival-india</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/delhi-jaipur-road-trip-guide</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/monsoon-driving-tips-india</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/self-drive-permit-guide-2026</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/fastag-rules-india-2026</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/fog-driving-guide-india</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/mountain-driving-tips-india</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/interstate-permit-guide</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/tyre-burst-prevention-highway-guide-2026</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/speed-limit-fines-india</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/one-way-car-rental-guide</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/car-pickup-audit-guide</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/day-vs-night-driving-india</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.bookmycar.live/blog/best-time-to-start-long-road-trip-india-2026</loc>
     <priority>0.6</priority>
   </url>
 </urlset>

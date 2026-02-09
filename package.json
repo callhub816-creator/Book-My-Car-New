@@ -3,10 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://www.bookmycar.live",
   "scripts": {
     "dev": "vite",
     "build": "vite build && node scripts/postbuild-spa-fallback.mjs",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.556.0",
@@ -20,6 +22,7 @@
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.0.0",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
