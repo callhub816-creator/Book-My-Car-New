@@ -90,7 +90,7 @@ const bestTimeRoadTripIndia2026: BlogPost = {
 
 <h2>Night Driving in India: Khaali Raaste aur Unka Khatra</h2>
 
-<p>Night driving un logo ko pasand hai jo "Distance cover" karna chahte hain. Read our full <a href="/blog/night-driving-survival-india">Night Driving Survival Guide</a>.</p>
+<p>Night driving un logo ko pasand hai jo "Distance cover" karna chahte hain. Read our full <a href="/blog/night-driving-survival-guide-india-2026">Night Driving Survival Guide</a>.</p>
 
 <h3>1. Less Traffic, More Speed</h3>
 <p>Raat ko city traffic aur local commuters gayab ho jate hain. Aapki average speed badh jati hai aur fuel efficiency bhi thodi behtar milti hai kyunki engine coolant thanda rehta hai.</p>
@@ -118,7 +118,7 @@ const bestTimeRoadTripIndia2026: BlogPost = {
 
 <h2>Sunset Transition: Sabse Khatarnak Waqt</h2>
 
-<p>Highway par sabse zyada accidents suraj dhalne ke waqt (Dusk) hote hain. Hamesha koshish karein ki sunset ke waqt aap 15 minute ka break lein taaki aapki aankhein andhere se adapt ho saken. For winter travelers, don't miss our <a href="/blog/fog-driving-guide-india">Fog Driving Survival Guide</a>.</p>
+<p>Highway par sabse zyada accidents suraj dhalne ke waqt (Dusk) hote hain. Hamesha koshish karein ki sunset ke waqt aap 15 minute ka break lein taaki aapki aankhein andhere se adapt ho saken. For winter travelers, don't miss our <a href="/blog/fog-driving-survival-guide-north-india">Fog Driving Survival Guide</a>.</p>
 
 <hr/>
 

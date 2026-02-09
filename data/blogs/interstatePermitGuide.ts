@@ -22,7 +22,7 @@ const interstatePermitGuide: BlogPost = {
   expertTip: "Ek sabse badi galti jo log karte hain: FASTag se toll katne ka matlab ye nahi hai ki aapka State Entry Tax bhi bhar gaya. FASTag sirf toll roads ke liye hai. Entry Tax humesha Parivahan website par alag se bharna hota hai.",
   content: `
 
-<p>Jab aap apni private (white plate) gaadi lekar kisi doosre state mein enter karte hain, toh koi aapse tax nahi mangta. Lekin jaise hi aap ek <a href="/blog/black-plate-rule-india">Black Number Plate rental car</a> mein state border cross karte hain, aap "Commercial Zone" mein enter ho jate hain. Iska matlab hai ki aapka vehicle commercial rules ke under aa jati hai, aur aapko state taxes dena mandatory hai.</p>
+<p>Jab aap apni private (white plate) gaadi lekar kisi doosre state mein enter karte hain, toh koi aapse tax nahi mangta. Lekin jaise hi aap ek <a href="/blog/black-plate-rule-india-2026">Black Number Plate rental car</a> mein state border cross karte hain, aap "Commercial Zone" mein enter ho jate hain. Iska matlab hai ki aapka vehicle commercial rules ke under aa jati hai, aur aapko state taxes dena mandatory hai.</p>
 
 <p><em>This guide is written for Indian road travelers using personal or self-drive rental cars, based on real on-road experience.</em></p>
 

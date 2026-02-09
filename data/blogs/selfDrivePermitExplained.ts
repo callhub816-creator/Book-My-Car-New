@@ -41,7 +41,7 @@ const selfDrivePermitExplained: BlogPost = {
 <p><strong>Essential Fact:</strong> Motor Vehicles Act ke <strong>general reference</strong> ke mutabik, bina permit ke commercial gaadi chalana authorize nahi hai. Black Plate rentals ko commercially operate karne ke liye Tourist Permit zaroori hai.</p>
 
 <h2>1. What is an All India Tourist Permit (AITP)?</h2>
-<p>AITP gaadi ka "Passport" hai jo use pure India mein ghoomne ki legal authority deta hai. India ke <a href="/blog/black-plate-rule-india">Black Number Plate rental cars</a> ko commercially operate karne ke liye Tourist Permit ki zaroorat hoti hai. National Permit (AITP) wo license hai jo car owner ko pure India mein travel karne ki permission deta hai.</p>
+<p>AITP gaadi ka "Passport" hai jo use pure India mein ghoomne ki legal authority deta hai. India ke <a href="/blog/black-plate-rule-india-2026">Black Number Plate rental cars</a> ko commercially operate karne ke liye Tourist Permit ki zaroorat hoti hai. National Permit (AITP) wo license hai jo car owner ko pure India mein travel karne ki permission deta hai.</p>
 
 <hr/>
 

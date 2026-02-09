@@ -1,26 +1,26 @@
 import { BlogPost } from '../../types';
 
 const alcoholTransportRulesIndia: BlogPost = {
-    id: 'alcohol-transport-rules-india-checkposts',
-    title: 'Car mein Alcohol carrying rules India 2026: State Borders aur Permit ka complete sach',
-    slug: 'alcohol-transport-rules-india-checkposts',
-    excerpt:
-        "Kya aap car mein daru carry kar sakte hain? Bihar, Gujarat aur doosre states ke rules. Rajesh's deep dive into legal limits and border checkpost reality.",
-    category: 'Legal',
-    author: 'Rajesh Navsagar',
-    date: '2026-02-05',
-    imageUrl: '/images/blogs/alcohol-transport-rules-india.png',
-    keywords: [
-        'Car alcohol transport rules India',
-        'Carrying alcohol across state borders',
-        'Alcohol limit in car private vehicle',
-        'Bihar alcohol ban penalty car',
-        'Gujarat dry state car rules',
-        'Illegal alcohol transport fine India',
-        'L13 permit alcohol transport'
-    ],
-    expertTip: "Dry states (Bihar/Gujarat) ke borders par random checking 2026 mein AI sensors se badh gayi hai. Agar aapka rasta wahan se guzar raha hai, toh koshish karein ki gaadi mein ek bhi seal-broken ya seal-intact bottle na ho. Legal limits sirf 'Wet States' ke liye hoti hain.",
-    content: `
+  id: 'alcohol-transport-rules-india-checkposts',
+  title: 'Car mein Alcohol carrying rules India 2026: State Borders aur Permit ka complete sach',
+  slug: 'alcohol-transport-rules-india-border-guide',
+  excerpt:
+    "Kya aap car mein daru carry kar sakte hain? Bihar, Gujarat aur doosre states ke rules. Rajesh's deep dive into legal limits and border checkpost reality.",
+  category: 'Legal',
+  author: 'Rajesh Navsagar',
+  date: '2026-02-05',
+  imageUrl: '/images/blogs/alcohol-transport-rules-india.png',
+  keywords: [
+    'Car alcohol transport rules India',
+    'Carrying alcohol across state borders',
+    'Alcohol limit in car private vehicle',
+    'Bihar alcohol ban penalty car',
+    'Gujarat dry state car rules',
+    'Illegal alcohol transport fine India',
+    'L13 permit alcohol transport'
+  ],
+  expertTip: "Dry states (Bihar/Gujarat) ke borders par random checking 2026 mein AI sensors se badh gayi hai. Agar aapka rasta wahan se guzar raha hai, toh koshish karein ki gaadi mein ek bhi seal-broken ya seal-intact bottle na ho. Legal limits sirf 'Wet States' ke liye hoti hain.",
+  content: `
 
 <p>Har saal hazaron log Goa ya Himachal se wapas aate waqt ek 'Sasta' stock carry karne ki koshish karte hain, lekin border checkposts par unhe "Unexpected" kaanooni pareshaniyon ka samna karna padta hai. India mein alcohol transport rules itne complicated hain ki wo state-to-state badalte rehte hain. <strong>Ye guide Rajesh's border-crossing observations aur Excise Department ke 2026 updates ke general reference par based hai.</strong></strong></p>
 

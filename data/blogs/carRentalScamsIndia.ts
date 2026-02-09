@@ -78,7 +78,7 @@ const carRentalScamsIndia: BlogPost = {
 
 <p>Kya aapko pata hai ki India mein rental car ke liye **Black Number Plate with Yellow Letters** mandatory hai? Kai local operators apni personal (white plate) gaadiyan rent par de dete hain taaki unhe commercial tax aur permit fees na bharni pade. These are considered not permitted for commercial rental use.</p>
 
-<p><strong>Iska Khatra:</strong> Agar white plate car ka accident hota hai, toh koi bhi insurance company claim nahi degi kyunki car commercial use mein thi. Iska matlab hai ki dusre ki gaadi ka nuksan bhi AAPKO bharna padega, aur police car seize kar legi. Check our <a href="/blog/black-plate-rule-india">Black Plate Rules Guide</a> for more details.</p>
+<p><strong>Iska Khatra:</strong> Agar white plate car ka accident hota hai, toh koi bhi insurance company claim nahi degi kyunki car commercial use mein thi. Iska matlab hai ki dusre ki gaadi ka nuksan bhi AAPKO bharna padega, aur police car seize kar legi. Check our <a href="/blog/black-plate-rule-india-2026">Black Plate Rules Guide</a> for more details.</p>
 
 <hr/>
 

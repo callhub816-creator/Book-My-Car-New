@@ -15,6 +15,7 @@ import Privacy from './pages/Privacy';
 import Terms from './pages/Terms';
 import Disclaimer from './pages/Disclaimer';
 import NotFound from './pages/NotFound';
+import Cookies from './pages/Cookies';
 
 // Scroll to top on route change
 const ScrollToTop = () => {
@@ -44,6 +45,7 @@ const App: React.FC = () => {
             <Route path="/privacy" element={<Privacy />} />
             <Route path="/terms" element={<Terms />} />
             <Route path="/disclaimer" element={<Disclaimer />} />
+            <Route path="/cookies" element={<Cookies />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>

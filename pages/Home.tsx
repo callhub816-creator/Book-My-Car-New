@@ -3,15 +3,21 @@ import { Link } from 'react-router-dom';
 import { ShieldCheck, ArrowRight, User, BookOpen, AlertCircle, Car } from 'lucide-react';
 import { blogPosts } from '../data/blogs';
 
+import { Helmet } from 'react-helmet-async';
+
 const Home: React.FC = () => {
-  React.useEffect(() => {
-    document.title = "BookMyCar.live | Honest Indian Road Trip & Rental Guide";
-  }, []);
+  // Helmet now handles title and meta
+
 
   const featuredBlogs = blogPosts.slice(0, 3);
 
   return (
     <div className="flex flex-col min-h-screen">
+      <Helmet>
+        <title>BookMyCar.live | Honest Indian Road Trip & Rental Guide</title>
+        <meta name="description" content="Stop making expensive road trip mistakes. BookMyCar.live is a human-written guide for Indian driving rules, car rental scams, and highway safety tips." />
+        <link rel="canonical" href="https://bookmycar.live/" />
+      </Helmet>
 
       {/* ================= HERO REFINED (USER FEEDBACK) ================= */}
       <section className="relative min-h-[500px] md:h-[60vh] md:max-h-[420px] flex items-center overflow-hidden bg-black">

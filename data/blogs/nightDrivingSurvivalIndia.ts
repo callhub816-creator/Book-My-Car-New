@@ -48,7 +48,7 @@ const nightDrivingSurvivalIndia: BlogPost = {
 
 <h2>2. The Shadow Trigger aur Road Hypnosis</h2>
 
-<p>Lambi, sunsaan roads par jab divider ke beech se ped (trees) guzar rahe hote hain, toh shadows ek "Rhythmic pattern" create karti hain. Isse 'Road Hypnosis' hota hai. If the weather gets worse, read our <a href="/blog/fog-driving-guide-india">Fog Driving Survival Guide</a>.</p>
+<p>Lambi, sunsaan roads par jab divider ke beech se ped (trees) guzar rahe hote hain, toh shadows ek "Rhythmic pattern" create karti hain. Isse 'Road Hypnosis' hota hai. If the weather gets worse, read our <a href="/blog/fog-driving-survival-guide-north-india">Fog Driving Survival Guide</a>.</p>
 
 <p><strong>Tips to break hypnosis:</strong>
 <ul>

@@ -104,7 +104,7 @@ const delhiJaipurRoadTrip: BlogPost = {
 
 <ul>
   <li><strong>State Entry Tax:</strong> Delhi se Rajasthan enter karte waqt aapko Shahjahanpur border par <strong>Rajasthan Entry Tax</strong> bharna hota hai. Rental companies aksar ise prepaid rakhti hain, lekin payment receipt ki physical copy ya digital scan apne paas rakhen.</li>
-  <li><strong>Black Number Plate:</strong> Hamesha check karein ki aapki rental car ki number plate black background with yellow letters ho. Check our guide on <a href="/blog/black-plate-rule-india">Black Plate Rules</a>.</li>
+  <li><strong>Black Number Plate:</strong> Hamesha check karein ki aapki rental car ki number plate black background with yellow letters ho. Check our guide on <a href="/blog/black-plate-rule-india-2026">Black Plate Rules</a>.</li>
   <li><strong>Permit Papers:</strong> RC, Insurance aur "All India Permit" Form 59 gaadi ke dashboard box mein check karein.</li>
 </ul>
 
@@ -127,7 +127,7 @@ const delhiJaipurRoadTrip: BlogPost = {
 <ol>
   <li><strong>Two-Wheeler Alert:</strong> Highway ke borders par local bikes bina mud-guard aur bina indicator ke sudden turn leti hain.</li>
   <li><strong>Cattle Risk:</strong> Rajasthan highway par cows aur par stray animals ka darr rehta hai, khas kar raat mein.</li>
-  <li><strong>Lane Discipline:</strong> Trucks hamesha right lane mein hote hain. Inhe left se overtake karte waqt kafi savdhan rahein. Check <a href="/blog/speed-limit-fines-india">Speed Limit Guidelines</a> before speeding.</li>
+  <li><strong>Lane Discipline:</strong> Trucks hamesha right lane mein hote hain. Inhe left se overtake karte waqt kafi savdhan rahein. Check <a href="/blog/highway-speed-limits-india-fines-2026">Speed Limit Guidelines</a> before speeding.</li>
 </ol>
 
 <hr/>

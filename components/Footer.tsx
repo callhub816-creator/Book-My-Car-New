@@ -65,6 +65,9 @@ const Footer: React.FC = () => {
               <li>
                 <Link to="/disclaimer" className="text-gray-400 hover:text-white text-sm font-bold transition-colors">Full Disclaimer</Link>
               </li>
+              <li>
+                <Link to="/cookies" className="text-gray-400 hover:text-white text-sm font-bold transition-colors">Cookie Policy</Link>
+              </li>
               <li className="flex items-center text-gray-400 pt-2">
                 <Mail className="h-4 w-4 mr-2 text-blue-500" />
                 <a href="mailto:bookmycar.live@gmail.com" className="text-xs hover:text-blue-500 transition-colors font-black underline decoration-gray-700 underline-offset-4">

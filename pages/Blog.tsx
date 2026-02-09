@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { blogPosts } from '../data/blogs';
 import { Calendar, Tag, ArrowLeft, ShieldCheck } from 'lucide-react';
 import AuthorBox from '../components/AuthorBox';
+import { Helmet } from 'react-helmet-async';
 
 /* =======================
    BLOG LIST PAGE
@@ -10,6 +11,11 @@ import AuthorBox from '../components/AuthorBox';
 const BlogList: React.FC = () => {
   return (
     <main className="bg-gray-50 min-h-screen pt-6 pb-12">
+      <Helmet>
+        <title>Road Trip Guides | BookMyCar.live</title>
+        <meta name="description" content="Read expert guides on Indian road trips, rental car rules, and safety checklists. Verified information based on real driving experiences." />
+        <link rel="canonical" href="https://bookmycar.live/blog" />
+      </Helmet>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="text-center mb-10 px-4">
           <div className="inline-flex items-center gap-2 bg-blue-50 text-blue-600 px-3 py-1.5 rounded-xl text-[9px] font-black uppercase tracking-widest mb-4 border border-blue-100">
@@ -86,42 +92,6 @@ const BlogPostView: React.FC = () => {
   const { slug } = useParams();
   const post = blogPosts.find((p) => p.slug === slug);
 
-  useEffect(() => {
-    if (post) {
-      document.title = `${post.title} | BookMyCar.live`;
-
-      // Add JSON-LD for SEO
-      const script = document.createElement('script');
-      script.type = 'application/ld+json';
-      script.innerHTML = JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": post.title,
-        "description": post.excerpt,
-        "author": {
-          "@type": "Person",
-          "name": post.author,
-          "url": "https://bookmycar.live/about"
-        },
-        "datePublished": post.date,
-        "image": post.imageUrl,
-        "publisher": {
-          "@type": "Organization",
-          "name": "BookMyCar.live",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://bookmycar.live/logo.png"
-          }
-        }
-      });
-      document.head.appendChild(script);
-
-      return () => {
-        document.head.removeChild(script);
-      };
-    }
-  }, [post]);
-
   if (!post) {
     return (
       <main className="text-center py-10 text-xl text-gray-600 uppercase font-black">
@@ -130,9 +100,50 @@ const BlogPostView: React.FC = () => {
     );
   }
 
-
   return (
     <main className="bg-white min-h-screen pb-12">
+      <Helmet>
+        <title>{post.title} | BookMyCar.live</title>
+        <meta name="description" content={post.excerpt} />
+        <meta name="keywords" content={post.keywords.join(", ")} />
+        <meta name="author" content={post.author} />
+
+        {/* Open Graph / Social */}
+        <meta property="og:title" content={`${post.title} | BookMyCar.live`} />
+        <meta property="og:description" content={post.excerpt} />
+        <meta property="og:image" content={`https://bookmycar.live${post.imageUrl}`} />
+        <meta property="og:url" content={`https://bookmycar.live/blog/${post.slug}`} />
+        <meta property="og:type" content="article" />
+
+        {/* Canonical */}
+        <link rel="canonical" href={`https://bookmycar.live/blog/${post.slug}`} />
+
+        {/* JSON-LD for SEO */}
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": post.title,
+            "description": post.excerpt,
+            "author": {
+              "@type": "Person",
+              "name": post.author,
+              "url": "https://bookmycar.live/about"
+            },
+            "datePublished": post.date,
+            "image": `https://bookmycar.live${post.imageUrl}`,
+            "publisher": {
+              "@type": "Organization",
+              "name": "BookMyCar.live",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://bookmycar.live/logo.png"
+              }
+            }
+          })}
+        </script>
+      </Helmet>
+
       {/* Hero - Compacted */}
       <section className="bg-gray-900 text-white pt-6 pb-12 px-4 overflow-hidden relative">
         <div className="absolute inset-0 opacity-10 pointer-events-none">

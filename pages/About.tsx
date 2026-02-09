@@ -1,14 +1,16 @@
 import React from 'react';
 import { User, ShieldCheck, Mail, ArrowRight, BookOpen, AlertCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 
 const About: React.FC = () => {
-  React.useEffect(() => {
-    document.title = "About Rajesh & Our Mission | BookMyCar.live";
-  }, []);
-
   return (
     <div className="max-w-5xl mx-auto px-6 pt-6 pb-12">
+      <Helmet>
+        <title>About Rajesh & Our Mission | BookMyCar.live</title>
+        <meta name="description" content="BookMyCar.live is an independent expert guide for Indian road trips. Read about Rajesh Navsagar's mission to help travelers avoid rental scams and highway fines." />
+        <link rel="canonical" href="https://bookmycar.live/about" />
+      </Helmet>
       {/* --- Punchy Hero Intro --- */}
       <div className="text-center mb-8 px-4">
         <h1 className="text-3xl md:text-5xl font-black text-gray-900 mb-2 tracking-tighter font-serif uppercase leading-none">
