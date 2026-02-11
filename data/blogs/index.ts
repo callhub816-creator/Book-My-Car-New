@@ -16,6 +16,7 @@ import speedLimitFinesIndia from './speedLimitFinesIndia';
 import oneWayRentalGuide from './oneWayRentalGuide';
 import alcoholTransportRulesIndia from './alcoholTransportRulesIndia';
 import trafficChallanContestGuide2026 from './trafficChallanContestGuide2026';
+import goaMumbaiCoastalRoute2026 from './goaMumbaiCoastalRoute2026';
 
 export const blogPosts = [
   delhiJaipurRoadTrip,            // Dec 20, 2025
@@ -36,4 +37,5 @@ export const blogPosts = [
   oneWayRentalGuide,              // Jan 14, 2026
   alcoholTransportRulesIndia,     // Feb 5, 2026
   trafficChallanContestGuide2026, // Feb 7, 2026
+  goaMumbaiCoastalRoute2026,      // Feb 11, 2026
 ];

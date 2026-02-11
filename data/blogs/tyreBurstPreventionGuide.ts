@@ -76,18 +76,185 @@ const tyreBurstPreventionGuide: BlogPost = {
 
 <hr/>
 
+<hr/>
+
 <h2>4. Rental Car Tyres: The Hidden Danger</h2>
 <p>Jab aap car rent karte hain, toh aapko unke tyres ki history nahi pata hoti. Tyres ko physically check karein. Read our <a href="/blog/car-rental-scams-india">Rental Scam Guide</a> to know more about how some hosts cut costs on tyres.</p>
 
+<p><strong>Red Flags to Check:</strong></p>
+<ul>
+  <li><strong>DOT Code:</strong> Tyre ke sidewall par 4-digit code hota hai (e.g., 2419 = 24th week of 2019). Agar 5 saal se purana hai, toh reject karein.</li>
+  <li><strong>Uneven Wear:</strong> Agar ek tyre zyada ghisa hua hai, toh alignment issue hai.</li>
+  <li><strong>Sidewall Cracks:</strong> Ye sign hai ki rubber dry ho gaya hai (age ya UV damage).</li>
+  <li><strong>Spare Tyre:</strong> Check karein ki spare tyre bhi usable condition mein hai. Many rentals give flat/damaged spares.</li>
+</ul>
+
 <hr/>
 
-<h2>5. The Role of TPMS</h2>
+<h2>5. The Role of TPMS (Tyre Pressure Monitoring System)</h2>
 <p>Modern cars mein TPMS built-in aata hai. Ye system aapko batata hai ki tyre ka "Temperature" kitna hai. Agar temperature high ho jaye, toh iska matlab hai tyre stress mein hai.</p>
+
+<p><strong>External TPMS Benefits:</strong></p>
+<ul>
+  <li>Real-time pressure aur temperature monitoring</li>
+  <li>Mobile app se alerts (low pressure, high temp)</li>
+  <li>₹3,000-₹5,000 mein milta hai (Amazon/Flipkart)</li>
+  <li>Long trips par peace of mind</li>
+</ul>
+
+<p><strong>Recommended Brands:</strong> Steelmate, CARCHET, Tyredog</p>
+
+<hr/>
+
+<h2>6. Tyre Brand Comparison for Indian Highways (2026)</h2>
+
+<table style="width:100%; border-collapse: collapse; margin-bottom: 25px; font-family: 'Inter', sans-serif;">
+  <thead>
+    <tr style="background-color: #f7f9fc; border-bottom: 2px solid #e0e6ed;">
+      <th style="padding: 15px; text-align: left; color: #334155;">Brand</th>
+      <th style="padding: 15px; text-align: left; color: #334155;">Highway Performance</th>
+      <th style="padding: 15px; text-align: left; color: #334155;">Price Range (per tyre)</th>
+      <th style="padding: 15px; text-align: left; color: #334155;">Lifespan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #f1f5f9;">
+      <td style="padding: 15px; font-weight: 600;">MRF</td>
+      <td style="padding: 15px;">Excellent grip, heat resistant</td>
+      <td style="padding: 15px;">₹4,500-₹7,000</td>
+      <td style="padding: 15px;">50,000-60,000 km</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #f1f5f9;">
+      <td style="padding: 15px; font-weight: 600;">CEAT</td>
+      <td style="padding: 15px;">Good for Indian roads, durable</td>
+      <td style="padding: 15px;">₹4,000-₹6,500</td>
+      <td style="padding: 15px;">45,000-55,000 km</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #f1f5f9;">
+      <td style="padding: 15px; font-weight: 600;">Apollo</td>
+      <td style="padding: 15px;">Budget-friendly, decent quality</td>
+      <td style="padding: 15px;">₹3,500-₹5,500</td>
+      <td style="padding: 15px;">40,000-50,000 km</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; font-weight: 600;">Michelin</td>
+      <td style="padding: 15px;">Premium, best for high-speed</td>
+      <td style="padding: 15px;">₹6,000-₹10,000</td>
+      <td style="padding: 15px;">60,000-70,000 km</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Note: Prices for 185/65 R15 size (common sedan tyre). Actual prices vary by size and model.</em></p>
+
+<hr/>
+
+<h2>7. Real-World Case Study: Rajesh's Close Call on Yamuna Expressway</h2>
+
+<p>2023 mein main Delhi se Agra ja raha tha Yamuna Expressway par. Speed 110 km/h thi. Achanak right front tyre burst ho gaya. Yeh mera experience tha:</p>
+
+<ul>
+  <li><strong>Initial Shock:</strong> Gaadi right side mein pull ho gayi. Mera pehla instinct brake lagane ka tha.</li>
+  <li><strong>What I Did:</strong> Maine accelerator chhoda, steering ko firmly pakda, aur 3 seconds wait kiya.</li>
+  <li><strong>Result:</strong> Gaadi naturally 70 km/h tak slow ho gayi. Tab maine light brakes lagaye aur safely side mein ruki.</li>
+  <li><strong>Damage:</strong> Sirf tyre damage hua. Agar main panic brake lagata, toh gaadi flip bhi ho sakti thi.</li>
+</ul>
+
+<p><strong>Lesson:</strong> Training aur mental preparation saves lives. Isse pehle maine YouTube par tyre burst handling videos dekhi thi, isliye panic nahi hua.</p>
+
+<hr/>
+
+<h2>8. Seasonal Tyre Care Tips</h2>
+
+<h3>Summer (March-June):</h3>
+<ul>
+  <li>Tyre pressure 2-3 PSI kam rakhein (heat expansion ke liye)</li>
+  <li>Concrete roads (expressways) avoid karein 12 PM - 4 PM ke beech</li>
+  <li>Har 2 ghante mein break lein, tyres ko cool hone dein</li>
+</ul>
+
+<h3>Monsoon (July-September):</h3>
+<ul>
+  <li>Tread depth minimum 3mm hona chahiye (grip ke liye)</li>
+  <li>Hydroplaning se bachne ke liye speed 80 km/h se zyada na rakhein</li>
+  <li>Check our <a href="/blog/monsoon-driving-tips-india">Monsoon Driving Guide</a></li>
+</ul>
+
+<h3>Winter (October-February):</h3>
+<ul>
+  <li>Tyre pressure normal rakhein (cold air contracts)</li>
+  <li>Fog mein visibility kam hone par speed reduce karein</li>
+  <li>Read our <a href="/blog/fog-driving-guide-india">Fog Driving Guide</a></li>
+</ul>
+
+<hr/>
+
+<h2>9. Frequently Asked Questions (FAQ)</h2>
+
+<h3>Q1: Kya main sirf ek tyre replace kar sakta hoon?</h3>
+<p><strong>A:</strong> Ideally nahi. Agar aapke tyres 50% se zyada ghise hain, toh kam se kam 2 tyres (same axle par) replace karein. Uneven wear se handling issues aate hain.</p>
+
+<h3>Q2: Nitrogen filling kitne time tak rehti hai?</h3>
+<p><strong>A:</strong> Nitrogen normal air se 3-4 guna zyada der tak pressure maintain karti hai. Lekin har 2-3 mahine mein check zaroori hai.</p>
+
+<h3>Q3: Tyre rotation kab karwana chahiye?</h3>
+<p><strong>A:</strong> Har 8,000-10,000 km par. Isse saare tyres evenly ghiste hain aur lifespan badhti hai.</p>
+
+<h3>Q4: Kya tubeless tyres safer hain?</h3>
+<p><strong>A:</strong> Haan. Tubeless tyres slow puncture hote hain (air gradually nikalti hai), isliye aapko control karne ka time milta hai. Tube tyres instant burst hote hain.</p>
+
+<h3>Q5: Emergency mein spare tyre lagane ka sahi tarika?</h3>
+<p><strong>A:</strong> Hamesha flat surface par gaadi rokein, handbrake lagayein, aur jack lagane se pehle wheel chocks use karein. Agar highway par hain, toh hazard lights on karein aur reflective triangle 50 meter peeche lagayein.</p>
+
+<hr/>
+
+<h2>10. Tyre Maintenance Cost Breakdown (Annual)</h2>
+
+<table style="width:100%; border-collapse: collapse; margin-bottom: 25px; font-family: 'Inter', sans-serif;">
+  <thead>
+    <tr style="background-color: #f7f9fc; border-bottom: 2px solid #e0e6ed;">
+      <th style="padding: 15px; text-align: left; color: #334155;">Service</th>
+      <th style="padding: 15px; text-align: left; color: #334155;">Frequency</th>
+      <th style="padding: 15px; text-align: left; color: #334155;">Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #f1f5f9;">
+      <td style="padding: 15px; font-weight: 600;">Pressure Check</td>
+      <td style="padding: 15px;">Monthly</td>
+      <td style="padding: 15px;">Free (at petrol pumps)</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #f1f5f9;">
+      <td style="padding: 15px; font-weight: 600;">Wheel Alignment</td>
+      <td style="padding: 15px;">Every 10,000 km</td>
+      <td style="padding: 15px;">₹500-₹800</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #f1f5f9;">
+      <td style="padding: 15px; font-weight: 600;">Wheel Balancing</td>
+      <td style="padding: 15px;">Every 10,000 km</td>
+      <td style="padding: 15px;">₹400-₹600</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #f1f5f9;">
+      <td style="padding: 15px; font-weight: 600;">Tyre Rotation</td>
+      <td style="padding: 15px;">Every 10,000 km</td>
+      <td style="padding: 15px;">₹300-₹500</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; font-weight: 600;">Nitrogen Refill</td>
+      <td style="padding: 15px;">Every 3 months</td>
+      <td style="padding: 15px;">₹200-₹400 (all 4 tyres)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Total Annual Maintenance:</strong> ₹2,000-₹3,500 (excluding tyre replacement)</p>
 
 <hr/>
 
 <h2>Conclusion: Tyres are your Contact with the Road</h2>
 <p>Gaadi ka engine fail ho jaye toh gaadi ruk jayegi, lekin agar tyre fail ho jaye toh gaadi aapke control se bahar ho jayegi. Tyres par kabhi compromise mat karein. This article focuses on real Indian highway conditions, not generic travel advice.</p>
+
+<p><strong>Remember:</strong> A ₹500 tyre check can save you from a ₹5 lakh accident. Invest in quality tyres, maintain them regularly, and drive with awareness.</p>
 
 <p>Safe road trips ke baare mein aur janne ke liye hamesha alert rahein. Drive Safe!</p>
 
