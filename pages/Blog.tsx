@@ -153,6 +153,16 @@ const BlogPostView: React.FC = () => {
           <img src={post.imageUrl} className="w-full h-full object-cover blur-sm" alt={post.title} />
         </div>
         <div className="max-w-4xl mx-auto relative z-10">
+
+          {/* Breadcrumbs */}
+          <nav className="flex items-center gap-2 text-[8px] font-black uppercase tracking-widest text-gray-400 mb-6">
+            <Link to="/" className="hover:text-blue-400 transition-colors">Home</Link>
+            <span>/</span>
+            <Link to="/blog" className="hover:text-blue-400 transition-colors">Guides</Link>
+            <span>/</span>
+            <span className="text-blue-400 truncate max-w-[150px]">{post.category}</span>
+          </nav>
+
           <Link
             to="/blog"
             className="inline-flex items-center text-gray-400 hover:text-white mb-4 text-[9px] font-black uppercase tracking-[0.2em] transition-colors"
