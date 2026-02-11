@@ -40,7 +40,7 @@ const fastagRulesIndia2026: BlogPost = {
 
 <h2>1. 2026 mein FASTag ke Naye Rules Kya Hain?</h2>
 
-<p><strong>Ye rules NHAI aur MoRTH ke official notifications ke general reference par based hain.</strong> Highway infrastructure ab kafi fast ho chuka hai, aur manual tolling lagbhag band ho gayi hai.</p>
+<p><strong>Ye rules <a href="https://morth.nic.in/" target="_blank" rel="noopener noreferrer">MoRTH (Ministry of Road Transport and Highways)</a> aur NHAI ke official notifications ke general reference par based hain.</strong> Highway infrastructure ab kafi fast ho chuka hai, aur manual tolling lagbhag band ho gayi hai.</p>
 
 <h3>'One Vehicle One FASTag' Rule</h3>
 <p>NHAI ne ab strict kar diya hai ki ek gaadi par sirf ek hi Active FASTag hona chahiye. Humesha check karein ki windshield par sirf EK HI physical tag ho. For legal compliance, check our <a href="/blog/black-plate-rule-india-2026">Black Plate Guide</a>.</p>
@@ -66,7 +66,7 @@ const fastagRulesIndia2026: BlogPost = {
   <h4 style="margin-top: 0; color: #0056b3; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;">🚀 Quick FASTag Checklist</h4>
   <ul style="list-style-type: none; padding-left: 0; line-height: 2;">
     <li>🔲 <strong>Visual Scan:</strong> Windshield par sirf ek tag ho, aur wo scratched na ho.</li>
-    <li>🔲 <strong>App Status check:</strong> 'Park+' ya 'PhonePe' par car number daalkar balance check karein.</li>
+    <li>🔲 <strong>App Status check:</strong> 'Park+' ya <strong><a href="https://www.npci.org.in/what-we-do/netc-fastag/check-your-netc-fastag-status" target="_blank" rel="noopener noreferrer">NPCI Status Portal</a></strong> par car number daalkar balance check karein.</li>
     <li>🔲 <strong>Negative Balance:</strong> Agar balance minus mein hai, toh Host se turant recharge karwayein.</li>
     <li>🔲 <strong>Double Toll Receipt:</strong> Apne wallet mein thoda cash hamesha rakhen emergency ke liye.</li>
   </ul>

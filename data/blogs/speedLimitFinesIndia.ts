@@ -41,7 +41,7 @@ const speedLimitFinesIndia: BlogPost = {
 <p><strong>The Double Trouble Warning:</strong> Agar aap rental car chala rahe hain, toh aap par do kanoon lagte hain: Ek Traffic Police ka aur doosra Rental Company ka. Ek galti aur do fines.</p>
 
 <h2>1. Understanding National Speed Limits (2026 Update)</h2>
-<p>India mein ab 3 major categories mein speed limits divide ki gayi hain jo <strong>MoRTH guidelines ke general reference</strong> follow karti hain:</p>
+<p>India mein ab 3 major categories mein speed limits divide ki gayi hain jo <strong><a href="https://morth.nic.in/speed-limits" target="_blank" rel="noopener noreferrer">MoRTH guidelines (Ministry of Road Transport)</a> ke general reference</strong> follow karti hain:</p>
 <ul>
   <li><strong>Access-Controlled Expressways:</strong> Jaise ki Delhi-Mumbai Expressway. Yahan cars ke liye limit <strong>120 km/h</strong> hai. For route planning, see our <a href="/blog/delhi-jaipur-road-trip">Delhi-Jaipur Highway Guide</a>.</li>
   <li><strong>National Highways (4-Lane+):</strong> Yahan limit usually <strong>100 km/h</strong> hoti hai. Residential areas mein ye 60 km/h-80 km/h ho sakti hai.</li>
@@ -234,7 +234,7 @@ const speedLimitFinesIndia: BlogPost = {
 
 <p><strong>Step-by-Step Process:</strong></p>
 <ol>
-  <li>Visit Parivahan Sewa portal or Vahan app</li>
+  <li>Visit <strong><a href="https://echallan.parivahan.gov.in/" target="_blank" rel="noopener noreferrer">Parivahan Sewa E-Challan Portal</a></strong> or Vahan app</li>
   <li>Enter vehicle registration number</li>
   <li>View pending challans with details (date, location, violation type)</li>
   <li>Pay online via UPI/Card/Net Banking</li>

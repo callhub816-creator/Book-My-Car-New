@@ -93,7 +93,7 @@ const trafficChallanContestGuide2026: BlogPost = {
 <p>Agar police grievance accept nahi karti, toh mamla <strong>Virtual Court</strong> mein jata hai. Ye actual court nahi hai, balki ek online portal hai jahan judge baithte hain.</p>
 
 <ul>
-  <li>Visit <strong>vcourts.gov.in</strong>.</li>
+  <li>Visit <strong><a href="https://vcourts.gov.in/virtualcourt/" target="_blank" rel="noopener noreferrer">vcourts.gov.in</a></strong> (Virtual Courts Official).</li>
   <li>Select your State and Department.</li>
   <li>Aapko do options milenge:
     <ul>
