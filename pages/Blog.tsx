@@ -5,6 +5,7 @@ import { Calendar, Tag, ArrowLeft, ShieldCheck } from 'lucide-react';
 import AuthorBox from '../components/AuthorBox';
 import ShareButtons from '../components/ShareButtons';
 import Comments from '../components/Comments';
+import AdUnit from '../components/AdUnit';
 import { Helmet } from 'react-helmet-async';
 
 /* =======================
@@ -186,6 +187,12 @@ const BlogPostView: React.FC = () => {
       {/* Content - Optimized Fit */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-20">
         <article className="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 pb-8">
+
+          {/* Ad Unit - Top of Article */}
+          <div className="px-6 pt-6">
+            <AdUnit slotId="TOP_SLOT_ID_PLACEHOLDER" format="auto" className="min-h-[100px] mb-4" />
+          </div>
+
           <div className="p-1">
             <img
               src={post.imageUrl}
@@ -213,6 +220,9 @@ const BlogPostView: React.FC = () => {
               className="prose prose-sm md:prose-base prose-blue text-gray-700 max-w-none mb-8 article-content font-medium leading-[1.7]"
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
+
+            {/* Ad Unit - Bottom of Article (Before Comments) */}
+            <AdUnit slotId="BOTTOM_SLOT_ID_PLACEHOLDER" format="auto" className="my-8" />
 
             <div className="text-[9px] font-black text-gray-400 mb-8 tracking-widest uppercase border-t pt-6 flex items-center gap-2">
               <img src="/logo.png" className="h-4 w-4 rounded-sm" alt="Logo" />
