@@ -1,13 +1,16 @@
 import React from 'react';
 import { Gavel, CheckCircle2, Bookmark, ExternalLink, ShieldAlert, UserCheck } from 'lucide-react';
+import { Helmet } from 'react-helmet-async';
 
 const Terms: React.FC = () => {
-  React.useEffect(() => {
-    document.title = "Terms & Conditions | User Agreement | BookMyCar.live";
-  }, []);
-
   return (
     <div className="bg-white min-h-screen pt-10 pb-20">
+      <Helmet>
+        <title>Terms & Conditions | User Agreement | BookMyCar.live</title>
+        <meta name="description" content="User Agreement and Terms of Service for BookMyCar.live. Understand the liability regarding road rules and rental advice." />
+        <link rel="canonical" href="https://bookmycar.live/terms" />
+      </Helmet>
+
       <div className="max-w-4xl mx-auto px-6 text-gray-800">
 
         {/* Header */}

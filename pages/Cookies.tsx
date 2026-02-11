@@ -1,14 +1,17 @@
 import React from 'react';
 import { ShieldCheck, Cookie as CookieIcon, Info, ExternalLink } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 
 const Cookies: React.FC = () => {
-    React.useEffect(() => {
-        document.title = "Cookie Policy | BookMyCar.live";
-    }, []);
-
     return (
         <div className="bg-white min-h-screen pt-10 pb-20">
+            <Helmet>
+                <title>Cookie Policy | BookMyCar.live</title>
+                <meta name="description" content="Cookie Policy for BookMyCar.live. Information on Google AdSense DART cookies and how to manage your privacy settings." />
+                <link rel="canonical" href="https://bookmycar.live/cookies" />
+            </Helmet>
+
             <div className="max-w-4xl mx-auto px-6 text-gray-800">
 
                 {/* Header */}

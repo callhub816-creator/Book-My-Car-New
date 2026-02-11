@@ -1,13 +1,16 @@
 import React from 'react';
 import { ShieldCheck, Lock, EyeOff, UserCheck } from 'lucide-react';
+import { Helmet } from 'react-helmet-async';
 
 const Privacy: React.FC = () => {
-  React.useEffect(() => {
-    document.title = "Privacy Policy & AdSense Disclosure | BookMyCar.live";
-  }, []);
-
   return (
     <div className="bg-white min-h-screen pt-10 pb-20">
+      <Helmet>
+        <title>Privacy Policy & AdSense Disclosure | BookMyCar.live</title>
+        <meta name="description" content="Privacy Policy for BookMyCar.live. Learn how we protect your data and our transparency regarding Google AdSense cookies." />
+        <link rel="canonical" href="https://bookmycar.live/privacy" />
+      </Helmet>
+
       <div className="max-w-4xl mx-auto px-6 text-gray-800">
 
         {/* Header */}

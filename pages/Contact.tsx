@@ -1,11 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Mail, MessageSquare, ShieldCheck, User, ArrowRight } from 'lucide-react';
+import { Helmet } from 'react-helmet-async';
 
 const Contact: React.FC = () => {
-  React.useEffect(() => {
-    document.title = "Contact Rajesh Navsagar | BookMyCar.live";
-  }, []);
-
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     alert('Message mil gaya! Rajesh will get back to you within 24-48 hours.');
@@ -13,6 +10,12 @@ const Contact: React.FC = () => {
 
   return (
     <div className="max-w-6xl mx-auto px-6 pt-6 pb-12">
+      <Helmet>
+        <title>Contact Rajesh Navsagar | BookMyCar.live</title>
+        <meta name="description" content="Contact Rajesh Navsagar for personal road trip advice and policy reviews. BookMyCar.live helps you navigate Indian rental rules." />
+        <link rel="canonical" href="https://bookmycar.live/contact" />
+      </Helmet>
+
       <div className="text-center mb-10">
         <div className="inline-flex items-center gap-2 bg-blue-50 text-blue-600 px-3 py-1.5 rounded-full text-[9px] font-black uppercase tracking-widest mb-4 border border-blue-100/50">
           <User size={12} /> Human Response

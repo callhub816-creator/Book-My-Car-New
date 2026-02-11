@@ -1,13 +1,16 @@
 import React from 'react';
 import { AlertTriangle, ShieldCheck, Info, Scale } from 'lucide-react';
+import { Helmet } from 'react-helmet-async';
 
 const Disclaimer: React.FC = () => {
-  React.useEffect(() => {
-    document.title = "Important Legal Disclaimer | BookMyCar.live";
-  }, []);
-
   return (
     <div className="bg-white min-h-screen pt-10 pb-20">
+      <Helmet>
+        <title>Important Legal Disclaimer | BookMyCar.live</title>
+        <meta name="description" content="Legal Disclaimer: BookMyCar.live is an independent informational guide. We are not a car rental agency or booking platform." />
+        <link rel="canonical" href="https://bookmycar.live/disclaimer" />
+      </Helmet>
+
       <div className="max-w-4xl mx-auto px-6 text-gray-800">
 
         {/* Header */}
