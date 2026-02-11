@@ -3,6 +3,8 @@ import { useParams, Link } from 'react-router-dom';
 import { blogPosts } from '../data/blogs';
 import { Calendar, Tag, ArrowLeft, ShieldCheck } from 'lucide-react';
 import AuthorBox from '../components/AuthorBox';
+import ShareButtons from '../components/ShareButtons';
+import Comments from '../components/Comments';
 import { Helmet } from 'react-helmet-async';
 
 /* =======================
@@ -230,8 +232,17 @@ const BlogPostView: React.FC = () => {
               ))}
             </div>
 
+            {/* Share Buttons */}
+            <ShareButtons
+              title={post.title}
+              url={`https://bookmycar.live/blog/${post.slug}`}
+            />
+
             {/* Author Section */}
             <AuthorBox />
+
+            {/* Comments / Questions CTA */}
+            <Comments title={post.title} slug={post.slug} />
 
             {/* Suggested Blogs Section */}
             <div className="mt-16 pt-12 border-t border-gray-100">
