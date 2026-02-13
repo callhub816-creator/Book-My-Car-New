@@ -55,7 +55,7 @@ const interstatePermitGuide: BlogPost = {
 <p><strong>Step-by-step process:</strong>
 <ol>
   <li>Visit <a href="https://parivahan.gov.in/checkpost/faces/public/payment/TaxCollectionMain.xhtml" target="_blank" rel="noopener noreferrer">Parivahan Check Post Tax portal</a>.</li>
-  <li>Registration number aur last 5 digits of chassis number dalein. (See our <a href="/blog/car-pickup-audit-rajesh">Pickup Checklist</a> to find chassis number).</li>
+  <li>Registration number aur last 5 digits of chassis number dalein. (See our <a href="/blog/car-pickup-inspection-checklist-rajesh">Pickup Checklist</a> to find chassis number).</li>
   <li>Destination state aur duration select karke payment karein.</li>
   <li>Receipt ka digital backup Google Drive aur physical printout zaroor rakhein.</li>
 </ol>

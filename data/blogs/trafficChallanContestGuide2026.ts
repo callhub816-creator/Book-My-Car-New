@@ -59,7 +59,7 @@ const trafficChallanContestGuide2026: BlogPost = {
   <ol style="padding-left: 20px; line-height: 1.8;">
     <li>Visit <strong><a href="https://echallan.parivahan.gov.in" target="_blank" rel="noopener noreferrer">Parivahan E-Challan Portal</a></strong>.</li>
     <li>Click on 'Get Challan Details'.</li>
-    <li>Apna Vehicle Number aur last 5 digits of Chassis Number enter karein. Iske bare mein aur jaankari ke liye humara <a href="/blog/car-pickup-audit-rajesh">Car Pickup Audit Guide</a> dekhein.</li>
+    <li>Apna Vehicle Number aur last 5 digits of Chassis Number enter karein. Iske bare mein aur jaankari ke liye humara <a href="/blog/car-pickup-inspection-checklist-rajesh">Car Pickup Audit Guide</a> dekhein.</li>
     <li>Agar yahan challan dikh raha hai, tabhi wo genuine hai.</li>
   </ol>
 </div>

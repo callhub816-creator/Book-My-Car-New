@@ -124,6 +124,62 @@ const carRentalScamsIndia: BlogPost = {
   </p>
 </div>
 
+<hr/>
+
+<h3>Detailed Scam Analysis: The "Hidden Charges" Table</h3>
+<p>Niche di gayi table mein humne un hidden charges ko list kiya hai jo agents aksar chupa lete hain. Booking se pehle inko confirm karna zaroori hai.</p>
+
+<table style="width:100%; border-collapse: collapse; margin: 20px 0; font-size: 14px;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Scam Type</th>
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Typical Cost</th>
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Prevention Tip</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">Fake Scratch/Dent</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">₹3,000 - ₹15,000</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Pickup ke time 4K Video banayein.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">Cleaning Fee</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">₹500 - ₹2,000</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Car wapas karte waqt interior photos lein.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">Clutch Burn Charge</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">₹8,000 - ₹25,000</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Test drive ke dauran clutch slip check karein.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">Late Return Penalty</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Double Hourly Rate</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Always buffer 1 hour for traffic.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr/>
+
+<h3>Advanced Tip: The "Clutch Plate" Trap</h3>
+<p>Ye scam thoda technical hai. Host aapko ek aisi gaadi deta hai jiska clutch pehle se hi week (worn out) hota hai. Hill station (jaise Manali ya Ooty) par driving karte waqt clutch fully burn ho jata hai.  
+Agent aap par blame dalta hai: "Sir, aapne half-clutch driving ki hai."</p>
+<p><strong>Solution:</strong> Pickup ke waqt handbrake lagakar gaadi ko 2nd gear mein uthane ki koshish karein. Agar engine bina stall hue rev karta rahe, toh clutch kharab hai. Gaadi reject kar dein.</p>
+
+<hr/>
+
+<h3>Legal Recourse: Agar Scam Ho Jaye Toh Kya Karein?</h3>
+<ol>
+  <li><strong>Evidence Gathering:</strong> Sabse pehle apni pickup video, drop video, aur chat history ko save karein.</li>
+  <li><strong>Email Escalation:</strong> Company ke CEO/Grievance Officer ko official mail likhein with subject: "Fraud Alert - Booking ID #12345".</li>
+  <li><strong>Consumer Court (E-Daakhil):</strong> Ab aap ghar baithe online consumer complaint file kar sakte hain E-Daakhil portal par.</li>
+  <li><strong>Social Shaming:</strong> Twitter par proofs ke saath post karein aur relevant ministry handles ko tag karein.</li>
+</ol>
+
+<hr/>
+
 `
 };
 

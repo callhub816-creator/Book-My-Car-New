@@ -115,7 +115,64 @@ const fogDrivingGuideIndia: BlogPost = {
   </p>
 </div>
 
+<hr/>
+
+<h3>Fog Light vs High Beam: Understanding the Physics</h3>
+<p>Bahut se log sochte hain ki High Beam jalane se zyada dikhega, lekin fog mein ye bilkul ulta hota hai. High beam ki light straight line mein travel karti hai aur fog ke particles (paani ki boondein) ise reflect karke wapas aapki aankhon mein bhej dete hain. Isse "White Wall" effect create hota hai.</p>
+<p>Iske vipreet, <strong>Fog Lights</strong> wide aur short-range hoti hain, aur bumper ke paas niche lagi hoti hain. Fog aksar zameen se 1-2 feet upar float karta hai, toh fog lights niche se light phenk kar road ke edges ko illuminate karti hain.</p>
+
+<table style="width:100%; border-collapse: collapse; margin: 20px 0; font-size: 14px;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Light Type</th>
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Fog Effectiveness</th>
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Why?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">High Beam</td>
+      <td style="border: 1px solid #ddd; padding: 10px; color: red;">Dangerous (0/10)</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Reflects (glare) back into driver's eyes.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">Low Beam</td>
+      <td style="border: 1px solid #ddd; padding: 10px; color: orange;">Moderate (6/10)</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Good for short-range visibility.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">Fog Lights (Yellow)</td>
+      <td style="border: 1px solid #ddd; padding: 10px; color: green;">Excellent (9/10)</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Penetrates fog better due to wavelength.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr/>
+
+<h3>Yamuna Expressway Specific Tips</h3>
+<p>Yamuna Expressway aur Agra-Lucknow Expressway par fog sabse zyada deadly hota hai kyunki ye open fields ke beech se guzarte hain. Yahan "cross-wind fog" bhi hota hai.</p>
+<ul>
+  <li><strong>Speed Limit:</strong> Fog mein speed limit 100 kmph nahi, balki 40-50 kmph honi chahiye.</li>
+  <li><strong>Rest Areas:</strong> Mathura aur Agra Tolls ke paas Rest Areas hain. Agar visibility < 50 meters hai, toh risk mat lein. Coffee pijiye aur mausam saaf hone ka wait karein.</li>
+  <li><strong>Chain Accidents:</strong> Expressway par agar ek gaadi rukti hai, toh peeche se 10-20 gaadiyan bhidti hain (Pile-up). Agar rukna pade, toh road se neeche utar kar khet (fields) ki taraf gaadi park karein, na ki shoulder par.</li>
+</ul>
+
+<hr/>
+
+<h3>Emergency Equipment Checklist</h3>
+<p>Fog drive par nikalne se pehle ensure karein:</p>
+<ol>
+  <li><strong>Reflective Tape:</strong> Apni gaadi ke rear bumper par Red Reflective Tape lagayein.</li>
+  <li><strong>Microfiber Cloth:</strong> Bar-bar windscreen saaf karne ke liye.</li>
+  <li><strong>Hazard Triangle:</strong> Breakdown ke case mein road par lagane ke liye (50 meter peeche).</li>
+  <li><strong>GPS Audio:</strong> Google Maps ka voice maximize rakhein taaki aapko turns ka pata chale bina screen dekhe.</li>
+</ol>
+
+<hr/>
+
 `
 };
 
 export default fogDrivingGuideIndia;
+

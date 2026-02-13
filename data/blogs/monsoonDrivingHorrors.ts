@@ -126,7 +126,43 @@ const monsoonDrivingHorrors: BlogPost = {
   </p>
 </div>
 
+<hr/>
+
+<h3>Essential Heavy Rain Safety Equipment Checklist</h3>
+<p>Monsoon trip par nikalne se pehle ye cheezein aapki gaadi mein honi hi chahiye:</p>
+
+<ul style="list-style-type: none; padding: 0;">
+  <li style="background: #f0f9ff; margin: 10px 0; padding: 15px; border-left: 4px solid #0369a1;">
+    <strong>🌧️ High-Quality Wipers:</strong> Bosch or Hella frameless wipers recommended. Old wipers leave streaks that blind you at night.
+  </li>
+  <li style="background: #f0f9ff; margin: 10px 0; padding: 15px; border-left: 4px solid #0369a1;">
+    <strong>🔦 Emergency Flashlight:</strong> Raat mein tyre change karne ke liye phone ki light kaafi nahi hoti.
+  </li>
+  <li style="background: #f0f9ff; margin: 10px 0; padding: 15px; border-left: 4px solid #0369a1;">
+    <strong>🔨 Glass Breaker Tool:</strong> Flooding situation mein agar darwaza jam ho jaye, toh ye tool aapki jaan bacha sakta hai.
+  </li>
+  <li style="background: #f0f9ff; margin: 10px 0; padding: 15px; border-left: 4px solid #0369a1;">
+    <strong>🧴 Anti-Fog Spray:</strong> Windshield aur ORVMs (side mirrors) par lagane ke liye.
+  </li>
+</ul>
+
+<hr/>
+
+<h3>Deep Water Wading: Step-by-Step Guide</h3>
+<p>Agar aapko kisi flooded underpass se guzarna hi pade (jo hum recommend nahi karte), toh ye technique follow karein:</p>
+<ol>
+  <li><strong>AC Off:</strong> Sabse pehle AC compressor band karein taaki fan paani ko engine bay mein na phenke.</li>
+  <li><strong>First Gear Only:</strong> Gaadi ko 1st gear mein rakhein.</li>
+  <li><strong>Constant Throttle:</strong> Accelerator ko ek constant position par dabaye rakhein. Race kam-zyada na karein.</li>
+  <li><strong>No Shifting:</strong> Pani ke beech mein gear change karne ki galti bilkul na karein. Clutch dabate hi exhaust mein paani ghus sakta hai.</li>
+</ol>
+
+<p><strong>Warning:</strong> Agar pani aapke bonnet ke upar aa gaya hai, toh engine turant band ho jayega. Window open karein aur roof par chad kar madad ka intezaar karein.</p>
+
+<hr/>
+
 `
 };
 
 export default monsoonDrivingHorrors;
+

@@ -71,7 +71,7 @@ const selfDrivePermitExplained: BlogPost = {
 <hr/>
 
 <h2>4. The Temporary Permit (TP) Risk</h2>
-<p>TP usually 1 mahine ya 7 din ke liye valid hota hai. Agar aapka trip TP expire hone ke baad tak chala, toh aap unauthorized driving kar rahe hain. Pickup ke waqt hamara <a href="/blog/car-pickup-audit-rajesh">Rental car pickup checklist</a> zaroori karein aur documents ki expiry date check karein.</p>
+<p>TP usually 1 mahine ya 7 din ke liye valid hota hai. Agar aapka trip TP expire hone ke baad tak chala, toh aap unauthorized driving kar rahe hain. Pickup ke waqt hamara <a href="/blog/car-pickup-inspection-checklist-rajesh">Rental car pickup checklist</a> zaroori karein aur documents ki expiry date check karein.</p>
 
 <hr/>
 

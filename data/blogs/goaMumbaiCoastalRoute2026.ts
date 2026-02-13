@@ -55,7 +55,7 @@ const goaMumbaiCoastalRoute2026: BlogPost = {
 <h3>Pre-Trip Checklist:</h3>
 <ul>
   <li><strong>Fuel Tank Full:</strong> Goa exit karne se pehle tank full kar lein. Agle 100km mein reliable pumps kam hain.</li>
-  <li><strong>FASTag Active:</strong> NH66 par multiple toll plazas hain. Check our <a href="/blog/fastag-rules-india-2026">FASTag Guide</a>.</li>
+  <li><strong>FASTag Active:</strong> NH66 par multiple toll plazas hain. Check our <a href="/blog/fastag-rules-india-2026-rental-cars">FASTag Guide</a>.</li>
   <li><strong>Emergency Kit:</strong> Spare tire, jack, first-aid kit zaroori hain. For detailed checklist, see our <a href="/blog/long-drive-safety-checklist">Long Drive Safety Guide</a>.</li>
 </ul>
 
@@ -102,7 +102,7 @@ const goaMumbaiCoastalRoute2026: BlogPost = {
 <h3>Common Hazards:</h3>
 <ul>
   <li><strong>Overtaking Trucks:</strong> NH66 par heavy commercial vehicles ki bheed rehti hai. Patience rakhein, blind curves par overtake na karein.</li>
-  <li><strong>Speed Breakers:</strong> Unmarked speed breakers villages ke paas common hain. For tips, check our <a href="/blog/speed-limit-fines-india">Speed Limit Guide</a>.</li>
+  <li><strong>Speed Breakers:</strong> Unmarked speed breakers villages ke paas common hain. For tips, check our <a href="/blog/highway-speed-limits-india-fines-2026">Speed Limit Guide</a>.</li>
   <li><strong>Stray Animals:</strong> Especially early morning aur late evening. Honking helps.</li>
 </ul>
 
@@ -162,9 +162,9 @@ const goaMumbaiCoastalRoute2026: BlogPost = {
 <p>Agar aap self-drive rental car use kar rahe hain, toh dhyan dein:</p>
 
 <ul>
-  <li><strong>Interstate Permit:</strong> Goa-registered car ko Maharashtra mein legally chalane ke liye permit chahiye. Check our <a href="/blog/interstate-permit-guide">Interstate Permit Guide</a>.</li>
-  <li><strong>One-Way Drop Charges:</strong> Goa pickup, Mumbai drop karne par heavy charges lagte hain (₹5,000-₹10,000). Read our <a href="/blog/one-way-car-rental-guide">One-Way Rental Guide</a>.</li>
-  <li><strong>Damage Inspection:</strong> Pickup time par car ki photos lein. For tips, see our <a href="/blog/car-pickup-audit-guide">Pickup Audit Checklist</a>.</li>
+  <li><strong>Interstate Permit:</strong> Goa-registered car ko Maharashtra mein legally chalane ke liye permit chahiye. Check our <a href="/blog/interstate-permit-guide-india-2026">Interstate Permit Guide</a>.</li>
+  <li><strong>One-Way Drop Charges:</strong> Goa pickup, Mumbai drop karne par heavy charges lagte hain (₹5,000-₹10,000). Read our <a href="/blog/one-way-car-rental-india-guide">One-Way Rental Guide</a>.</li>
+  <li><strong>Damage Inspection:</strong> Pickup time par car ki photos lein. For tips, see our <a href="/blog/car-pickup-inspection-checklist-rajesh">Pickup Audit Checklist</a>.</li>
 </ul>
 
 <hr/>
@@ -174,7 +174,7 @@ const goaMumbaiCoastalRoute2026: BlogPost = {
 <h3>Monsoon (June-September):</h3>
 <p><strong>Pros:</strong> Lush green scenery, waterfalls<br/>
 <strong>Cons:</strong> Landslides, poor visibility, slippery roads<br/>
-<strong>Verdict:</strong> Only for experienced drivers. Read our <a href="/blog/monsoon-driving-tips-india">Monsoon Driving Guide</a>.</p>
+<strong>Verdict:</strong> Only for experienced drivers. Read our <a href="/blog/monsoon-driving-survival-guide-india">Monsoon Driving Guide</a>.</p>
 
 <h3>Winter (October-March):</h3>
 <p><strong>Pros:</strong> Perfect weather, clear roads, safe driving<br/>
