@@ -3,122 +3,144 @@
   <!-- Static Pages -->
   <url>
     <loc>https://www.bookmycar.live/</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/rules</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/about</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/contact</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/privacy</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/terms</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/disclaimer</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/cookies</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.4</priority>
   </url>
 
   <!-- Blog Posts -->
   <url>
     <loc>https://www.bookmycar.live/blog/alcohol-transport-rules-india-border-guide</loc>
-    <lastmod>2026-02-10</lastmod>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog/wrong-traffic-challan-contest-guide-india-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog/car-rental-scams-india</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog/black-plate-rule-india-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog/long-drive-safety-checklist</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/night-driving-survival-india</loc>
+    <loc>https://www.bookmycar.live/blog/night-driving-survival-guide-india-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/delhi-jaipur-road-trip-guide</loc>
+    <loc>https://www.bookmycar.live/blog/delhi-jaipur-road-trip</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/monsoon-driving-tips-india</loc>
+    <loc>https://www.bookmycar.live/blog/monsoon-driving-survival-guide-india</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/self-drive-permit-guide-2026</loc>
+    <loc>https://www.bookmycar.live/blog/self-drive-permit-india-guide-rajesh</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/fastag-rules-india-2026</loc>
+    <loc>https://www.bookmycar.live/blog/fastag-rules-india-2026-rental-cars</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/fog-driving-guide-india</loc>
+    <loc>https://www.bookmycar.live/blog/fog-driving-survival-guide-north-india</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/mountain-driving-tips-india</loc>
+    <loc>https://www.bookmycar.live/blog/mountain-driving-tips-india-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/interstate-permit-guide</loc>
+    <loc>https://www.bookmycar.live/blog/interstate-permit-guide-india-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog/tyre-burst-prevention-highway-guide-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/speed-limit-fines-india</loc>
+    <loc>https://www.bookmycar.live/blog/highway-speed-limits-india-fines-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/one-way-car-rental-guide</loc>
+    <loc>https://www.bookmycar.live/blog/one-way-car-rental-india-guide</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.bookmycar.live/blog/car-pickup-audit-guide</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.bookmycar.live/blog/day-vs-night-driving-india</loc>
+    <loc>https://www.bookmycar.live/blog/car-pickup-inspection-checklist-rajesh</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog/best-time-to-start-long-road-trip-india-2026</loc>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.bookmycar.live/blog/goa-mumbai-coastal-route-nh66-2026</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-02-13</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

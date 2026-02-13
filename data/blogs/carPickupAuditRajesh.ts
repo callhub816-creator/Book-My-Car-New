@@ -2,7 +2,7 @@ import { BlogPost } from '../../types';
 
 const carPickupAuditRajesh: BlogPost = {
   id: 'car-pickup-inspection-checklist-rajesh',
-  title: "Rental Car Pickup Checklist: Gaadi lene se pehle ye 15 point 'Review' zaroor karein",
+  title: "Rental Car Pickup Checklist 2026: 15-Point Inspection Guide",
   slug: 'car-pickup-inspection-checklist-rajesh',
   excerpt:
     "Rental car pickup ke waqt agent hamesha jaldi mein hota hai. Paise bachane aur fraud se bachne ke liye mera 15-point expert inspection formula use karein.",
@@ -106,7 +106,50 @@ const carPickupAuditRajesh: BlogPost = {
 
 <hr/>
 
-<h2>Conclusion: Stay Smart, Drive Safe</h2>
+
+<hr/>
+
+            <h2>Frequently Asked Questions (Car Pickup Inspection)</h2>
+            <div itemscope itemtype="https://schema.org/FAQPage">
+              <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+                <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Why is a video inspection necessary?</h3>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <div itemprop="text">
+                    <p>A continuous <strong>360-degree video</strong> is undeniable proof. Photos can be disputed (date/time issues), but a video showing the agent and the car's condition at pickup time prevents false damage claims effectively.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+                <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">What if the Check Engine light is on?</h3>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <div itemprop="text">
+                    <p><strong>Reject the car immediately.</strong> A Check Engine light could mean serious engine or emission trouble. Driving it might lead to a breakdown on the highway, and the rental company may blame you for "negligence."</p>
+                  </div>
+                </div>
+              </div>
+
+              <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+                <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">How to check tyre condition quickly?</h3>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <div itemprop="text">
+                    <p>Use the "Coin Test" or simply look at the <strong>Tread Wear Indicator (TWI)</strong> bars inside the grooves. If the tread is flush with these bars, the tyre is bald and unsafe for highway driving (risk of bursting).</p>
+                  </div>
+                </div>
+              </div>
+
+              <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+                <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">What is the fuel policy usually?</h3>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <div itemprop="text">
+                    <p>Most companies follow strict policies: <strong>Same-to-Same</strong> (return with the same level) or <strong>Full-to-Full</strong>. Always photograph the fuel gauge at pickup. Discrepancies here are a common way to extract extra charges.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <hr/>
+
+            <h2>Conclusion: Stay Smart, Drive Safe</h2>
 
 <p>Rental car pickup inspection karna koi over-smartness nahi hai, balki ye ek responsible traveler ki pechan hai. India ke evolving rental landscape mein staff aur host fraud hone ke chances hamesha rehte hain. In points ko apni check-list bana len aur hamesha self-assured hokar road par niklein. This article focuses on real Indian highway conditions, not generic travel advice.</p>
 

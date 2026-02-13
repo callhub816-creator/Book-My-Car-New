@@ -21,7 +21,7 @@ const BlogList: React.FC = () => {
       </Helmet>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="text-center mb-10 px-4">
-          <div className="inline-flex items-center gap-2 bg-blue-50 text-blue-600 px-3 py-1.5 rounded-xl text-[9px] font-black uppercase tracking-widest mb-4 border border-blue-100">
+          <div className="inline-flex items-center gap-2 bg-blue-50 text-blue-600 px-3 py-1.5 rounded-xl text-xs font-black uppercase tracking-widest mb-4 border border-blue-100">
             <ShieldCheck size={12} /> Experience-verified Guides
           </div>
           <h1 className="text-3xl md:text-5xl font-black text-gray-900 mb-2 tracking-tighter font-serif uppercase leading-[1.1]">
@@ -50,14 +50,14 @@ const BlogList: React.FC = () => {
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
                 <div className="absolute top-3 left-3">
-                  <span className="bg-white/95 backdrop-blur-md text-gray-900 text-[8px] font-black px-2 py-1 rounded-md shadow-md uppercase tracking-wider">
+                  <span className="bg-white/95 backdrop-blur-md text-gray-900 text-[10px] font-black px-2 py-1 rounded-md shadow-md uppercase tracking-wider">
                     {post.category}
                   </span>
                 </div>
               </div>
 
               <div className="p-5 flex flex-col flex-1">
-                <div className="flex items-center gap-2 mb-2 text-[8px] font-black text-blue-600 uppercase tracking-[0.2em]">
+                <div className="flex items-center gap-2 mb-2 text-xs font-black text-blue-600 uppercase tracking-[0.2em]">
                   <ShieldCheck size={10} /> On-road experience
                 </div>
 
@@ -67,15 +67,15 @@ const BlogList: React.FC = () => {
                   </Link>
                 </h2>
 
-                <p className="text-gray-500 text-[11px] mb-4 line-clamp-2 flex-1 leading-relaxed font-medium">
+                <p className="text-gray-500 text-xs mb-4 line-clamp-2 flex-1 leading-relaxed font-medium">
                   {post.excerpt}
                 </p>
 
                 <div className="flex items-center justify-between border-t pt-4 border-gray-50 mt-auto">
-                  <div className="flex items-center gap-1.5 text-gray-400 text-[8px] font-black uppercase tracking-widest">
+                  <div className="flex items-center gap-1.5 text-gray-400 text-[10px] font-black uppercase tracking-widest">
                     <Calendar className="h-3 w-3" /> {post.date}
                   </div>
-                  <Link to={`/blog/${post.slug}`} className="text-blue-600 font-black text-[9px] uppercase tracking-widest flex items-center gap-1 hover:gap-2 transition-all">
+                  <Link to={`/blog/${post.slug}`} className="text-blue-600 font-black text-[10px] uppercase tracking-widest flex items-center gap-1 hover:gap-2 transition-all">
                     Explore <ArrowLeft className="rotate-180" size={10} />
                   </Link>
                 </div>
@@ -155,7 +155,7 @@ const BlogPostView: React.FC = () => {
         <div className="max-w-4xl mx-auto relative z-10">
 
           {/* Breadcrumbs */}
-          <nav className="flex items-center gap-2 text-[8px] font-black uppercase tracking-widest text-gray-400 mb-6">
+          <nav className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-gray-400 mb-6">
             <Link to="/" className="hover:text-blue-400 transition-colors">Home</Link>
             <span>/</span>
             <Link to="/blog" className="hover:text-blue-400 transition-colors">Guides</Link>
@@ -165,17 +165,17 @@ const BlogPostView: React.FC = () => {
 
           <Link
             to="/blog"
-            className="inline-flex items-center text-gray-400 hover:text-white mb-4 text-[9px] font-black uppercase tracking-[0.2em] transition-colors"
+            className="inline-flex items-center text-gray-400 hover:text-white mb-4 text-[10px] font-black uppercase tracking-[0.2em] transition-colors"
           >
             <ArrowLeft className="h-3 w-3 mr-1.5" />
             Back to Guides
           </Link>
 
           <div className="flex items-center gap-2 mb-4">
-            <span className="bg-blue-600 text-white text-[8px] font-black px-2 py-0.5 rounded-md uppercase tracking-widest">
+            <span className="bg-blue-600 text-white text-[10px] font-black px-2 py-0.5 rounded-md uppercase tracking-widest">
               {post.category}
             </span>
-            <span className="flex items-center text-blue-400 text-[8px] font-black uppercase tracking-widest">
+            <span className="flex items-center text-blue-400 text-[10px] font-black uppercase tracking-widest">
               <ShieldCheck size={12} className="mr-1" /> Experience-verified
             </span>
           </div>
@@ -183,7 +183,7 @@ const BlogPostView: React.FC = () => {
           <h1 className="text-2xl md:text-5xl font-black leading-tight mb-6 font-serif tracking-tighter italic uppercase">
             {post.title}
           </h1>
-          <div className="flex flex-wrap items-center gap-3 text-gray-400 text-[9px] font-black uppercase tracking-widest">
+          <div className="flex flex-wrap items-center gap-3 text-gray-400 text-[10px] font-black uppercase tracking-widest">
             <span className="flex items-center bg-white/5 border border-white/10 px-3 py-1.5 rounded-lg text-white">
               <img src="/logo.png" className="h-3.5 w-3.5 mr-2 rounded-sm" alt="Logo" /> By Rajesh Navsagar
             </span>
@@ -215,7 +215,7 @@ const BlogPostView: React.FC = () => {
             {post.expertTip && (
               <div className="bg-blue-50/50 border-l-2 border-blue-600 p-5 md:p-6 rounded-r-xl mb-8 relative overflow-hidden group">
                 <div className="relative z-10">
-                  <div className="flex items-center gap-2 mb-2 uppercase tracking-widest text-[9px] font-black text-blue-700">
+                  <div className="flex items-center gap-2 mb-2 uppercase tracking-widest text-xs font-black text-blue-700">
                     <ShieldCheck size={14} /> Rajesh's Expert Corner
                   </div>
                   <p className="text-base md:text-lg leading-relaxed font-serif text-gray-900 italic font-medium">
@@ -234,7 +234,7 @@ const BlogPostView: React.FC = () => {
             {/* Ad Unit - Bottom of Article (Before Comments) */}
             <AdUnit slotId="BOTTOM_SLOT_ID_PLACEHOLDER" format="auto" className="my-8" />
 
-            <div className="text-[9px] font-black text-gray-400 mb-8 tracking-widest uppercase border-t pt-6 flex items-center gap-2">
+            <div className="text-[10px] font-black text-gray-400 mb-8 tracking-widest uppercase border-t pt-6 flex items-center gap-2">
               <img src="/logo.png" className="h-4 w-4 rounded-sm" alt="Logo" />
               Verified by Rajesh Navsagar | {new Date(post.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
             </div>
@@ -244,7 +244,7 @@ const BlogPostView: React.FC = () => {
               {post.keywords.map((keyword) => (
                 <span
                   key={keyword}
-                  className="bg-gray-50 text-gray-500 border border-gray-100 px-2.5 py-1 rounded-lg text-[8px] font-black uppercase tracking-wider"
+                  className="bg-gray-50 text-gray-500 border border-gray-100 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider"
                 >
                   <Tag className="h-3 w-3 mr-1" />
                   {keyword}
@@ -271,9 +271,9 @@ const BlogPostView: React.FC = () => {
                   <h3 className="text-xl font-black text-gray-900 uppercase tracking-tight italic">
                     Related <span className="text-blue-600">Guides</span>
                   </h3>
-                  <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest mt-1">Recommended for your trip</p>
+                  <p className="text-xs text-gray-400 font-bold uppercase tracking-widest mt-1">Recommended for your trip</p>
                 </div>
-                <Link to="/blog" className="text-[10px] font-black text-blue-600 uppercase tracking-widest border-b-2 border-blue-100 pb-0.5 hover:border-blue-600 transition-all">
+                <Link to="/blog" className="text-xs font-black text-blue-600 uppercase tracking-widest border-b-2 border-blue-100 pb-0.5 hover:border-blue-600 transition-all">
                   View All
                 </Link>
               </div>
@@ -296,7 +296,7 @@ const BlogPostView: React.FC = () => {
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                         />
                         <div className="absolute top-2 left-2">
-                          <span className="bg-white/90 backdrop-blur-sm text-[7px] font-black px-1.5 py-0.5 rounded shadow-sm uppercase">
+                          <span className="bg-white/90 backdrop-blur-sm text-[8px] font-black px-1.5 py-0.5 rounded shadow-sm uppercase">
                             {suggestedPost.category}
                           </span>
                         </div>
@@ -305,10 +305,10 @@ const BlogPostView: React.FC = () => {
                         {suggestedPost.title}
                       </h4>
                       <div className="flex items-center justify-between mt-3">
-                        <span className="text-[8px] font-black text-gray-400 uppercase tracking-widest flex items-center gap-1">
+                        <span className="text-[10px] font-black text-gray-400 uppercase tracking-widest flex items-center gap-1">
                           <Calendar size={10} /> {suggestedPost.date}
                         </span>
-                        <span className="text-blue-600 font-black text-[8px] uppercase tracking-widest flex items-center gap-1 group-hover:gap-2 transition-all">
+                        <span className="text-blue-600 font-black text-[10px] uppercase tracking-widest flex items-center gap-1 group-hover:gap-2 transition-all">
                           Read <ArrowLeft size={10} className="rotate-180" />
                         </span>
                       </div>
