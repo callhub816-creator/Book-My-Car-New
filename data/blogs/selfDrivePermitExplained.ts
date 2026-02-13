@@ -2,10 +2,10 @@ import { BlogPost } from '../../types';
 
 const selfDrivePermitExplained: BlogPost = {
   id: 'self-drive-permit-india-guide-rajesh',
-  title: 'All India Permit vs State Permit: Rental Car le kar border cross karne se pehle ye zaroor check karein',
+  title: 'All India Permit (AITP) vs State Permit: 2026 Rental Car Border Rules',
   slug: 'self-drive-permit-india-guide-rajesh',
   excerpt:
-    "Self-drive car mein state border cross karte waqt 'All India Permit' kyun zaroori hai? RTO fines aur documentation ka complete human-verified guide.",
+    'Renting a car for interstate trip? Understand difference between All India Tourist Permit (AITP) and State Permit. Avoid RTO fines with this 2026 checklist.',
   category: 'Legal',
   author: 'Rajesh Navsagar',
   date: '2026-01-09',
@@ -71,7 +71,7 @@ const selfDrivePermitExplained: BlogPost = {
 <hr/>
 
 <h2>4. The Temporary Permit (TP) Risk</h2>
-<p>TP usually 1 mahine ya 7 din ke liye valid hota hai. Agar aapka trip TP expire hone ke baad tak chala, toh aap unauthorized driving kar rahe hain. Pickup ke waqt hamara <a href="/blog/car-pickup-inspection-checklist-rajesh">Rental car pickup checklist</a> zaroori karein aur documents ki expiry date check karein.</p>
+<p>TP usually 1 mahine ya 7 din ke liye valid hota hai. Agar aapka trip TP expire hone ke baad tak chala, toh aap unauthorized driving kar rahe hain. Pickup ke waqt hamara <a href="/blog/car-pickup-audit-rajesh">Rental car pickup checklist</a> zaroori karein aur documents ki expiry date check karein.</p>
 
 <hr/>
 
@@ -247,23 +247,44 @@ const selfDrivePermitExplained: BlogPost = {
 
 <hr/>
 
-<h2>12. Frequently Asked Questions (FAQ)</h2>
+<h2>Frequently Asked Questions (AITP vs State Permit)</h2>
+<div itemscope itemtype="https://schema.org/FAQPage">
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Does All India Permit mean no state tax?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>No. AITP authorizes the vehicle to travel anywhere, but you still MUST pay state-specific Entry Tax when crossing borders (except for states with reciprocal agreements).</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q1: Kya mParivahan app par digital permit valid hai?</h3>
-<p><strong>A:</strong> Legally haan, lekin practical mein nahi. Remote checkposts par officers physical copy demand karte hain. Hamesha printout rakhein.</p>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Is digital permit valid on mobile?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Legally yes (via mParivahan), but in practice, border RTO officers demand physical copies. Always carry a printout of the permit and Form 59.</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q2: Agar rental company expired permit de de toh kya karein?</h3>
-<p><strong>A:</strong> Pickup reject karein ya company se fresh permit mangein. Agar trip urgent hai, toh written confirmation lein ki fine company bharegi.</p>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Can I drive private car to other state without permit?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Yes. Private white-plate cars do not need any permit to travel across India, as long as taxes are paid for home state (Road Tax).</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q3: Kya white plate (private car) ke liye permit chahiye?</h3>
-<p><strong>A:</strong> Nahi. White plate private vehicles ko interstate travel ke liye permit nahi chahiye. Sirf commercial vehicles (black/yellow plate) ko chahiye.</p>
-
-<h3>Q4: Temporary Permit (TP) kab valid hai?</h3>
-<p><strong>A:</strong> TP sirf specific route aur duration ke liye valid hai. Agar aap route change karte ho ya validity expire ho jati hai, toh illegal ho jata hai.</p>
-
-<h3>Q5: Kya Form 59 aur Permit same hain?</h3>
-<p><strong>A:</strong> Nahi. Form 59 authorization letter hai (owner se driver ko permission). Permit gaadi ka license hai interstate travel ke liye. Dono alag documents hain.</p>
-
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">What happens if rental company gives expired permit?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Do NOT accept the car. Driving with an expired permit is illegal and can lead to vehicle seizure. Ask for a different car or a full refund.</p>
+      </div>
+    </div>
+  </div>
+</div>
 <hr/>
 
 <h2>13. Pro Tips for Hassle-Free Border Crossing</h2>

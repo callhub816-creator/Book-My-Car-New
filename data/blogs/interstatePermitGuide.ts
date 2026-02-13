@@ -2,10 +2,10 @@ import { BlogPost } from '../../types';
 
 const interstatePermitGuide: BlogPost = {
   id: 'interstate-permit-guide-india-2026',
-  title: 'State Border Crossing Guide: Rental Car ke liye Permits aur Entry Tax ke 2026 rules',
+  title: 'Interstate State Tax & Permit Guide 2026 for Rental Cars',
   slug: 'interstate-permit-guide-india-2026',
   excerpt:
-    'Ek state se dusre state rental car le jaane ke liye state tax aur permits ka complete guide. Online vs Offline permit aur commercial taxes kaise bharein.',
+    'Crossing state borders in a rental car? Complete guide to State Entry Tax, All India Permits (AIP), and online payment via Parivahan for 2026.',
   category: 'Legal',
   author: 'Rajesh Navsagar',
   date: '2026-01-07',
@@ -45,7 +45,7 @@ const interstatePermitGuide: BlogPost = {
   <li><strong>Entry Tax:</strong> Ye visitor fee hai jo destination state (jaise Rajasthan ya Karnataka) mangta hai.</li>
 </ul>
 
-<p>Bahut saari rental companies kehti hain ki unki gaadi ke paas National Permit hai. Lekin reality ye hai ki AITP sirf ek formal authorization hai. State Entry Tax wo asli paisa hai jo border crossing ke waqt specific state mangta hai. For example, check our detailed <a href="/blog/delhi-jaipur-road-trip">Delhi-Jaipur Border Tax Breakdown</a>.</p>
+<p>Bahut saari rental companies kehti hain ki unki gaadi ke paas National Permit hai. Lekin reality ye hai ki AITP sirf ek formal authorization hai. State Entry Tax wo asli paisa hai jo border crossing ke waqt specific state mangta hai. For example, check our detailed <a href="/blog/delhi-jaipur-road-trip">Delhi-Jaipur Toll & Tax Guide</a>.</p>
 
 <hr/>
 
@@ -54,8 +54,8 @@ const interstatePermitGuide: BlogPost = {
 
 <p><strong>Step-by-step process:</strong>
 <ol>
-  <li>Visit Parivahan Check Post Tax portal.</li>
-  <li>Registration number aur last 5 digits of chassis number dalein.</li>
+  <li>Visit <a href="https://parivahan.gov.in/checkpost/faces/public/payment/TaxCollectionMain.xhtml" target="_blank" rel="noopener noreferrer">Parivahan Check Post Tax portal</a>.</li>
+  <li>Registration number aur last 5 digits of chassis number dalein. (See our <a href="/blog/car-pickup-audit-rajesh">Pickup Checklist</a> to find chassis number).</li>
   <li>Destination state aur duration select karke payment karein.</li>
   <li>Receipt ka digital backup Google Drive aur physical printout zaroor rakhein.</li>
 </ol>
@@ -245,36 +245,44 @@ const interstatePermitGuide: BlogPost = {
 
 <hr/>
 
-<h2>9. Frequently Asked Questions (FAQ)</h2>
+<h2>Frequently Asked Questions (Interstate Permits)</h2>
+<div itemscope itemtype="https://schema.org/FAQPage">
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Is State Entry Tax mandatory for private cars?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>No. Private cars (White Plate) do not need to pay State Entry Tax. This tax is only for Commercial Vehicles (Yellow/Black Plate) like rental cars and taxis.</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q1: Kya FASTag se entry tax automatically kat jata hai?</h3>
-<p><strong>A:</strong> Nahi. FASTag sirf toll roads ke liye hai. Entry tax alag se Parivahan portal par bharna hota hai.</p>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">How to pay state entry tax online?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Visit the official <strong>parivahan.gov.in > Check Post Tax</strong> section. Select the state you are visiting, enter vehicle details, and pay via UPI/Card. Keep the digital receipt.</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q2: Agar main 2 states cross kar raha hoon (Delhi → Rajasthan → Gujarat)?</h3>
-<p><strong>A:</strong> Har state ke liye alag tax bharna hoga. Ek receipt dusre state mein valid nahi hai.</p>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Can I pay tax at the border checkpost?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Yes, but it is not recommended. Border kiosks often have long queues, server issues, or agents who charge extra commission. Paying online is safer and faster.</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q3: Kya white plate (private car) ke liye bhi entry tax lagta hai?</h3>
-<p><strong>A:</strong> Nahi. Entry tax sirf commercial vehicles (black/yellow plate) ke liye hai. Private cars exempt hain.</p>
-
-<h3>Q4: Agar border par internet nahi chal raha aur online payment nahi ho pa raha?</h3>
-<p><strong>A:</strong> Pehle se payment kar lein (trip start hone se 1-2 din pehle). Agar emergency hai, toh official checkpost counter par cash payment karein (receipt zaroor lein).</p>
-
-<h3>Q5: Form 59 kya hai aur kaise milta hai?</h3>
-<p><strong>A:</strong> Form 59 ek authorization letter hai jo rental company deti hai. Isme likha hota hai ki aapko gaadi chalane ki permission hai. Rental company se pickup ke waqt yeh document zaroor lein.</p>
-
-<hr/>
-
-<h2>10. Pro Tips for Hassle-Free Border Crossing</h2>
-
-<ul>
-  <li><strong>Screenshot Backup:</strong> Tax receipt ka screenshot phone mein save karein (internet na hone par kaam aayega)</li>
-  <li><strong>Multiple Printouts:</strong> 2-3 copies print karein (ek dashboard par, ek bag mein)</li>
-  <li><strong>Early Payment:</strong> Trip se 2-3 din pehle tax pay kar dein (last minute rush avoid karein)</li>
-  <li><strong>Vehicle Details Ready:</strong> RC book ka photo phone mein rakhein (chassis number quickly mil jayega)</li>
-  <li><strong>Dashcam On:</strong> Border crossing record karein (scam attempt ke case mein proof)</li>
-  <li><strong>Helpline Numbers:</strong> State RTO helpline numbers save karein</li>
-</ul>
-
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">What is Form 59?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Form 59 is a specific authorization under the Motor Vehicles Act that allows a private individual to drive a commercial rental car. Your rental company must provide this document.</p>
+      </div>
+    </div>
+  </div>
+</div>
 <hr/>
 
 <h2>Conclusion: Compliance equals Peace</h2>
@@ -290,7 +298,7 @@ const interstatePermitGuide: BlogPost = {
 
 <div style="background-color: #f9fafb; border: 1px solid #e5e7eb; padding: 25px; border-radius: 15px; margin-top: 40px; border-left: 5px solid #007bff;">
   <p style="font-size: 13px; color: #4b5563; line-height: 1.6; margin: 0;">
-    <em>Disclaimer: BookMyCar.live is an independent informational platform. State taxes aur permit rules govt. ki marzi se kabhi bhi badal sakte hain. Hamesha official portal updates check karein.</em>
+    <em>Disclaimer: BookMyCar.live is an independent informational platform. State taxes aur permit rules govt. ki marzi se kabhi bhi badal sakte hain. Hamesha official updates check karein.</em>
   </p>
 </div>
 

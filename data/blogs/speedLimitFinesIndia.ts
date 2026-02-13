@@ -2,10 +2,10 @@ import { BlogPost } from '../../types';
 
 const speedLimitFinesIndia: BlogPost = {
   id: 'highway-speed-limits-india-fines-2026',
-  title: 'Highway Speed Limits India 2026: Challan aur Rental Fines se bachne ki expert guide',
+  title: 'Highway Speed Limits India 2026: Speed Camera Fines & Rules',
   slug: 'highway-speed-limits-india-fines-2026',
   excerpt:
-    "Indian Expressways par speed cams ab AI-based hain. 120 km/h vs 100 km/h ka confusion aur rental car penalties se kaise bachein? Rajesh's guide.",
+    'New Indian Expressway speed limits 2026. Avoid AI surveillance fines. Speed limits for Delhi-Mumbai, Yamuna Expressway & rental car penalties explained.',
   category: 'Legal',
   author: 'Rajesh Navsagar',
   date: '2026-01-10',
@@ -43,9 +43,9 @@ const speedLimitFinesIndia: BlogPost = {
 <h2>1. Understanding National Speed Limits (2026 Update)</h2>
 <p>India mein ab 3 major categories mein speed limits divide ki gayi hain jo <strong><a href="https://morth.nic.in/speed-limits" target="_blank" rel="noopener noreferrer">MoRTH guidelines (Ministry of Road Transport)</a> ke general reference</strong> follow karti hain:</p>
 <ul>
-  <li><strong>Access-Controlled Expressways:</strong> Jaise ki Delhi-Mumbai Expressway. Yahan cars ke liye limit <strong>120 km/h</strong> hai. For route planning, see our <a href="/blog/delhi-jaipur-road-trip">Delhi-Jaipur Highway Guide</a>.</li>
-  <li><strong>National Highways (4-Lane+):</strong> Yahan limit usually <strong>100 km/h</strong> hoti hai. Residential areas mein ye 60 km/h-80 km/h ho sakti hai.</li>
-  <li><strong>City Roads & Flyovers:</strong> Mumbai Sea Link or Delhi flyovers par limit 60-70 km/h hoti hai.</li>
+  <li><strong>Access-Controlled Expressways:</strong> Jaise ki Delhi-Mumbai Expressway. Yahan cars ke liye limit <strong>120 km/h</strong> hai. Always check updated signage. See our <a href="/blog/delhi-jaipur-road-trip">Delhi-Jaipur Speed Cameras Map</a>.</li>
+  <li><strong>National Highways (4-Lane+):</strong> Yahan limit usually <strong>100 km/h</strong> hoti hai, unless specified.</li>
+  <li><strong>City Roads & Flyovers:</strong> Mumbai Sea Link or Delhi flyovers par limit 60-70 km/h hoti hai. Check <a href="https://morth.nic.in/speed-limits" target="_blank" rel="noopener noreferrer">MoRTH Speed Guidelines</a> for latest updates.</li>
 </ul>
 
 <hr/>
@@ -66,7 +66,7 @@ const speedLimitFinesIndia: BlogPost = {
 <hr/>
 
 <h2>3. The Rental Car Catch: Why 80 km/h is Important?</h2>
-<p>Jab aap rental car use karte hain, toh companies GPS trackers use karti hain. Bahut saari gaadiyan 80 km/h par beep karti hain aur higher speeds par penalty trigger karti hain. Beware of hidden costs by reading our <a href="/blog/car-rental-scams-india">Rental Scam Survival Guide</a>.</p>
+<p>Jab aap rental car use karte hain, toh companies GPS trackers use karti hain. Bahut saari gaadiyan 80 km/h par beep karti hain aur higher speeds par penalty trigger karti hain. Learn how to handle this in our <a href="/blog/car-rental-scams-india">Rental Car Scams Guide</a>.</p>
 
 <hr/>
 
@@ -244,27 +244,47 @@ const speedLimitFinesIndia: BlogPost = {
 <p><strong>Important:</strong> Agar rental car mein challan aaya aur aapne pehle pay kar diya, toh company ko receipt dikha kar processing fee waive karwa sakte ho.</p>
 
 <hr/>
+<h2>Frequently Asked Questions (Speed Limits)</h2>
+<div itemscope itemtype="https://schema.org/FAQPage">
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">What is speed limit on Indian Expressways?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>For private cars, the speed limit is **120 km/h** on access-controlled expressways like Delhi-Mumbai and Samruddhi Mahamarg. On National Highways, it is usually 100 km/h.</p>
+      </div>
+    </div>
+  </div>
 
-<h2>11. Frequently Asked Questions (FAQ)</h2>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">How do average speed cameras work?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Also called 'Section Control', these systems measure the time taken to travel between two points. If you cover the distance faster than the legal time, you are fined automatically even if you slow down near cameras.</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q1: Kya speedometer ki reading par bharosa kar sakte hain?</h3>
-<p><strong>A:</strong> Nahi 100%. Speedometers 3-5% higher reading dikhate hain. Agar needle 120 par hai, toh actual speed 115-117 ho sakti hai. Hamesha 5 km/h buffer rakhein.</p>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Is there a tolerance limit for speeding in India?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Officially, some states allow a 5% margin (error buffer), but AI cameras are precise. It is safer to drive 5 km/h below the limit to avoid fines.</p>
+      </div>
+    </div>
+  </div>
 
-<h3>Q2: Section Control kya hai aur kaise kaam karta hai?</h3>
-<p><strong>A:</strong> Section Control system do points (A aur B) ke beech average speed measure karta hai. Agar aapne distance bahut jaldi cover kiya, toh challan automatic generate ho jata hai - bina kisi camera ke.</p>
-
-<h3>Q3: Kya cruise control use karna safe hai?</h3>
-<p><strong>A:</strong> Haan, lekin sirf expressways par. Cruise control ko limit se 5-10 km/h neeche set karein. City roads ya ghats par use mat karein.</p>
-
-<h3>Q4: Agar challan galat hai toh kaise contest karein?</h3>
-<p><strong>A:</strong> Parivahan portal par "Dispute Challan" option hai. Photo/video proof upload karein. Processing time 15-30 days hai. Read our <a href="/blog/wrong-traffic-challan-contest-guide-india-2026">Challan Contest Guide</a>.</p>
-
-<h3>Q5: Rental car mein challan aane par kya karein?</h3>
-<p><strong>A:</strong> Immediately online pay kar dein aur receipt rental company ko bhejein. Isse processing fee bach sakti hai. Agar late payment hoga, toh company double charge karegi.</p>
-
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Do rental cars have speed governors?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Yes. Commercial self-drive cars (yellow-on-black plate) often have speed governors limited to 80 km/h as per RTO rules, though many newer models allow up to 120 km/h on expressways.</p>
+      </div>
+    </div>
+  </div>
+</div>
 <hr/>
 
-<h2>12. Pro Tips to Avoid Speed Fines</h2>
+<h2>Pro Tips to Avoid Speed Fines</h2>
 
 <ul>
   <li><strong>Use Waze/Google Maps:</strong> Live speed camera alerts milte hain</li>

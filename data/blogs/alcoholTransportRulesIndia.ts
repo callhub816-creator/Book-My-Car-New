@@ -2,10 +2,10 @@ import { BlogPost } from '../../types';
 
 const alcoholTransportRulesIndia: BlogPost = {
   id: 'alcohol-transport-rules-india-checkposts',
-  title: 'Car mein Alcohol carrying rules India 2026: State Borders aur Permit ka complete sach',
+  title: 'Car Alcohol Transport limit in India 2026: State Borders & Permit Rules',
   slug: 'alcohol-transport-rules-india-border-guide',
   excerpt:
-    "Kya aap car mein daru carry kar sakte hain? Bihar, Gujarat aur doosre states ke rules. Rajesh's deep dive into legal limits and border checkpost reality.",
+    'Can you carry alcohol in car across state borders? Check legal liquor limits for Delhi, UP, Haryana and strict laws for Dry States like Bihar & Gujarat.',
   category: 'Legal',
   author: 'Rajesh Navsagar',
   date: '2026-02-05',
@@ -22,7 +22,7 @@ const alcoholTransportRulesIndia: BlogPost = {
   expertTip: "Dry states (Bihar/Gujarat) ke borders par random checking 2026 mein AI sensors se badh gayi hai. Agar aapka rasta wahan se guzar raha hai, toh koshish karein ki gaadi mein ek bhi seal-broken ya seal-intact bottle na ho. Legal limits sirf 'Wet States' ke liye hoti hain.",
   content: `
 
-<p>Har saal hazaron log Goa ya Himachal se wapas aate waqt ek 'Sasta' stock carry karne ki koshish karte hain, lekin border checkposts par unhe "Unexpected" kaanooni pareshaniyon ka samna karna padta hai. India mein alcohol transport rules itne complicated hain ki wo state-to-state badalte rehte hain. <strong>Ye guide Rajesh's border-crossing observations aur Excise Department ke 2026 updates ke general reference par based hai.</strong></strong></p>
+<p>Har saal hazaron log Goa ya Himachal se wapas aate waqt ek 'Sasta' stock carry karne ki koshish karte hain, lekin border checkposts par unhe "Unexpected" kaanooni pareshaniyon ka samna karna padta hai. India mein alcohol transport rules itne complicated hain ki wo state-to-state badalte rehte hain. <strong>Ye guide Rajesh's border-crossing observations aur State Excise Departments ke 2026 updates ke general reference par based hai.</strong></strong></p>
 
 <p><em>This guide is written for Indian road travelers using personal or self-drive rental cars, based on real on-road experience.</em></p>
 
@@ -40,7 +40,7 @@ const alcoholTransportRulesIndia: BlogPost = {
 
 <h2>1. The 'Sealed vs Open' Bottle Law</h2>
 
-<p>India ke <strong>Motor Vehicles Act aur State Excise laws ke general reference</strong> ke mutabik, chalti gaadi mein alcohol consume karna ek serious criminal offense hai. Lekin transport karna? Wahan rule thoda alag hai.</p>
+<p>India ke <strong>Motor Vehicles Act 1988 aur State Excise Policies ke general reference</strong> ke mutabik, chalti gaadi mein alcohol consume karna ek serious criminal offense hai. Lekin transport karna? Wahan rule thoda alag hai. Also read about <a href="/blog/delhi-jaipur-road-trip">Delhi-Jaipur Alcohol Checkpoints</a>.</p>
 
 <ul>
   <li><strong>Sealed Bottles:</strong> Zyadatar 'Wet States' (jaise Delhi, Haryana, UP) mein aap 1-2 sealed bottles carry kar sakte hain.</li>
@@ -96,10 +96,10 @@ Check our <a href="/blog/car-rental-scams-india">Rental Scam Guide</a> to unders
 <div style="background-color: #f0f7ff; border-left: 5px solid #007bff; padding: 25px; border-radius: 15px; margin: 30px 0; font-family: 'Inter', sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
   <h4 style="margin-top: 0; color: #0056b3; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;">🛡️ Safe Transport Checklist (Within Wet States)</h4>
   <ul style="list-style-type: none; padding-left: 0; line-height: 2;">
-    <li>🔲 <strong>Original Bill:</strong> Hamesha liquor shop ka authentic bill carry karein.</li>
-    <li>🔲 <strong>Boot Space only:</strong> Bottles ko dashboard ya seats par nahi, hamesha trunk (diggi) mein rakhein.</li>
-    <li>🔲 <strong>Valid Permit:</strong> Kuch states (jaise Maharashtra) mein daily permit zaroori hota hai jo wine shops se milta hai.</li>
-    <li>🔲 <strong>No Consumption:</strong> Gaadi ke andar ek bhi open glass ya bottle na ho (even empty ones).</li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>Original Bill:</strong> Hamesha liquor shop ka authentic bill carry karein.</div></li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>Boot Space only:</strong> Bottles ko dashboard ya seats par nahi, hamesha trunk (diggi) mein rakhein.</div></li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>Valid Permit:</strong> Kuch states (jaise Maharashtra) mein daily permit zaroori hota hai jo wine shops se milta hai.</div></li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>No Consumption:</strong> Gaadi ke andar ek bhi open glass ya bottle na ho (even empty ones).</div></li>
   </ul>
 </div>
 
@@ -174,7 +174,7 @@ Check our <a href="/blog/car-rental-scams-india">Rental Scam Guide</a> to unders
 <ul>
   <li><strong>Maharashtra Excise:</strong> 1800-833-3333 (For permit queries)</li>
   <li><strong>Karnataka Excise:</strong> 080-2225-1414</li>
-  <li><strong>Goa Excise Commissioner:</strong> 0832-242-0750</li>
+  <li><strong>Goa Excise Commissioner:</strong> <a href="https://goaexcise.gov.in/" target="_blank" rel="noopener noreferrer">Official Goa Excise Website</a></li>
   <li><em>Email:</em> excise.[state]@gov.in for official permit applications (allow 7 days for processing)</li>
 </ul>
 
@@ -183,6 +183,47 @@ Check our <a href="/blog/car-rental-scams-india">Rental Scam Guide</a> to unders
 <p><strong>Insurance Impact:</strong> If your rental car is seized for alcohol transport, your security deposit will be forfeited. Some rental companies also blacklist offenders permanently.</p>
 
 <p>Safe rahein, kanoon ka samman karein, aur apni family ke saath road trip enjoy karein. Happy Journey!</p>
+
+<hr/>
+<h2>Frequently Asked Questions (Alcohol Transport)</h2>
+<div itemscope itemtype="https://schema.org/FAQPage">
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">How much alcohol can I carry in my car in India?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Generally, you can carry **up to 2 litres** of sealed alcohol bottles within the same state (where bought). Crossing state borders with alcohol is technically illegal without a specific permit, as every state has different excise duties.</p>
+      </div>
+    </div>
+  </div>
+
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Can I carry alcohol from Goa to Maharashtra?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>No. Carrying alcohol from Goa to Maharashtra is strictly prohibited without a permit. Maharashtra checkposts at Sawantwadi and Patradevi maintain strict checking. The fine can be up to ₹10,000 per bottle.</p>
+      </div>
+    </div>
+  </div>
+
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Is it allowed to carry open bottles in car?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p>Never. Carrying an open bottle (even if corked) in the passenger cabin is often treated as "Drunk Driving" evidence or "Public Drinking" by police under the Motor Vehicles Act.</p>
+      </div>
+    </div>
+  </div>
+
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="margin-bottom: 20px;">
+    <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">Which are the Dry States in India for 2026?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        <p><strong>Bihar, Gujarat, Nagaland, and Mizoram</strong> are strict Dry States. Carrying even a single bottle here can lead to non-bailable arrest and vehicle seizure.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<hr/>
 
 <p><em>Who this guide is NOT for: This guide is not for commercial transporters or smugglers. It is for private travelers and tourists.</em></p>
 
