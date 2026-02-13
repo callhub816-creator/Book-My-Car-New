@@ -186,7 +186,7 @@ const Home: React.FC = () => {
                 className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-all flex flex-col"
               >
                 <div className="relative h-48 overflow-hidden">
-                  <img src={blog.imageUrl} alt={blog.title} className="w-full h-full object-cover" />
+                  <img src={`${blog.imageUrl}?v=2`} alt={blog.title} className="w-full h-full object-cover" />
                   <div className="absolute top-3 left-3">
                     <span className="bg-white/90 backdrop-blur-md text-[9px] font-black px-2 py-1 rounded-md uppercase tracking-wider">
                       {blog.category}

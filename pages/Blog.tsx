@@ -43,7 +43,7 @@ const BlogList: React.FC = () => {
             >
               <div className="relative h-48 overflow-hidden rounded-2xl">
                 <img
-                  src={post.imageUrl}
+                  src={`${post.imageUrl}?v=2`}
                   alt={post.title}
                   loading="lazy"
                   decoding="async"
@@ -205,7 +205,7 @@ const BlogPostView: React.FC = () => {
 
           <div className="p-1">
             <img
-              src={post.imageUrl}
+              src={`${post.imageUrl}?v=2`}
               alt={post.title}
               className="w-full h-48 md:h-[350px] object-cover rounded-3xl"
             />
@@ -291,7 +291,7 @@ const BlogPostView: React.FC = () => {
                     >
                       <div className="relative h-32 mb-4 overflow-hidden rounded-xl">
                         <img
-                          src={suggestedPost.imageUrl}
+                          src={`${suggestedPost.imageUrl}?v=2`}
                           alt={suggestedPost.title}
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                         />
