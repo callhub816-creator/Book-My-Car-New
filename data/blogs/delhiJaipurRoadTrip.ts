@@ -88,11 +88,11 @@ const delhiJaipurRoadTrip: BlogPost = {
   <h4 style="margin-top: 0; color: #0056b3; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;">🚀 Delhi-Jaipur Driver Checklist</h4>
   <p style="font-size: 14px; color: #666; margin-bottom: 20px;">Trip shuru karne se pehle ye checklist zaroor follow karein:</p>
   <ul style="list-style-type: none; padding-left: 0; line-height: 2;">
-    <li style="display: flex; align-items: center; gap: 10px;">✅ <strong>FASTag Balance:</strong> Minimum ₹600 balance maintain karein. Recharge se pehle <a href="/blog/fastag-rules-india-2026">official FASTag rules 2026</a> dekh lein.</li>
-    <li>✅ <strong>Offline Maps:</strong> Kotputli ke paas network issues hote hain, offline maps ready rakhen.</li>
-    <li>✅ <strong>Tyre Pressure:</strong> Highway par garmi ki wajah se tyre pressure set rakhen.</li>
-    <li>✅ <strong>Drinking Water:</strong> Atleast 2-3 bottles raste ke liye carry karein.</li>
-    <li>✅ <strong>Identity Proof:</strong> Hotel aur potential police checking ke liye original DL zaroori hai. Agar galat challan kate, toh <a href="/blog/wrong-traffic-challan-contest-guide-india-2026">Challan contest karne ka guide</a> yahan hai.</li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>FASTag Balance:</strong> Minimum ₹600 balance maintain karein. Recharge se pehle <a href="/blog/fastag-rules-india-2026">official FASTag rules 2026</a> dekh lein.</div></li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>Offline Maps:</strong> Kotputli ke paas network issues hote hain, offline maps ready rakhen.</div></li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>Tyre Pressure:</strong> Highway par garmi ki wajah se tyre pressure set rakhen.</div></li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>Drinking Water:</strong> Atleast 2-3 bottles raste ke liye carry karein.</div></li>
+    <li style="display: flex; align-items: flex-start; gap: 10px;">✅ <div><strong>Identity Proof:</strong> Hotel aur potential police checking ke liye original DL zaroori hai. Agar galat challan kate, toh <a href="/blog/wrong-traffic-challan-contest-guide-india-2026">Challan contest karne ka guide</a> yahan hai.</div></li>
   </ul>
 </div>
 

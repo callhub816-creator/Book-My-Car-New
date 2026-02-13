@@ -207,7 +207,7 @@ const BlogPostView: React.FC = () => {
             <img
               src={`${post.imageUrl}?v=2`}
               alt={post.title}
-              className="w-full h-48 md:h-[350px] object-cover rounded-3xl"
+              className="w-full h-auto max-h-[500px] object-contain bg-gray-50 rounded-3xl mx-auto"
             />
           </div>
 
