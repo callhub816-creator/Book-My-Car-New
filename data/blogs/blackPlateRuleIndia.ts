@@ -1,4 +1,4 @@
-```
+
 import { BlogPost } from '../../types';
 
 const blackPlateRuleIndia: BlogPost = {
