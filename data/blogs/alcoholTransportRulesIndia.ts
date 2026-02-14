@@ -22,7 +22,7 @@ const alcoholTransportRulesIndia: BlogPost = {
   expertTip: "Dry states (Bihar/Gujarat) ke borders par random checking 2026 mein AI sensors se badh gayi hai. Agar aapka rasta wahan se guzar raha hai, toh koshish karein ki gaadi mein ek bhi seal-broken ya seal-intact bottle na ho. Legal limits sirf 'Wet States' ke liye hoti hain.",
   content: `
 
-<p>Har saal hazaron log Goa ya Himachal se wapas aate waqt ek 'Sasta' stock carry karne ki koshish karte hain, lekin border checkposts par unhe "Unexpected" kaanooni pareshaniyon ka samna karna padta hai. India mein alcohol transport rules itne complicated hain ki wo state-to-state badalte rehte hain. <strong>Ye guide Rajesh's border-crossing observations aur State Excise Departments ke 2026 updates ke general reference par based hai.</strong></strong></p>
+<p>Har saal hazaron log Goa ya Himachal se wapas aate waqt ek 'Sasta' stock carry karne ki koshish karte hain, lekin border checkposts par unhe "Unexpected" kaanooni pareshaniyon ka samna karna padta hai. India mein alcohol transport rules itne complicated hain ki wo state-to-state badalte rehte hain. <strong>Ye guide Rajesh's border-crossing observations aur State Excise Departments ke 2026 updates ke general reference par based hai.</strong></p>
 
 <p><em>This guide is written for Indian road travelers using personal or self-drive rental cars, based on real on-road experience.</em></p>
 

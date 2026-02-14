@@ -198,20 +198,19 @@ const BlogPostView: React.FC = () => {
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-20">
         <article className="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 pb-8">
 
-          {/* Ad Unit - Top of Article */}
-          <div className="px-6 pt-6">
-            <AdUnit slotId="TOP_SLOT_ID_PLACEHOLDER" format="auto" className="min-h-[100px] mb-4" />
-          </div>
-
-          <div className="p-1">
+          <div className="relative w-full aspect-video md:aspect-[21/9] overflow-hidden bg-gray-900">
             <img
-              src={`${post.imageUrl}?v=2`}
+              src={`${post.imageUrl}?v=4`}
               alt={post.title}
-              className="w-full h-auto max-h-[500px] object-contain bg-gray-50 rounded-3xl mx-auto"
+              className="w-full h-full object-cover"
             />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent" />
           </div>
 
           <div className="p-6 md:p-10 lg:p-12">
+            {/* Ad Unit - Top of Article (Only if actual slot ID exists) */}
+            <AdUnit slotId="" format="auto" className="mb-8" />
+
             {post.expertTip && (
               <div className="bg-blue-50/50 border-l-2 border-blue-600 p-5 md:p-6 rounded-r-xl mb-8 relative overflow-hidden group">
                 <div className="relative z-10">
@@ -232,7 +231,7 @@ const BlogPostView: React.FC = () => {
             />
 
             {/* Ad Unit - Bottom of Article (Before Comments) */}
-            <AdUnit slotId="BOTTOM_SLOT_ID_PLACEHOLDER" format="auto" className="my-8" />
+            <AdUnit slotId="" format="auto" className="my-8" />
 
             <div className="text-[10px] font-black text-gray-400 mb-8 tracking-widest uppercase border-t pt-6 flex items-center gap-2">
               <img src="/logo.png" className="h-4 w-4 rounded-sm" alt="Logo" />
