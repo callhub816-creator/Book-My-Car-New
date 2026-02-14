@@ -22,7 +22,7 @@ const trafficChallanContestGuide2026: BlogPost = {
   expertTip: "Kabhi bhi 'Processing' challan ko ignore mat karein. Agar 60 din tak pay ya contest nahi kiya, toh ye court mein transfer ho jata hai aur phir aapko lawyer karna pad sakta hai. Fake SMS links se bachein jo .apk file download karwate hain.",
   content: `
 
-<p>India ke sadkon par ab police se zyada **AI Cameras** ka raaj hai. 2026 mein Delhi, Mumbai, aur Bangalore jaise shehron mein 90% challan automated systems generate karte hain. Lekin machine Machine hi hoti hai—kai baar bina seatbelt ke bhi seatbelt ka challan aa jata hai, ya kisi aur ki bike ki photo aapki car ke number plate par map ho jati hai. <strong>Ye comprehensive guide Rajesh's personal legal research aur Parivahan Sewa ke documented processes par based hai.</strong></p>
+<p>India ke sadkon par ab police se zyada <strong>AI Cameras</strong> ka raaj hai. 2026 mein Delhi, Mumbai, aur Bangalore jaise shehron mein 90% challan automated systems generate karte hain. Lekin machine Machine hi hoti hai—kai baar bina seatbelt ke bhi seatbelt ka challan aa jata hai, ya kisi aur ki bike ki photo aapki car ke number plate par map ho jati hai. <strong>Ye comprehensive guide Rajesh's personal legal research aur Parivahan Sewa ke documented processes par based hai.</strong></p>
 
 <p><em>This comprehensive guide is written for Indian road users facing incorrect traffic penalties, based on real procedural experience.</em></p>
 

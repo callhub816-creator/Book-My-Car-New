@@ -262,7 +262,7 @@ const carPickupAuditRajesh: BlogPost = {
 <ul>
   <li><strong>Roof Check:</strong> Most people forget to look at roof. Tree branch scratches are common here.</li>
   <li><strong>Spare Tyre Air:</strong> You check 4 tyres, but forget the stepney. If stepney is flat, you are stranded.</li>
-  <li><strong>AC Cooling:</strong> Turn AC to Max immediately. If it takes >5 mins to cool, gas is low. Reject car.</li>
+  <li><strong>AC Cooling:</strong> Turn AC to Max immediately. If it takes &gt; 5 mins to cool, gas is low. Reject car.</li>
   <li><strong>Wiper Fluid:</strong> Check if washer fluid sprays. vital for highway.</li>
 </ul>
 

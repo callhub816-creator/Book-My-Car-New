@@ -21,18 +21,19 @@ const staticRoutes = [
   '/contact',
   '/privacy',
   '/terms',
-  '/disclaimer'
+  '/disclaimer',
+  '/cookies'
 ];
 
 const slugs = fs.existsSync(blogsDir)
   ? fs.readdirSync(blogsDir)
-      .filter((f) => f.endsWith('.ts'))
-      .map((f) => {
-        const content = fs.readFileSync(path.join(blogsDir, f), 'utf8');
-        const match = content.match(/slug:\s*['"]([^'"]+)['"]/);
-        return match ? match[1] : null;
-      })
-      .filter(Boolean)
+    .filter((f) => f.endsWith('.ts'))
+    .map((f) => {
+      const content = fs.readFileSync(path.join(blogsDir, f), 'utf8');
+      const match = content.match(/slug:\s*['"]([^'"]+)['"]/);
+      return match ? match[1] : null;
+    })
+    .filter(Boolean)
   : [];
 
 const routes = staticRoutes.concat(slugs.map((s) => `/blog/${s}`));

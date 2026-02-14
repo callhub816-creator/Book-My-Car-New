@@ -59,7 +59,7 @@ const alcoholTransportRulesIndia: BlogPost = {
 
 <h2>3. Dry States: Bihar aur Gujarat ka 'Zero Tolerance'</h2>
 
-<p>Agar aapka rasta Bihar ya Gujarat se guzar raha hai, toh aapke liye kanoon bilkul simple hai: **ZERO ALCOHOL.** </p>
+<p>Agar aapka rasta Bihar ya Gujarat se guzar raha hai, toh aapke liye kanoon bilkul simple hai: <strong>ZERO ALCOHOL.</strong> </p>
 
 <div style="background-color: #fce7e7; border-left: 5px solid #ef4444; padding: 25px; border-radius: 15px; margin: 30px 0; font-family: 'Inter', sans-serif;">
   <h4 style="margin-top: 0; color: #991b1b; font-weight: 800; text-transform: uppercase;">🚩 The Bihar Safety Alert</h4>
@@ -86,7 +86,7 @@ const alcoholTransportRulesIndia: BlogPost = {
 <p>Agar aap <a href="/blog/black-plate-rule-india-2026">Black Number Plate rental car</a> chala rahe hain, toh aapki zimmedari 100 guna badh jati hai. 
 <ul>
   <li>Rental companies ki policy mein alcohol transport strictly prohibited hota hai.</li>
-  <li>Agar gaadi alcohol seizure mein impound ho gayi, toh company aapse **Full Value of the Car** mang sakti hai damage ki tarah.</li>
+  <li>Agar gaadi alcohol seizure mein impound ho gayi, toh company aapse <strong>Full Value of the Car</strong> mang sakti hai damage ki tarah.</li>
   <li>Insurance companies illegal activity ke case mein 1% bhi support nahi karengi.</li>
 </ul>
 Check our <a href="/blog/car-rental-scams-india">Rental Scam Guide</a> to understand how even small legal issues can lead to huge fines by rental agencies.</p>
@@ -109,7 +109,7 @@ Check our <a href="/blog/car-rental-scams-india">Rental Scam Guide</a> to unders
 
 <h2>Conclusion: Risk vs Reward</h2>
 
-<p>Do-teen hazar rupaye bachaane ke liye jail jana ya gaadi seize karwana samajhdari nahi hai. India ke highway rules aur excise enforcement 2026 mein kafi tech-forward ho chuke hain. My simple advice: **Drink where you buy, don't carry for later across borders.** This article focuses on real Indian highway conditions, not generic travel advice.</p>
+<p>Do-teen hazar rupaye bachaane ke liye jail jana ya gaadi seize karwana samajhdari nahi hai. India ke highway rules aur excise enforcement 2026 mein kafi tech-forward ho chuke hain. My simple advice: <strong>Drink where you buy, don't carry for later across borders.</strong> This article focuses on real Indian highway conditions, not generic travel advice.</p>
 
 <p><strong>State-wise Penalty Structure (2026 Update):</strong></p>
 <table style="width:100%; border-collapse: collapse; margin-bottom: 25px; font-family: 'Inter', sans-serif;">
@@ -191,7 +191,7 @@ Check our <a href="/blog/car-rental-scams-india">Rental Scam Guide</a> to unders
     <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">How much alcohol can I carry in my car in India?</h3>
     <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
       <div itemprop="text">
-        <p>Generally, you can carry **up to 2 litres** of sealed alcohol bottles within the same state (where bought). Crossing state borders with alcohol is technically illegal without a specific permit, as every state has different excise duties.</p>
+        <p>Generally, you can carry <strong>up to 2 litres</strong> of sealed alcohol bottles within the same state (where bought). Crossing state borders with alcohol is technically illegal without a specific permit, as every state has different excise duties.</p>
       </div>
     </div>
   </div>

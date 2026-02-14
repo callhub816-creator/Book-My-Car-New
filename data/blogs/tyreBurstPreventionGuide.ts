@@ -18,7 +18,7 @@ const tyreBurstPreventionGuide: BlogPost = {
     'TPMS Benefits India',
     'Tyre Life Calculate'
   ],
-  expertTip: "The 3-second rule saves lives during a tyre burst. Pehle 3 second tak **Brake** ko bilkul mat chhuiye. Steering wheel ko dono haathon se mazbooti se pakdein aur gaadi ko natural friction se slow hone dein.",
+  expertTip: "The 3-second rule saves lives during a tyre burst. Pehle 3 second tak <strong>Brake</strong> ko bilkul mat chhuiye. Steering wheel ko dono haathon se mazbooti se pakdein aur gaadi ko natural friction se slow hone dein.",
   content: `
 
 <p>India ke naye Expressways par speed limits 120 km/h tak touch kar gayi hain. Jahan ye infrastructure desh ke liye garv ki baat hai, wahi ye tyres ke liye ek "Battleground" ban gaya hai. High speed par tyre ke andar ki hawa garm hoti hai, pressure badhta hai, aur agar tyre mein koi choti si kamzori bhi ho, toh woh <strong>Tyre Burst</strong> mein badal jati hai.</p>

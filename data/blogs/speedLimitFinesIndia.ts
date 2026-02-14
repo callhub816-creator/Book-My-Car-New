@@ -250,7 +250,7 @@ const speedLimitFinesIndia: BlogPost = {
     <h3 itemprop="name" style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">What is speed limit on Indian Expressways?</h3>
     <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
       <div itemprop="text">
-        <p>For private cars, the speed limit is **120 km/h** on access-controlled expressways like Delhi-Mumbai and Samruddhi Mahamarg. On National Highways, it is usually 100 km/h.</p>
+        <p>For private cars, the speed limit is <strong>120 km/h</strong> on access-controlled expressways like Delhi-Mumbai and Samruddhi Mahamarg. On National Highways, it is usually 100 km/h.</p>
       </div>
     </div>
   </div>

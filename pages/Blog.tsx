@@ -1,41 +1,47 @@
 import React, { useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { blogPosts } from '../data/blogs';
-import { Calendar, Tag, ArrowLeft, ShieldCheck } from 'lucide-react';
-import AuthorBox from '../components/AuthorBox';
-import ShareButtons from '../components/ShareButtons';
-import Comments from '../components/Comments';
-import AdUnit from '../components/AdUnit';
 import { Helmet } from 'react-helmet-async';
+import {
+  Calendar,
+  Tag,
+  ArrowLeft,
+  Share2,
+  Twitter,
+  Facebook,
+  Linkedin,
+  Clock,
+  ShieldCheck
+} from 'lucide-react';
+import { blogPosts } from '../data/blogs';
+import AdUnit from '../components/AdUnit';
+import AuthorBox from '../components/AuthorBox';
 
-/* =======================
-   BLOG LIST PAGE
- ======================= */
 const BlogList: React.FC = () => {
   return (
-    <main className="bg-gray-50 min-h-screen pt-6 pb-12">
+    <main className="min-h-screen bg-white">
       <Helmet>
-        <title>Road Trip Guides | BookMyCar.live</title>
-        <meta name="description" content="Read expert guides on Indian road trips, rental car rules, and safety checklists. Verified information based on real driving experiences." />
-        <link rel="canonical" href="https://bookmycar.live/blog" />
+        <title>Highway Travel Guides & Rental Rules India | BookMyCar.live</title>
+        <meta name="description" content="Expert-verified guides for Indian highways, car rental rules, safety checklists, and road trip tips. Written by राजेश नवसागर (Rajesh Navsagar)." />
       </Helmet>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <header className="text-center mb-10 px-4">
-          <div className="inline-flex items-center gap-2 bg-blue-50 text-blue-600 px-3 py-1.5 rounded-xl text-xs font-black uppercase tracking-widest mb-4 border border-blue-100">
-            <ShieldCheck size={12} /> Experience-verified Guides
-          </div>
-          <h1 className="text-3xl md:text-5xl font-black text-gray-900 mb-2 tracking-tighter font-serif uppercase leading-[1.1]">
-            Indian Road Trip <br /> <span className="text-blue-600">Travel Guides</span>
-          </h1>
-          <p className="text-sm md:text-base text-gray-500 max-w-xl mx-auto font-medium leading-relaxed italic">
-            Real-world driving logs, rental rules, and safety checklists.
-          </p>
-        </header>
 
-        <section
-          aria-label="Blog posts"
-          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
-        >
+      {/* Hero Section */}
+      <section className="bg-gray-900 text-white pt-20 pb-16 px-4">
+        <div className="max-w-7xl mx-auto text-center">
+          <div className="inline-flex items-center gap-2 bg-blue-600/10 border border-blue-600/20 px-4 py-2 rounded-full text-blue-400 text-xs font-black uppercase tracking-widest mb-6">
+            <ShieldCheck size={14} /> Expert-Verified Knowledge Base
+          </div>
+          <h1 className="text-4xl md:text-7xl font-black mb-6 tracking-tighter italic uppercase font-serif">
+            The Road <span className="text-blue-500">Survival</span> Vault
+          </h1>
+          <p className="text-gray-400 max-w-2xl mx-auto text-sm md:text-lg font-medium">
+            No AI fluff. Just real driving logs, RTO rules, and survival tactics for Indian highways (2025-2026).
+          </p>
+        </div>
+      </section>
+
+      {/* Blog Grid */}
+      <section className="max-w-7xl mx-auto px-4 py-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {blogPosts.map((post) => (
             <article
               key={post.id}
@@ -45,55 +51,50 @@ const BlogList: React.FC = () => {
                 <img
                   src={`${post.imageUrl}?v=4`}
                   alt={post.title}
-                  loading="lazy"
-                  decoding="async"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
-                <div className="absolute top-3 left-3">
-                  <span className="bg-white/95 backdrop-blur-md text-gray-900 text-[10px] font-black px-2 py-1 rounded-md shadow-md uppercase tracking-wider">
+                <div className="absolute top-4 left-4">
+                  <span className="bg-white/90 backdrop-blur-md text-gray-900 text-[9px] font-black px-2 py-1 rounded-md uppercase tracking-wider">
                     {post.category}
                   </span>
                 </div>
               </div>
 
-              <div className="p-5 flex flex-col flex-1">
-                <div className="flex items-center gap-2 mb-2 text-xs font-black text-blue-600 uppercase tracking-[0.2em]">
-                  <ShieldCheck size={10} /> On-road experience
+              <div className="p-6 flex flex-col flex-grow">
+                <div className="flex items-center gap-2 text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-3">
+                  <Calendar className="h-3 w-3" /> {post.date}
                 </div>
-
-                <h2 className="text-lg font-black text-gray-900 mb-2 line-clamp-2 tracking-tight leading-tight group-hover:text-blue-600 transition-colors uppercase">
-                  <Link to={`/blog/${post.slug}`}>
-                    {post.title}
-                  </Link>
+                <h2 className="text-xl font-black text-gray-900 mb-4 line-clamp-2 group-hover:text-blue-600 transition-colors uppercase leading-tight font-serif italic">
+                  {post.title}
                 </h2>
-
-                <p className="text-gray-500 text-xs mb-4 line-clamp-2 flex-1 leading-relaxed font-medium">
+                <p className="text-gray-600 text-sm mb-6 line-clamp-3 font-medium">
                   {post.excerpt}
                 </p>
-
-                <div className="flex items-center justify-between border-t pt-4 border-gray-50 mt-auto">
-                  <div className="flex items-center gap-1.5 text-gray-400 text-[10px] font-black uppercase tracking-widest">
-                    <Calendar className="h-3 w-3" /> {post.date}
+                <div className="mt-auto pt-6 border-t border-gray-50 flex items-center justify-between">
+                  <span className="text-blue-600 text-[10px] font-black uppercase tracking-widest flex items-center gap-1 group-hover:gap-2 transition-all">
+                    Read Guide <ArrowLeft size={12} className="rotate-180" />
+                  </span>
+                  <div className="flex -space-x-2">
+                    <img src="/logo.png" className="w-6 h-6 rounded-full border-2 border-white" alt="Author" />
                   </div>
-                  <Link to={`/blog/${post.slug}`} className="text-blue-600 font-black text-[10px] uppercase tracking-widest flex items-center gap-1 hover:gap-2 transition-all">
-                    Explore <ArrowLeft className="rotate-180" size={10} />
-                  </Link>
                 </div>
               </div>
+              <Link to={`/blog/${post.slug}`} className="absolute inset-0" title={post.title} />
             </article>
           ))}
-        </section>
-      </div>
+        </div>
+      </section>
     </main>
   );
 };
 
-/* =======================
-   BLOG DETAIL PAGE
- ======================= */
 const BlogPostView: React.FC = () => {
-  const { slug } = useParams();
+  const { slug } = useParams<{ slug: string }>();
   const post = blogPosts.find((p) => p.slug === slug);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [slug]);
 
   if (!post) {
     return (
@@ -102,6 +103,9 @@ const BlogPostView: React.FC = () => {
       </main>
     );
   }
+
+  const shareUrl = `https://bookmycar.live/blog/${post.slug}`;
+  const shareTitle = `${post.title} | BookMyCar.live`;
 
   return (
     <main className="bg-white min-h-screen pb-12">
@@ -149,8 +153,10 @@ const BlogPostView: React.FC = () => {
 
       {/* Hero - Compacted */}
       <section className="bg-gray-900 text-white pt-6 pb-12 px-4 overflow-hidden relative">
-        <div className="absolute inset-0 opacity-10 pointer-events-none">
-          <img src={post.imageUrl} className="w-full h-full object-cover blur-sm" alt={post.title} />
+        {/* Animated Background Blur */}
+        <div className="absolute inset-0 opacity-20 pointer-events-none">
+          <img src={`${post.imageUrl}?v=4`} className="w-full h-full object-cover blur-3xl scale-110" alt="" />
+          <div className="absolute inset-0 bg-gradient-to-b from-gray-900/50 via-gray-900/80 to-gray-900" />
         </div>
         <div className="max-w-4xl mx-auto relative z-10">
 
@@ -180,7 +186,7 @@ const BlogPostView: React.FC = () => {
             </span>
           </div>
 
-          <h1 className="text-2xl md:text-5xl font-black leading-tight mb-6 font-serif tracking-tighter italic uppercase">
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-black leading-tight mb-6 font-serif tracking-tighter italic uppercase drop-shadow-lg">
             {post.title}
           </h1>
           <div className="flex flex-wrap items-center gap-3 text-gray-400 text-[10px] font-black uppercase tracking-widest">
@@ -197,14 +203,26 @@ const BlogPostView: React.FC = () => {
       {/* Content - Optimized Fit */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-20">
         <article className="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 pb-8">
+          {/* Cinematic Header Image - Truly Universal Aspect Ratio Handling */}
+          <div className="relative w-full aspect-video md:aspect-[21/9] overflow-hidden bg-gray-950 shadow-2xl flex items-center justify-center">
+            {/* Background Blur Layer (Fills the frame) */}
+            <img
+              src={`${post.imageUrl}?v=4`}
+              className="absolute inset-0 w-full h-full object-cover blur-2xl opacity-40 scale-110"
+              alt=""
+              aria-hidden="true"
+            />
 
-          <div className="relative w-full aspect-video md:aspect-[21/9] overflow-hidden bg-gray-900">
+            {/* Foreground Image Layer (Main Image) */}
             <img
               src={`${post.imageUrl}?v=4`}
               alt={post.title}
-              className="w-full h-full object-cover"
+              className="relative z-10 max-w-full max-h-full object-contain shadow-2xl transform hover:scale-[1.02] transition-transform duration-700 ease-out"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent" />
+
+            {/* Visual Polish Overlays */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none z-20" />
+            <div className="absolute inset-0 ring-1 ring-inset ring-white/10 pointer-events-none z-20" />
           </div>
 
           <div className="p-6 md:p-10 lg:p-12">
@@ -238,79 +256,85 @@ const BlogPostView: React.FC = () => {
               Verified by Rajesh Navsagar | {new Date(post.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
             </div>
 
-            {/* Tags */}
-            <div className="flex flex-wrap gap-1.5 mb-10">
-              {post.keywords.map((keyword) => (
-                <span
-                  key={keyword}
-                  className="bg-gray-50 text-gray-500 border border-gray-100 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider"
+            {/* Content Footer / Sharing */}
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6 p-6 bg-gray-50 rounded-2xl border border-gray-100">
+              <div>
+                <h4 className="text-sm font-black text-gray-900 uppercase tracking-widest mb-1">Spread the Word</h4>
+                <p className="text-[10px] text-gray-500 font-bold uppercase">Help more travelers stay safe in 2026.</p>
+              </div>
+              <div className="flex items-center gap-3">
+                <button
+                  onClick={() => window.open(`https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareTitle}`, '_blank')}
+                  className="p-3 bg-white hover:bg-black hover:text-white rounded-xl shadow-sm border border-gray-100 transition-all group"
+                  title="Share on Twitter"
                 >
-                  <Tag className="h-3 w-3 mr-1" />
-                  {keyword}
-                </span>
-              ))}
+                  <Twitter size={18} />
+                </button>
+                <button
+                  onClick={() => window.open(`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`, '_blank')}
+                  className="p-3 bg-white hover:bg-blue-600 hover:text-white rounded-xl shadow-sm border border-gray-100 transition-all group"
+                  title="Share on Facebook"
+                >
+                  <Facebook size={18} />
+                </button>
+                <button
+                  onClick={() => window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${shareUrl}`, '_blank')}
+                  className="p-3 bg-white hover:bg-blue-700 hover:text-white rounded-xl shadow-sm border border-gray-100 transition-all group"
+                  title="Share on LinkedIn"
+                >
+                  <Linkedin size={18} />
+                </button>
+                <button
+                  onClick={() => {
+                    navigator.clipboard.writeText(shareUrl);
+                    alert('Guide link copied!');
+                  }}
+                  className="p-3 bg-white hover:bg-blue-600 hover:text-white rounded-xl shadow-sm border border-gray-100 transition-all group"
+                  title="Copy Link"
+                >
+                  <Share2 size={18} />
+                </button>
+              </div>
             </div>
 
-            {/* Share Buttons */}
-            <ShareButtons
-              title={post.title}
-              url={`https://bookmycar.live/blog/${post.slug}`}
-            />
-
-            {/* Author Section */}
+            {/* Author Box */}
             <AuthorBox />
 
-            {/* Comments / Questions CTA */}
-            <Comments title={post.title} slug={post.slug} />
-
-            {/* Suggested Blogs Section */}
-            <div className="mt-16 pt-12 border-t border-gray-100">
-              <div className="flex items-center justify-between mb-8">
-                <div>
-                  <h3 className="text-xl font-black text-gray-900 uppercase tracking-tight italic">
-                    Related <span className="text-blue-600">Guides</span>
-                  </h3>
-                  <p className="text-xs text-gray-400 font-bold uppercase tracking-widest mt-1">Recommended for your trip</p>
-                </div>
-                <Link to="/blog" className="text-xs font-black text-blue-600 uppercase tracking-widest border-b-2 border-blue-100 pb-0.5 hover:border-blue-600 transition-all">
-                  View All
-                </Link>
-              </div>
-
+            {/* Suggested Blogs */}
+            <div className="mt-12 pt-12 border-t border-gray-100">
+              <h3 className="text-xl font-black text-gray-900 uppercase tracking-tighter mb-8 flex items-center gap-2">
+                <ArrowLeft className="rotate-180 text-blue-600" size={20} /> Suggested Guides
+              </h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {blogPosts
-                  .filter((p) => p.slug !== post.slug)
-                  .sort(() => Math.random() - 0.5)
+                  .filter((p) => p.id !== post.id)
                   .slice(0, 2)
-                  .map((suggestedPost) => (
+                  .map((relatedPost) => (
                     <Link
-                      key={suggestedPost.id}
-                      to={`/blog/${suggestedPost.slug}`}
-                      className="group bg-gray-50/50 rounded-2xl p-4 border border-transparent hover:border-blue-100 hover:bg-white hover:shadow-xl transition-all duration-300"
+                      key={relatedPost.id}
+                      to={`/blog/${relatedPost.slug}`}
+                      className="group flex flex-col bg-white border border-gray-100 rounded-2xl overflow-hidden hover:shadow-xl transition-all duration-300"
                     >
-                      <div className="relative w-full aspect-video mb-4 overflow-hidden rounded-xl bg-gray-100">
+                      <div className="relative w-full aspect-video overflow-hidden bg-gray-100">
                         <img
-                          src={`${suggestedPost.imageUrl}?v=4`}
-                          alt={suggestedPost.title}
-                          loading="lazy"
+                          src={`${relatedPost.imageUrl}?v=4`}
+                          alt={relatedPost.title}
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                         />
-                        <div className="absolute top-2 left-2">
-                          <span className="bg-white/90 backdrop-blur-sm text-[8px] font-black px-1.5 py-0.5 rounded shadow-sm uppercase">
-                            {suggestedPost.category}
+                        <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300" />
+                      </div>
+                      <div className="p-5">
+                        <span className="text-blue-600 text-[8px] font-black uppercase tracking-widest mb-2 block">
+                          {relatedPost.category}
+                        </span>
+                        <h4 className="font-serif italic text-base font-black text-gray-900 line-clamp-2 uppercase group-hover:text-blue-600 transition-colors">
+                          {relatedPost.title}
+                        </h4>
+                        <div className="mt-4 pt-4 border-t border-gray-50 flex items-center justify-between">
+                          <span className="text-blue-600 font-black text-[10px] uppercase tracking-widest flex items-center gap-1 group-hover:gap-2 transition-all">
+                            Read <ArrowLeft size={10} className="rotate-180" />
                           </span>
                         </div>
-                      </div>
-                      <h4 className="text-sm font-black text-gray-900 uppercase leading-snug line-clamp-2 group-hover:text-blue-600 transition-colors">
-                        {suggestedPost.title}
-                      </h4>
-                      <div className="flex items-center justify-between mt-3">
-                        <span className="text-[10px] font-black text-gray-400 uppercase tracking-widest flex items-center gap-1">
-                          <Calendar size={10} /> {suggestedPost.date}
-                        </span>
-                        <span className="text-blue-600 font-black text-[10px] uppercase tracking-widest flex items-center gap-1 group-hover:gap-2 transition-all">
-                          Read <ArrowLeft size={10} className="rotate-180" />
-                        </span>
                       </div>
                     </Link>
                   ))}

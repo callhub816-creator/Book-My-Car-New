@@ -104,8 +104,8 @@ const longDriveSafetyChecklist: BlogPost = {
 <p>India ke expressway aur state borders par police checking kafi strict ho gayi hai. DigiLocker ek achha option hai, lekin remote areas mein physical documents lifesaver bante hain.</p>
 <ul>
   <li>RC, Insurance aur original Driving Licence.</li>
-  <li>**PUC Certificate (Pollution):** Iske bina ₹10,000 ka fine lag sakta hai. Check <a href="/blog/highway-speed-limits-india-fines-2026">Current Highway Fines</a>.</li>
-  <li>**FASTag Account:** Balance check karke recharge karein taaki toll par jhagda na ho.</li>
+  <li><strong>PUC Certificate (Pollution):</strong> Iske bina ₹10,000 ka fine lag sakta hai.</li>
+  <li><strong>FASTag Account:</strong> Balance check karke recharge karein.</li>
 </ul>
 
 <hr/>

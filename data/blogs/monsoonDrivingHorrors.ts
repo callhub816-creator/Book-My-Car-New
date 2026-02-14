@@ -21,7 +21,7 @@ const monsoonDrivingHorrors: BlogPost = {
   expertTip: "If you hit a water patch and feel the car sliding (hydroplaning), Resist the urge to brake. Take your foot off the gas and keep the steering wheel straight until you feel the tyres grip the road again.",
   content: `
 
-<p>Har saal monsoon aate hi WhatsApp aur Instagram par 'Beautiful Road Trip' ki videos aane lagti hain. Lekin ek baat jo koi "Travel Influencer" nahi batata, woh hai **Hydroplaning**. <strong>Ye incident Rajesh's own Mumbai-Pune Expressway trip (2024 monsoon) aur <a href="https://morth.nic.in/road-safety" target="_blank" rel="noopener noreferrer">MoRTH Guidelines</a> par based hai.</strong> Do saal pehle meri gaadi ek water patch par slip hui, aur steering par control temporarily loose ho gaya. Woh 3 second mere jeevan ke sabse lambe the.</p>
+<p>Har saal monsoon aate hi WhatsApp aur Instagram par 'Beautiful Road Trip' ki videos aane lagti hain. Lekin ek baat jo koi "Travel Influencer" nahi batata, woh hai <strong>Hydroplaning</strong>. <strong>Ye incident Rajesh's own Mumbai-Pune Expressway trip (2024 monsoon) aur <a href="https://morth.nic.in/road-safety" target="_blank" rel="noopener noreferrer">MoRTH Guidelines</a> par based hai.</strong> Do saal pehle meri gaadi ek water patch par slip hui, aur steering par control temporarily loose ho gaya. Woh 3 second mere jeevan ke sabse lambe the.</p>
 
 <p><em>This guide is written for Indian road travelers using personal or self-drive rental cars, based on real on-road experience.</em></p>
 
@@ -46,7 +46,7 @@ const monsoonDrivingHorrors: BlogPost = {
 
 <h2>2. Braking Distance ka Ganit (Maths)</h2>
 
-<p>Wet roads par braking distance **2 guna (2x)** badh jati hai. Agar dry road par aap 60 kmph se 20 meter mein rukte hain, toh baarish mein wahi car 40-50 meter legi. Before you leave, go through our <a href="/blog/long-drive-safety-checklist">Essential Safety Checklist</a>.</p>
+<p>Wet roads par braking distance <strong>2 guna (2x)</strong> badh jati hai. Agar dry road par aap 60 kmph se 20 meter mein rukte hain, toh baarish mein wahi car 40-50 meter legi. Before you leave, go through our <a href="/blog/long-drive-safety-checklist">Essential Safety Checklist</a>.</p>
 
 <ul>
   <li><strong>Keep Distance:</strong> Saamne wali gaadi se normal se double gap rakhen.</li>
@@ -65,7 +65,7 @@ const monsoonDrivingHorrors: BlogPost = {
   <li>"Fresh Air" mode on karein (Recirculation off).</li>
   <li>Windshield defogger mode select karein.</li>
 </ol>
-<p><strong>Pro Hack:</strong> Trip se pehle windshield ke andar ki taraf halka sa **Shaving Cream** laga kar saaf kar den. Ye glass par moisture jamne se rokte hain. See also <a href="/blog/fog-driving-survival-guide-north-india">Fog Driving Guide</a>.</p>
+<p><strong>Pro Hack:</strong> Trip se pehle windshield ke andar ki taraf halka sa <strong>Shaving Cream</strong> laga kar saaf kar den. Ye glass par moisture jamne se rokte hain. See also <a href="/blog/fog-driving-survival-guide-north-india">Fog Driving Guide</a>.</p>
 
 <hr/>
 
@@ -74,8 +74,8 @@ const monsoonDrivingHorrors: BlogPost = {
 <p>India mein Mumbai, Bangalore aur Delhi jaise shehron mein sudden waterlogging ho jati hai. 
 <ul>
   <li><strong>The Exhaust Rule:</strong> Agar pani radiator grill ya exhaust pipe ke level tak hai, toh gaadi mat ghusaein.</li>
-  <li><strong>First Gear Strategy:</strong> Agar ghusna hi pade, toh gaadi ko **1st Gear** mein rakhen aur accelerator ko daba kar rakhen (High RPM).</li>
-  <li><strong>Stalled Car:</strong> Agar pani mein gaadi band ho jaye, toh **Restart mat karein**. Mechanical Lock (Hydro-lock) ho sakta hai jo engine ko permanently destroy kar dega.</li>
+  <li><strong>First Gear Strategy:</strong> Agar ghusna hi pade, toh gaadi ko <strong>1st Gear</strong> mein rakhen aur accelerator ko daba kar rakhen (High RPM).</li>
+  <li><strong>Stalled Car:</strong> Agar pani mein gaadi band ho jaye, toh <strong>Restart mat karein</strong>. Mechanical Lock (Hydro-lock) ho sakta hai jo engine ko permanently destroy kar dega.</li>
 </ul>
 
 <hr/>

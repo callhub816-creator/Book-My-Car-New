@@ -44,7 +44,7 @@ const carRentalScamsIndia: BlogPost = {
 
 <h3>Kaise Bachein? (The Golden Rule)</h3>
 <ul>
-  <li>Gaadi milte hi uska **4K HD Video** banayein. Video mein car ka number aur charo side ka close-up hona chahiye.</li>
+  <li>Gaadi milte hi uska <strong>4K HD Video</strong> banayein. Video mein car ka number aur charo side ka close-up hona chahiye.</li>
   <li>Tyre ke alloys aur bumpers ke niche check karein.</li>
   <li>Agent se bolo ki app mein saare pre-existing damages officially upload kare.</li>
 </ul>
@@ -52,7 +52,7 @@ const carRentalScamsIndia: BlogPost = {
 <hr/>
 
 <h2>Scam #2: Not Permitted Number Plates (Black vs White)</h2>
-<p>Kya aapko pata hai ki India mein rental car ke liye **Black Number Plate with Yellow Letters** mandatory hai? Local operators apni personal (white plate) gaadiyan rent par de dete hain. Check our complete <a href="/blog/black-plate-rule-india-2026">Black Plate Rules Guide</a>.</p>
+<p>Kya aapko pata hai ki India mein rental car ke liye <strong>Black Number Plate with Yellow Letters</strong> mandatory hai? Local operators apni personal (white plate) gaadiyan rent par de dete hain. Check our complete <a href="/blog/black-plate-rule-india-2026">Black Plate Rules Guide</a>.</p>
 
 <hr/>
 
@@ -71,7 +71,7 @@ const carRentalScamsIndia: BlogPost = {
 
 <h3>Recover kaise karein?</h3>
 <ul>
-  <li>Hamesha **Credit Card** se payment karein taaki "Chargeback" claim kar saken.</li>
+  <li>Hamesha <strong>Credit Card</strong> se payment karein taaki "Chargeback" claim kar saken.</li>
   <li>Twitter (X) par company ke seniors ko tag karke public escalation karein.</li>
   <li>File a complaint at <a href="https://consumerhelpline.gov.in/" target="_blank" rel="noopener noreferrer">National Consumer Helpline (1915)</a>.</li>
 </ul>
