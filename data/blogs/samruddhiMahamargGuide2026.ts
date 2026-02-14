@@ -1,25 +1,25 @@
 import { BlogPost } from '../../types';
 
 const samruddhiMahamargGuide2026: BlogPost = {
-    id: 'samruddhi-mahamarg-expressway-guide-2026',
-    title: 'Samruddhi Mahamarg Guide 2026: Speed Limits, Tolls & Hypnosis Danger',
-    slug: 'samruddhi-mahamarg-expressway-guide-2026',
-    excerpt:
-        "Planning a drive on Mumbai-Nagpur Expressway? Read Rajesh's survival guide on Highway Hypnosis, tyre burst risks on concrete, and 2026 toll rates.",
-    category: 'Road Trips',
-    author: 'Rajesh Navsagar',
-    date: '2026-02-14',
-    imageUrl: '/images/blogs/samruddhi-mahamarg-guide.png',
-    keywords: [
-        'Samruddhi Mahamarg Guide 2026',
-        'Mumbai Nagpur Expressway Toll Rates',
-        'Highway Hypnosis Prevention India',
-        'Samruddhi Mahamarg Speed Limit',
-        'Tyre Safety Concrete Roads',
-        'Food Malls on Samruddhi Mahamarg'
-    ],
-    expertTip: "Samruddhi Mahamarg par 'Highway Hypnosis' real killer hai. Road itni straight aur smooth hai ki dimaag 'Auto-Pilot' mode mein chala jata hai. Har 90 minutes mein break lena compulsory rakhein, chahe thakaawat na ho. Concrete road tyres ko bahut garam karti hai, isliye Nitrogen bharna zaroori hai.",
-    content: `
+  id: 'samruddhi-mahamarg-expressway-guide-2026',
+  title: 'Samruddhi Mahamarg Guide 2026: Speed Limits, Tolls & Hypnosis Danger',
+  slug: 'samruddhi-mahamarg-expressway-guide-2026',
+  excerpt:
+    "Planning a drive on Mumbai-Nagpur Expressway? Read Rajesh's survival guide on Highway Hypnosis, tyre burst risks on concrete, and 2026 toll rates.",
+  category: 'Road Trips',
+  author: 'Rajesh Navsagar',
+  date: '2026-02-14',
+  imageUrl: '/images/blogs/samruddhi-mahamarg-guide-2026.png',
+  keywords: [
+    'Samruddhi Mahamarg Guide 2026',
+    'Mumbai Nagpur Expressway Toll Rates',
+    'Highway Hypnosis Prevention India',
+    'Samruddhi Mahamarg Speed Limit',
+    'Tyre Safety Concrete Roads',
+    'Food Malls on Samruddhi Mahamarg'
+  ],
+  expertTip: "Samruddhi Mahamarg par 'Highway Hypnosis' real killer hai. Road itni straight aur smooth hai ki dimaag 'Auto-Pilot' mode mein chala jata hai. Har 90 minutes mein break lena compulsory rakhein, chahe thakaawat na ho. Concrete road tyres ko bahut garam karti hai, isliye Nitrogen bharna zaroori hai.",
+  content: `
 
 <p>Mumbai-Nagpur Expressway (Hindu Hrudaysamrat Balasaheb Thackeray Maharashtra Samruddhi Mahamarg) India ka sabse modern lekin sabse "Tricky" highway hai. 701 km ka ye stretch aapka travel time 16 ghante se 8 ghante kar deta hai. Lekin, opening ke baad se yahan tire bursts aur hypnosis ki wajah se kayi accidents huye hain. <strong>Ye guide 2026 ke updated facilities, tolls aur safety protocols par based hai.</strong></p>
 
