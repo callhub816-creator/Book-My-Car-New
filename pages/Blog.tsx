@@ -39,11 +39,11 @@ const BlogList: React.FC = () => {
           {blogPosts.map((post) => (
             <article
               key={post.id}
-              className="bg-white rounded-3xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-all duration-300 flex flex-col group p-1"
+              className="bg-white rounded-3xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-lg transition-all duration-300 flex flex-col group"
             >
-              <div className="relative h-48 overflow-hidden rounded-2xl">
+              <div className="relative w-full aspect-video overflow-hidden bg-gray-100">
                 <img
-                  src={`${post.imageUrl}?v=2`}
+                  src={`${post.imageUrl}?v=4`}
                   alt={post.title}
                   loading="lazy"
                   decoding="async"
@@ -288,9 +288,9 @@ const BlogPostView: React.FC = () => {
                       to={`/blog/${suggestedPost.slug}`}
                       className="group bg-gray-50/50 rounded-2xl p-4 border border-transparent hover:border-blue-100 hover:bg-white hover:shadow-xl transition-all duration-300"
                     >
-                      <div className="relative h-32 mb-4 overflow-hidden rounded-xl">
+                      <div className="relative w-full aspect-video mb-4 overflow-hidden rounded-xl bg-gray-100">
                         <img
-                          src={`${suggestedPost.imageUrl}?v=2`}
+                          src={`${suggestedPost.imageUrl}?v=4`}
                           alt={suggestedPost.title}
                           loading="lazy"
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
