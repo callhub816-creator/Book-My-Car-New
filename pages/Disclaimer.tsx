@@ -8,7 +8,7 @@ const Disclaimer: React.FC = () => {
       <Helmet>
         <title>Important Legal Disclaimer | BookMyCar.live</title>
         <meta name="description" content="Legal Disclaimer: BookMyCar.live is an independent informational guide. We are not a car rental agency or booking platform." />
-        <link rel="canonical" href="https://bookmycar.live/disclaimer" />
+        <link rel="canonical" href="https://www.bookmycar.live/disclaimer" />
       </Helmet>
 
       <div className="max-w-4xl mx-auto px-6 text-gray-800">

@@ -9,7 +9,7 @@ const Cookies: React.FC = () => {
             <Helmet>
                 <title>Cookie Policy | BookMyCar.live</title>
                 <meta name="description" content="Cookie Policy for BookMyCar.live. Information on Google AdSense DART cookies and how to manage your privacy settings." />
-                <link rel="canonical" href="https://bookmycar.live/cookies" />
+                <link rel="canonical" href="https://www.bookmycar.live/cookies" />
             </Helmet>
 
             <div className="max-w-4xl mx-auto px-6 text-gray-800">

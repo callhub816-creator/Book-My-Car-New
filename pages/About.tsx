@@ -9,7 +9,7 @@ const About: React.FC = () => {
       <Helmet>
         <title>About Rajesh & Our Mission | BookMyCar.live</title>
         <meta name="description" content="BookMyCar.live is an independent expert guide for Indian road trips. Read about Rajesh Navsagar's mission to help travelers avoid rental scams and highway fines." />
-        <link rel="canonical" href="https://bookmycar.live/about" />
+        <link rel="canonical" href="https://www.bookmycar.live/about" />
       </Helmet>
       {/* --- Punchy Hero Intro --- */}
       <div className="text-center mb-8 px-4">

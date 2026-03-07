@@ -13,7 +13,7 @@ const Contact: React.FC = () => {
       <Helmet>
         <title>Contact Rajesh Navsagar | BookMyCar.live</title>
         <meta name="description" content="Contact Rajesh Navsagar for personal road trip advice and policy reviews. BookMyCar.live helps you navigate Indian rental rules." />
-        <link rel="canonical" href="https://bookmycar.live/contact" />
+        <link rel="canonical" href="https://www.bookmycar.live/contact" />
       </Helmet>
 
       <div className="text-center mb-10">

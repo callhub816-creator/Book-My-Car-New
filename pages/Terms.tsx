@@ -8,7 +8,7 @@ const Terms: React.FC = () => {
       <Helmet>
         <title>Terms & Conditions | User Agreement | BookMyCar.live</title>
         <meta name="description" content="User Agreement and Terms of Service for BookMyCar.live. Understand the liability regarding road rules and rental advice." />
-        <link rel="canonical" href="https://bookmycar.live/terms" />
+        <link rel="canonical" href="https://www.bookmycar.live/terms" />
       </Helmet>
 
       <div className="max-w-4xl mx-auto px-6 text-gray-800">

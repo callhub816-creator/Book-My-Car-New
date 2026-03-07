@@ -8,7 +8,7 @@ const Privacy: React.FC = () => {
       <Helmet>
         <title>Privacy Policy & AdSense Disclosure | BookMyCar.live</title>
         <meta name="description" content="Privacy Policy for BookMyCar.live. Learn how we protect your data and our transparency regarding Google AdSense cookies." />
-        <link rel="canonical" href="https://bookmycar.live/privacy" />
+        <link rel="canonical" href="https://www.bookmycar.live/privacy" />
       </Helmet>
 
       <div className="max-w-4xl mx-auto px-6 text-gray-800">

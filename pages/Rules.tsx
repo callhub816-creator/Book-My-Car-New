@@ -16,7 +16,7 @@ const Rules: React.FC = () => {
       <Helmet>
         <title>Rental Car Rules & RTO Reality India | BookMyCar.live</title>
         <meta name="description" content="Indian Road Rules & Rental Guidelines 2026. Real-world checking, documentation advice, and black-plate vs white-plate reality." />
-        <link rel="canonical" href="https://bookmycar.live/rules" />
+        <link rel="canonical" href="https://www.bookmycar.live/rules" />
       </Helmet>
 
       <div className="max-w-5xl mx-auto px-4 md:px-8">

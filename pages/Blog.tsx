@@ -22,6 +22,7 @@ const BlogList: React.FC = () => {
       <Helmet>
         <title>Highway Travel Guides & Rental Rules India | BookMyCar.live</title>
         <meta name="description" content="Expert-verified guides for Indian highways, car rental rules, safety checklists, and road trip tips. Written by राजेश नवसागर (Rajesh Navsagar)." />
+        <link rel="canonical" href="https://www.bookmycar.live/blog" />
       </Helmet>
 
       {/* Hero Section */}
@@ -104,7 +105,7 @@ const BlogPostView: React.FC = () => {
     );
   }
 
-  const shareUrl = `https://bookmycar.live/blog/${post.slug}`;
+  const shareUrl = `https://www.bookmycar.live/blog/${post.slug}`;
   const shareTitle = `${post.title} | BookMyCar.live`;
 
   return (
@@ -118,12 +119,12 @@ const BlogPostView: React.FC = () => {
         {/* Open Graph / Social */}
         <meta property="og:title" content={`${post.title} | BookMyCar.live`} />
         <meta property="og:description" content={post.excerpt} />
-        <meta property="og:image" content={`https://bookmycar.live${post.imageUrl}`} />
-        <meta property="og:url" content={`https://bookmycar.live/blog/${post.slug}`} />
+        <meta property="og:image" content={`https://www.bookmycar.live${post.imageUrl}`} />
+        <meta property="og:url" content={`https://www.bookmycar.live/blog/${post.slug}`} />
         <meta property="og:type" content="article" />
 
         {/* Canonical */}
-        <link rel="canonical" href={`https://bookmycar.live/blog/${post.slug}`} />
+        <link rel="canonical" href={`https://www.bookmycar.live/blog/${post.slug}`} />
 
         {/* JSON-LD for SEO */}
         <script type="application/ld+json">
@@ -135,16 +136,16 @@ const BlogPostView: React.FC = () => {
             "author": {
               "@type": "Person",
               "name": post.author,
-              "url": "https://bookmycar.live/about"
+              "url": "https://www.bookmycar.live/about"
             },
             "datePublished": post.date,
-            "image": `https://bookmycar.live${post.imageUrl}`,
+            "image": `https://www.bookmycar.live${post.imageUrl}`,
             "publisher": {
               "@type": "Organization",
               "name": "BookMyCar.live",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://bookmycar.live/logo.png"
+                "url": "https://www.bookmycar.live/logo.png"
               }
             }
           })}

@@ -16,7 +16,7 @@ const Home: React.FC = () => {
       <Helmet>
         <title>BookMyCar.live | Honest Indian Road Trip & Rental Guide</title>
         <meta name="description" content="Stop making expensive road trip mistakes. BookMyCar.live is a human-written guide for Indian driving rules, car rental scams, and highway safety tips." />
-        <link rel="canonical" href="https://bookmycar.live/" />
+        <link rel="canonical" href="https://www.bookmycar.live/" />
       </Helmet>
 
       {/* ================= HERO REFINED (USER FEEDBACK) ================= */}
