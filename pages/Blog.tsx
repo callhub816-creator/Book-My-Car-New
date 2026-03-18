@@ -20,9 +20,10 @@ const BlogList: React.FC = () => {
   return (
     <main className="min-h-screen bg-white">
       <Helmet>
-        <title>Highway Travel Guides & Rental Rules India | BookMyCar.live</title>
-        <meta name="description" content="Expert-verified guides for Indian highways, car rental rules, safety checklists, and road trip tips. Written by राजेश नवसागर (Rajesh Navsagar)." />
+        <title>Indian Highway Survival: Rental Rules, Scams & Safety Guides | BookMyCar.live</title>
+        <meta name="description" content="Master Indian highways with expert-vetted guides. Learn about car rental rules, avoiding damage scams, and RTO regulations (2025-2026). Written by veteran traveler Rajesh Navsagar." />
         <link rel="canonical" href="https://www.bookmycar.live/blog" />
+        <meta name="keywords" content="Rental Scams, Deposit Refunds, Highway Safety, Delhi to Agra road trip cost, Zoomcar hidden charges, self-drive car rental India rules 2025, black plate car rule India, FASTag new rules 2026" />
       </Helmet>
 
       {/* Hero Section */}
@@ -138,6 +139,7 @@ const BlogPostView: React.FC = () => {
               "name": post.author,
               "url": "https://www.bookmycar.live/about"
             },
+            "keywords": post.keywords.join(", ") + ", Rental Scams, Deposit Refunds, Highway Safety, Delhi to Agra road trip cost, Zoomcar hidden charges",
             "datePublished": post.date,
             "image": `https://www.bookmycar.live${post.imageUrl}`,
             "publisher": {

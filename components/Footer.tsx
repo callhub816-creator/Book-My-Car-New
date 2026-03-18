@@ -93,6 +93,23 @@ const Footer: React.FC = () => {
           </div>
 
         </div>
+ 
+        {/* SEO LSI Section (Subtle but Crawlable) */}
+        <div className="mt-10 pt-6 border-t border-white/5 opacity-40 hover:opacity-100 transition-opacity">
+          <p className="text-[9px] text-gray-400 font-bold uppercase tracking-widest mb-2">Knowledge Hub (LSI Tracking):</p>
+          <div className="flex flex-wrap gap-x-4 gap-y-1 text-[9px] text-gray-500 font-medium italic">
+            <span>Delhi to Agra road trip cost</span>
+            <span>Zoomcar hidden charges</span>
+            <span>Rental Scams India</span>
+            <span>Self-drive car RTO rules 2026</span>
+            <span>Highway safety tips India</span>
+            <span>Car rental deposit refund issues</span>
+            <span>Mumbai to Goa road trip NH66 guide</span>
+            <span>Bangalore to Mysore Expressway toll 2026</span>
+            <span>Driving in Leh Ladakh safety checklists</span>
+            <span>How to avoid overspeeding challans India</span>
+          </div>
+        </div>
 
         {/* Bottom Bar */}
         <div className="mt-8 md:mt-6 pt-6 border-t border-white/5 flex justify-center items-center text-center">

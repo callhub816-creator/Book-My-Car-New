@@ -14,9 +14,10 @@ const Home: React.FC = () => {
   return (
     <div className="flex flex-col min-h-screen">
       <Helmet>
-        <title>BookMyCar.live | Honest Indian Road Trip & Rental Guide</title>
-        <meta name="description" content="Stop making expensive road trip mistakes. BookMyCar.live is a human-written guide for Indian driving rules, car rental scams, and highway safety tips." />
+        <title>Indian Road Trip Guide: Avoid Rental Scams, Deposit Refunds & Highway Safety</title>
+        <meta name="description" content="Master Indian highways with BookMyCar.live. Expert guides on avoiding car rental scams, getting security deposit refunds, and highway safety. Human-written road trip veteran advice (2025-2026)." />
         <link rel="canonical" href="https://www.bookmycar.live/" />
+        <meta name="keywords" content="Rental Scams, Deposit Refunds, Highway Safety, Delhi to Agra road trip cost, Zoomcar hidden charges, self-drive car rental India rules 2026, black plate car rule India, RTO permit for self-drive cars, Indian road trip safety guide, FASTag new rules 2025" />
       </Helmet>
 
       {/* ================= HERO REFINED (USER FEEDBACK) ================= */}

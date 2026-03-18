@@ -7,9 +7,10 @@ const About: React.FC = () => {
   return (
     <div className="max-w-5xl mx-auto px-6 pt-6 pb-12">
       <Helmet>
-        <title>About Rajesh & Our Mission | BookMyCar.live</title>
-        <meta name="description" content="BookMyCar.live is an independent expert guide for Indian road trips. Read about Rajesh Navsagar's mission to help travelers avoid rental scams and highway fines." />
+        <title>About Rajesh & Our Mission: Real Road Trip Help | BookMyCar.live</title>
+        <meta name="description" content="BookMyCar.live is an independent expert guide for Indian road trips. Read about Rajesh Navsagar's mission to help travelers avoid rental scams, fix deposit refund issues, and master highway safety." />
         <link rel="canonical" href="https://www.bookmycar.live/about" />
+        <meta name="keywords" content="Rental Scams, Deposit Refunds, Highway Safety, Delhi to Agra road trip cost, Zoomcar hidden charges, self-drive car rental India rules 2026, black plate car rule India, RTO permit for self-drive cars, Indian road trip safety guide" />
       </Helmet>
       {/* --- Punchy Hero Intro --- */}
       <div className="text-center mb-8 px-4">
